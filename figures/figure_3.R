@@ -67,14 +67,6 @@ tidy_getmm=getmm%>%
   gather(-gene,key="sample",value="geTMM")%>%
   filter(geTMM>0)
 
-# z=tidy_getmm%>%
-#   left_join(.,metadata,by=c("sample"="Sample"))%>%
-#   filter(is.na(Treatment)==0)
-# 
-# cat_un_getmm=z%>%select(-Treatment,-Time)%>%
-#   spread(key=sample,value=geTMM,fill=0)
-# write.table(cat_un_getmm,"geTMMs_ge5_1X_REV_26samples.txt",sep = "\t",quote = FALSE,row.names = FALSE)
-
 #add annotations to genes
 tidy_getmm_annos=left_join(tidy_getmm,annotations,by=c("gene"="X"))
 remove(annotations)
