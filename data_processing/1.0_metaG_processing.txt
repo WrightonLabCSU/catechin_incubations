@@ -1,0 +1,200 @@
+# make file of samples
+ls STM_0716_E_M_E0* | sed 's/_MG_R1.fastq.gz//g' | sed 's/_MG_R2.fastq.gz//g' | sort | uniq > samples.txt
+
+#####
+## step 1 - prep reads and qc
+#####
+
+sample=$1
+
+cd ../
+mkdir ${sample}
+cd ${sample}
+mkdir raw_reads
+mkdir processed_reads
+
+cd raw_reads
+cp /home/ORG-Data-2/EMERGE/2022_Incubations_MetaG/230419_A00405_0680_AH5HLKDSX7/${sample}_MG_R* .
+gunzip ${sample}_MG_R*
+fastqc ${sample}_MG_R1.fastq ${sample}_MG_R2.fastq
+
+#####
+## step 2 - trim reads
+#####
+
+sample=$1
+
+cd ../${sample}/processed_reads
+
+sickle pe -f ../raw_reads/${sample}_MG_R1.fastq -r ../raw_reads/${sample}_MG_R2.fastq -t sanger -o ${sample}_MG_R1_trimmed.fastq -p ${sample}_MG_R2_trimmed.fastq -s R1R2_singles.fastq
+# delete the singles file--we dont need it!
+rm R1R2_singles.fastq
+fastqc ${sample}_MG_R1_trimmed.fastq ${sample}_MG_R2_trimmed.fastq
+
+#####
+## step 3 - single sample assemblies
+#####
+
+sample=$1
+cd ../${sample}/
+mkdir assembly
+cd assembly
+mkdir A_megahit
+cd A_megahit
+megahit -1 ../../processed_reads/${sample}_MG_R1_trimmed.fastq -2 ../../processed_reads/${sample}_MG_R2_trimmed.fastq --out-prefix ${sample}_A --k-min 31 --k-max 121 --k-step 10 --mem-flag 1 -m 429496729600 -t 20
+
+
+#####
+## step 4 - bin single sample assemblies
+#####
+
+sample=$1
+
+cd ../${sample}/assembly/A_megahit/megahit_out
+
+# pull scaffolds >= 2500 bp
+pullseq.py -i ${sample}_A.contigs.fa -m 2500 -o ${sample}_A.contigs_2500.fa
+# map to these scaffolds to get sam file
+bbmap.sh -Xmx48G threads=20 overwrite=t ref=${sample}_A.contigs_2500.fa in1=../../../processed_reads/${sample}_MG_R1_trimmed.fastq in2=../../../processed_reads/${sample}_MG_R2_trimmed.fastq out=${sample}_A.contigs_2500_mapped.sam
+# convert sam to bam, and sort
+samtools view -@ 20 -bS ${sample}_A.contigs_2500_mapped.sam > ${sample}_A.contigs_2500_mapped.bam
+samtools sort -T ${sample}_A.contigs_2500_mapped.sorted -o ${sample}_A.contigs_2500_mapped.sorted.bam ${sample}_A.contigs_2500_mapped.bam -@ 20
+# filter for high quality mapping (this step can be tunable and optional)
+reformat.sh -Xmx100g minidfilter=0.99 in=${sample}_A.contigs_2500_mapped.sorted.bam out=${sample}_A.contigs_2500_mapped.99per.sorted.bam pairedonly=t primaryonly=t
+#bin
+runMetaBat.sh ${sample}_A.contigs_2500.fa ${sample}_A.contigs_2500_mapped.99per.sorted.bam
+
+#####
+## step 5 - checkm2 on bins from single sample assemblies
+#####
+
+sample=$1
+
+cd ../${sample}/assembly/A_megahit/megahit_out/${sample}_A.contigs_2500.fa.metabat-bins
+source /opt/Miniconda2/miniconda2/bin/activate checkm2
+checkm2 predict -x fa -i . -o checkm2_v0.1.3 -t 10
+source /opt/Miniconda2/miniconda2/bin/deactivate
+cd checkm2_v0.1.3/
+awk -F "\t" '{if ($2 >49 && $3 <11) print $1 "\t" $2 "\t" $3}' quality_report.tsv > checkm2_mq_hq_mags.txt
+
+
+
+#####
+## step 6 - 2-sample coassemblies
+#####
+
+sample1=$1
+sample2=$2
+
+cd ../
+mkdir ${sample1}_${sample2}
+cd ${sample1}_${sample2}
+mkdir cat_reads
+cd cat_reads
+cat ../../STM_0716_E_M_${sample1}/processed_reads/STM_0716_E_M_${sample1}_MG_R1_trimmed.fastq ../../STM_0716_E_M_${sample2}/processed_reads/STM_0716_E_M_${sample2}_MG_R1_trimmed.fastq > STM_0716_E_M_${sample1}_${sample2}_MG_R1_trimmed.fastq
+cat ../../STM_0716_E_M_${sample1}/processed_reads/STM_0716_E_M_${sample1}_MG_R2_trimmed.fastq ../../STM_0716_E_M_${sample2}/processed_reads/STM_0716_E_M_${sample2}_MG_R2_trimmed.fastq > STM_0716_E_M_${sample1}_${sample2}_MG_R2_trimmed.fastq 
+cd ../
+mkdir assembly
+cd assembly
+mkdir A_megahit
+cd A_megahit
+megahit -1 ../../cat_reads/STM_0716_E_M_${sample1}_${sample2}_MG_R1_trimmed.fastq -2 ../../cat_reads/STM_0716_E_M_${sample1}_${sample2}_MG_R2_trimmed.fastq --out-prefix STM_0716_E_M_${sample1}_${sample2}_A --k-min 41 --k-max 121 --k-step 10 --mem-flag 1 -m 429496729600 -t 20
+
+
+#####
+## step 7 - bin 2-sample coassemblies
+#####
+
+sample1=$1
+sample2=$2
+
+cd ../${sample1}_${sample2}/assembly/A_megahit/megahit_out/
+
+# pull scaffolds >= 2500 bp
+pullseq.py -i STM_0716_E_M_${sample1}_${sample2}_A.contigs.fa -m 2500 -o STM_0716_E_M_${sample1}_${sample2}_A.contigs_2500.fa
+# map to these scaffolds to get sam file
+bbmap.sh -Xmx48G threads=20 overwrite=t ref=STM_0716_E_M_${sample1}_${sample2}_A.contigs_2500.fa in1=../../../cat_reads/STM_0716_E_M_${sample1}_${sample2}_MG_R1_trimmed.fastq in2=../../../cat_reads/STM_0716_E_M_${sample1}_${sample2}_MG_R2_trimmed.fastq out=STM_0716_E_M_${sample1}_${sample2}_A.contigs_2500_mapped.sam
+# convert sam to bam, and sort
+samtools view -@ 20 -bS STM_0716_E_M_${sample1}_${sample2}_A.contigs_2500_mapped.sam > STM_0716_E_M_${sample1}_${sample2}_A.contigs_2500_mapped.bam
+samtools sort -T STM_0716_E_M_${sample1}_${sample2}_A.contigs_2500_mapped.sorted -o STM_0716_E_M_${sample1}_${sample2}_A.contigs_2500_mapped.sorted.bam STM_0716_E_M_${sample1}_${sample2}_A.contigs_2500_mapped.bam -@ 20
+# filter for high quality mapping (this step can be tunable and optional)
+reformat.sh -Xmx100g minidfilter=0.99 in=STM_0716_E_M_${sample1}_${sample2}_A.contigs_2500_mapped.sorted.bam out=STM_0716_E_M_${sample1}_${sample2}_A.contigs_2500_mapped.99per.sorted.bam pairedonly=t primaryonly=t
+#bin
+runMetaBat.sh STM_0716_E_M_${sample1}_${sample2}_A.contigs_2500.fa STM_0716_E_M_${sample1}_${sample2}_A.contigs_2500_mapped.99per.sorted.bam
+
+
+#####
+## step 8 - checkm2 on bins from 2-sample coassemblies
+#####
+
+sample1=$1
+sample2=$2
+
+cd ../${sample1}_${sample2}/assembly/A_megahit/megahit_out/STM_0716_E_M_${sample1}_${sample2}_A.contigs_2500.fa.metabat-bins
+source /opt/Miniconda2/miniconda2/bin/activate checkm2
+checkm2 predict -x fa -i . -o checkm2_v0.1.3 -t 10
+source /opt/Miniconda2/miniconda2/bin/deactivate
+cd checkm2_v0.1.3/
+awk -F "\t" '{if ($2 >49 && $3 <11) print $1 "\t" $2 "\t" $3}' quality_report.tsv > checkm2_mq_hq_mags.txt
+
+
+#####
+## step 9 - 3-sample coassemblies
+#####
+
+sample1=$1
+sample2=$2
+sample3=$3
+mags=$4
+
+cd ../
+mkdir ${sample1}_${sample2}_${sample3}
+cd ${sample1}_${sample2}_${sample3}
+
+# step 1. output unammped reads
+mkdir map_reads
+cd map_reads
+bbmap.sh -Xmx48G threads=20 overwrite=t ref=MAGdb/${mags} in1=../../STM_0716_E_M_${sample1}/processed_reads/STM_0716_E_M_${sample1}_MG_R1_trimmed.fastq in2=../../STM_0716_E_M_${sample1}/processed_reads/STM_0716_E_M_${sample1}_MG_R2_trimmed.fastq outu1=STM_0716_E_M_${sample1}_MG_R1_trimmed_UNMAPPED.fastq outu2=STM_0716_E_M_${sample1}_MG_R2_trimmed_UNMAPPED.fastq semiperfectmode=t
+bbmap.sh -Xmx48G threads=20 overwrite=t ref=MAGdb/${mags} in1=../../STM_0716_E_M_${sample2}/processed_reads/STM_0716_E_M_${sample2}_MG_R1_trimmed.fastq in2=../../STM_0716_E_M_${sample2}/processed_reads/STM_0716_E_M_${sample2}_MG_R2_trimmed.fastq outu1=STM_0716_E_M_${sample2}_MG_R1_trimmed_UNMAPPED.fastq outu2=STM_0716_E_M_${sample2}_MG_R2_trimmed_UNMAPPED.fastq semiperfectmode=t
+bbmap.sh -Xmx48G threads=20 overwrite=t ref=MAGdb/${mags} in1=../../STM_0716_E_M_${sample3}/processed_reads/STM_0716_E_M_${sample3}_R1_trimmed.fastq in2=../../STM_0716_E_M_${sample3}/processed_reads/STM_0716_E_M_${sample3}_R2_trimmed.fastq outu1=STM_0716_E_M_${sample3}_MG_R1_trimmed_UNMAPPED.fastq outu2=STM_0716_E_M_${sample3}_MG_R2_trimmed_UNMAPPED.fastq semiperfectmode=t
+
+# step 2. cat unampepd reads
+cd ../
+mkdir cat_reads
+cd cat_reads
+cat ../map_reads/*R1_trimmed_UNMAPPED.fastq > STM_0716_E_M_${sample1}_${sample2}_${sample3}_MG_R1_trimmed_UNMAPPED.fastq
+cat ../map_reads/*R2_trimmed_UNMAPPED.fastq > STM_0716_E_M_${sample1}_${sample2}_${sample3}_MG_R2_trimmed_UNMAPPED.fastq
+
+# step 3. assemble
+cd ../
+mkdir assembly
+cd assembly
+mkdir D_megahit
+cd D_megahit
+megahit -1 ../../cat_reads/STM_0716_E_M_${sample1}_${sample2}_${sample3}_MG_R1_trimmed_UNMAPPED.fastq -2 ../../cat_reads/STM_0716_E_M_${sample1}_${sample2}_${sample3}_MG_R2_trimmed_UNMAPPED.fastq --out-prefix STM_0716_E_M_${sample1}_${sample2}_${sample3}_D --k-min 41 --k-max 121 --k-step 10 --mem-flag 1 -m 429496729600 -t 20
+
+
+#####
+## step 10 - bin 3-sample coassemblies
+#####
+
+sample1=$1
+sample2=$2
+sample3=$3
+assembly=$4
+
+cd ../${sample1}_${sample2}_${sample3}/assembly/${assembly}_megahit/megahit_out
+
+# pull scaffolds >= 2500 bp
+pullseq.py -i STM_0716_E_M_${sample1}_${sample2}_${sample3}_${assembly}.contigs.fa -m 2500 -o STM_0716_E_M_${sample1}_${sample2}_${sample3}_${assembly}.contigs_2500.fa
+# map to these scaffolds to get sam file
+bbmap.sh -Xmx48G threads=20 overwrite=t ref=STM_0716_E_M_${sample1}_${sample2}_${sample3}_${assembly}.contigs_2500.fa in1=../../../E_reads/STM_0716_E_M_E026_E050_E061_E_R1_UNMAPPED.fastq in2=../../../E_reads/STM_0716_E_M_E026_E050_E061_E_R2_UNMAPPED.fastq out=STM_0716_E_M_${sample1}_${sample2}_${sample3}_${assembly}.contigs_2500_mapped.sam
+# convert sam to bam, and sort
+samtools view -@ 20 -bS STM_0716_E_M_${sample1}_${sample2}_${sample3}_${assembly}.contigs_2500_mapped.sam > STM_0716_E_M_${sample1}_${sample2}_${sample3}_${assembly}.contigs_2500_mapped.bam
+samtools sort -T STM_0716_E_M_${sample1}_${sample2}_${sample3}_${assembly}.contigs_2500_mapped.sorted -o STM_0716_E_M_${sample1}_${sample2}_${sample3}_${assembly}.contigs_2500_mapped.sorted.bam STM_0716_E_M_${sample1}_${sample2}_${sample3}_${assembly}.contigs_2500_mapped.bam -@ 20
+# filter for high quality mapping (this step can be tunable and optional)
+reformat.sh -Xmx100g minidfilter=0.99 in=STM_0716_E_M_${sample1}_${sample2}_${sample3}_${assembly}.contigs_2500_mapped.sorted.bam out=STM_0716_E_M_${sample1}_${sample2}_${sample3}_${assembly}.contigs_2500_mapped.99per.sorted.bam pairedonly=t primaryonly=t
+#bin
+runMetaBat.sh STM_0716_E_M_${sample1}_${sample2}_${sample3}_${assembly}.contigs_2500.fa STM_0716_E_M_${sample1}_${sample2}_${sample3}_${assembly}.contigs_2500_mapped.99per.sorted.bam
+
+
