@@ -104,9 +104,6 @@ k3=k2%>%
   mutate(camper_rank=ifelse(gene=="STM_0716_E_M_E034_A_bin.10_k121_1879983_13","A",camper_rank))%>%
   mutate(camper_rank=ifelse(gene=="STM_0716_E_M_E034_A_bin.10_k121_1974006_42","A",camper_rank))%>%
   mutate(camper_rank=ifelse(gene=="STM_0716_E_M_E034_A_bin.10_k121_2595405_107","A",camper_rank))
-#k4=k3%>%
-  left_join(.,camper,by="annotation",relationship = "many-to-many")
-
 
 # plot dynamics of genes for figure
 figure_genes=read_excel("Supplementary_Data_3.xlsx",sheet="catechin_genes")
