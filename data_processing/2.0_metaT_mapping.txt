@@ -1,0 +1,24 @@
+#step 1. trim reads
+bbduk.sh threads=12 overwrite=t in=../JGI_raw_reads/"$i".fastq.gz ktrim=r k=23 mink=11 hdist=1 qtrim=rl trimq=20 minlength=75 ref=/opt/bbtools/bbmap/resources/adapters.fa out1="$i"_JGI_MT_R1_bbdtrimmed.fastq out2="$i"_JGI_MT_R2_bbdtrimmed.fastq
+
+#step 2: subsample reads to 100M
+reformat.sh in="$i"_JGI_MT_R1_bbdtrimmed.fastq in2="$i"_JGI_MT_R2_bbdtrimmed.fastq out1=trimmed_100M/"$i"_JGI_MT_R1_bbdtrimmed_100M.fastq out2=trimmed_100M/"$i"_JGI_MT_R2_bbdtrimmed_100M.fastq -sampleseed=1234 -samplereadstarget=50000000
+
+#step 3. make MAG database
+bowtie2-build 2302MAGs.fa 2302MAGs_DB --large-index --threads 15
+
+#step 4. map to MAGs
+bowtie2 -D 10 -R 2 -N 1 -L 22 -i S,0,2.50 -p 20 -x bowtie_DB/2302MAGs_DB -S "$i"_2302MAGs_100M.sam -1 ../trimmed_jgi_reads/trimmed_100M/"$i"_JGI_MT_R1_bbdtrimmed_100M.fastq -2 ../trimmed_jgi_reads/trimmed_100M/"$i"_JGI_MT_R2_bbdtrimmed_100M.fastq
+samtools view -@ 20 -bS "$i"_2302MAGs_100M.sam > "$i"_2302MAGs_100M.bam
+reformat.sh -Xmx100g idfilter=0.97 in="$i"_2302MAGs_100M.bam out="$i"_2302MAGs_100M_97.FILTERED.bam pairedonly=t primaryonly=t
+rm "$i".sam
+samtools sort -n -T "$i"_2302MAGs_100M_97.FILTERED.NAMESORTED -o "$i"_2302MAGs_100M_97.FILTERED.NAMESORTED.bam "$i"_2302MAGs_100M_97.FILTERED.bam -@ 20
+
+#step 5. htseq-count
+htseq-count -a 0 -t CDS -i ID --stranded=reverse -c htseq_2302MAGs_100M_97_REVSTRANDED.txt *NAMESORTED.bam genes.gff
+
+#step 6. clean up output file
+awk -F "\t" '$2+$3+$4+$5+$6+$8+$9+$10+$11+$12+$13+$14+$15+$16+$17+$18+$19+$20+$21+$22+$23+$24+$25+$26+$27+$28+$29+$30+$31+$32+$33+$34+$35+$36+$37+$38+$39>0' htseq_2302MAGs_100M_97_REVSTRANDED.txt > htseq_2302MAGs_100M_97_REVSTRANDED_no0s.txt
+
+#step 7. get gene lengths from gff
+grep -v '^#' genes.gff | sed 's,;,\t,g' | sed 's/ID=//g' | awk -F "\t" '{print $9 "\t" $5-$4+1}' > gene_lengths.txt
