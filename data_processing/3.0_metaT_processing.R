@@ -9,7 +9,7 @@ library(ggplot2)
 
 # read in htseq table
 # this table has rows with all zeros removed
-# find this table on zenodo: 10.5281/zenodo.13375971
+# find this table on zenodo: https://doi.org/10.5281/zenodo.13937409
 counts = read.delim("htseq_2302MAGs_100M_97_REVSTRANDED_no0s.txt",sep="\t",header = FALSE)
 colnames(counts)=c("gene","STM_0716_E_M_E002","STM_0716_E_M_E003","STM_0716_E_M_E004","STM_0716_E_M_E025","STM_0716_E_M_E027","STM_0716_E_M_E033","STM_0716_E_M_E034","STM_0716_E_M_E035","STM_0716_E_M_E050","STM_0716_E_M_E051","STM_0716_E_M_E052","STM_0716_E_M_E058","STM_0716_E_M_E059","STM_0716_E_M_E060","STM_0716_E_M_E062","STM_0716_E_M_E063","STM_0716_E_M_E064","STM_0716_E_M_E070","STM_0716_E_M_E071","STM_0716_E_M_E072","STM_0716_E_M_E121","STM_0716_E_M_E122","STM_0716_E_M_E123","STM_0716_E_M_E129","STM_0716_E_M_E130","STM_0716_E_M_E131")
 
@@ -34,7 +34,7 @@ counts=counts[1:1760696,]
 row.names(counts)=counts[,1]
 counts=counts[,-1]
 
-# read in gene lengths
+# read in gene lengths- get this here: https://doi.org/10.5281/zenodo.13936221
 len=read.delim("gene_lengths.txt",sep="\t",header = FALSE)
 colnames(len)=c("gene","length")
 
