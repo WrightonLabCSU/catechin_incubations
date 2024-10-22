@@ -1,0 +1,2262 @@
+label	sequence	code	agreement	type	reference	HYDDB
+STM_0716_S_M_E013_D_bin.53_k121_769071_1	STM_0716_S_M_E013_D_bin.53_k121_769071_1	A	1	fefe_A	no	fefe_A
+STM_0716_S_M_E013_A_bin.70_k121_1890232_8	STM_0716_S_M_E013_A_bin.70_k121_1890232_8	A	1	fefe_A	no	fefe_A
+STM_0716_S_M_E013_A_bin.70_k121_1890232_6	STM_0716_S_M_E013_A_bin.70_k121_1890232_6	A	1	fefe_A	no	fefe_A
+STM_0716_S_M_E013_A_bin.61_k121_1304927_1	STM_0716_S_M_E013_A_bin.61_k121_1304927_1	A	1	fefe_A	no	fefe_A
+STM_0716_S_M_E013_A_bin.58_k121_1939325_6	STM_0716_S_M_E013_A_bin.58_k121_1939325_6	A	1	fefe_A	no	fefe_A
+STM_0716_S_M_E013_A_bin.58_k121_1227744_3	STM_0716_S_M_E013_A_bin.58_k121_1227744_3	A	1	fefe_A	no	fefe_A
+STM_0716_S_M_E013_A_bin.31_k121_411081_3	STM_0716_S_M_E013_A_bin.31_k121_411081_3	A	1	fefe_A	no	fefe_A
+STM_0716_S_M_E013_A_bin.31_k121_1781844_8	STM_0716_S_M_E013_A_bin.31_k121_1781844_8	A	1	fefe_A	no	fefe_A
+STM_0716_S_M_E013_A_bin.31_k121_1250688_7	STM_0716_S_M_E013_A_bin.31_k121_1250688_7	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E069_I_bin.13_k121_359970_19	STM_0716_E_M_E069_I_bin.13_k121_359970_19	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E069_E065_D_bin.10_k121_7502123_3	STM_0716_E_M_E069_E065_D_bin.10_k121_7502123_3	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E069_E065_D_bin.10_k121_6638483_3	STM_0716_E_M_E069_E065_D_bin.10_k121_6638483_3	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E069_E065_A_bin.67_k121_773211_3	STM_0716_E_M_E069_E065_A_bin.67_k121_773211_3	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E069_E065_A_bin.67_k121_13288_8	STM_0716_E_M_E069_E065_A_bin.67_k121_13288_8	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E069_E065_A_bin.42_k121_2237198_2	STM_0716_E_M_E069_E065_A_bin.42_k121_2237198_2	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E069_E061_E_bin.70_k121_4242862_3	STM_0716_E_M_E069_E061_E_bin.70_k121_4242862_3	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E069_E061_E_bin.70_k121_233145_1	STM_0716_E_M_E069_E061_E_bin.70_k121_233145_1	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E069_E061_E_bin.45_k121_5820487_12	STM_0716_E_M_E069_E061_E_bin.45_k121_5820487_12	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E069_E061_E_bin.45_k121_5520984_6	STM_0716_E_M_E069_E061_E_bin.45_k121_5520984_6	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E069_E061_E_bin.45_k121_4772727_12	STM_0716_E_M_E069_E061_E_bin.45_k121_4772727_12	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E069_E061_A_bin.81_k121_5829083_5	STM_0716_E_M_E069_E061_A_bin.81_k121_5829083_5	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E069_E061_A_bin.36_k121_2290110_4	STM_0716_E_M_E069_E061_A_bin.36_k121_2290110_4	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E069_D_bin.56_k121_830096_1	STM_0716_E_M_E069_D_bin.56_k121_830096_1	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E069_D_bin.56_k121_757645_2	STM_0716_E_M_E069_D_bin.56_k121_757645_2	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E069_D_bin.56_k121_381628_19	STM_0716_E_M_E069_D_bin.56_k121_381628_19	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E069_D_bin.56_k121_2155346_8	STM_0716_E_M_E069_D_bin.56_k121_2155346_8	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E069_D_bin.35_k121_3010271_3	STM_0716_E_M_E069_D_bin.35_k121_3010271_3	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E069_A_bin.67_k121_3122636_4	STM_0716_E_M_E069_A_bin.67_k121_3122636_4	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E069_A_bin.67_k121_2251611_3	STM_0716_E_M_E069_A_bin.67_k121_2251611_3	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E069_A_bin.67_k121_1435476_6	STM_0716_E_M_E069_A_bin.67_k121_1435476_6	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E069_A_bin.45_k121_3227409_10	STM_0716_E_M_E069_A_bin.45_k121_3227409_10	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E069_A_bin.28_k121_662300_1	STM_0716_E_M_E069_A_bin.28_k121_662300_1	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E069_A_bin.22_k121_2203326_4	STM_0716_E_M_E069_A_bin.22_k121_2203326_4	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E065_A_bin.49_k121_2822279_39	STM_0716_E_M_E065_A_bin.49_k121_2822279_39	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E065_A_bin.37_k121_2856859_33	STM_0716_E_M_E065_A_bin.37_k121_2856859_33	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E061_A_bin.35_k121_707964_3	STM_0716_E_M_E061_A_bin.35_k121_707964_3	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E061_A_bin.35_k121_1582210_14	STM_0716_E_M_E061_A_bin.35_k121_1582210_14	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E061_A_bin.32_k121_1305792_9	STM_0716_E_M_E061_A_bin.32_k121_1305792_9	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E061_A_bin.22_k121_533111_5	STM_0716_E_M_E061_A_bin.22_k121_533111_5	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E061_A_bin.16_k121_1766522_1	STM_0716_E_M_E061_A_bin.16_k121_1766522_1	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E058_A_bin.18_k121_689863_31	STM_0716_E_M_E058_A_bin.18_k121_689863_31	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E054_A_bin.52_k121_177932_5	STM_0716_E_M_E054_A_bin.52_k121_177932_5	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E054_A_bin.28_k121_2421815_1	STM_0716_E_M_E054_A_bin.28_k121_2421815_1	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E054_A_bin.21_k121_4220562_15	STM_0716_E_M_E054_A_bin.21_k121_4220562_15	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E054_A_bin.21_k121_4128654_1	STM_0716_E_M_E054_A_bin.21_k121_4128654_1	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E050_E054_E058_A_bin.69_k121_3443351_33	STM_0716_E_M_E050_E054_E058_A_bin.69_k121_3443351_33	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E050_E054_E058_A_bin.28_k121_3657140_65	STM_0716_E_M_E050_E054_E058_A_bin.28_k121_3657140_65	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E050_E054_E058_A_bin.183_k121_4885967_2	STM_0716_E_M_E050_E054_E058_A_bin.183_k121_4885967_2	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E050_E054_E058_A_bin.171_k121_6753585_13	STM_0716_E_M_E050_E054_E058_A_bin.171_k121_6753585_13	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E050_E054_E058_A_bin.148_k121_4986404_2	STM_0716_E_M_E050_E054_E058_A_bin.148_k121_4986404_2	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E050_E054_E058_A_bin.146_k121_636412_17	STM_0716_E_M_E050_E054_E058_A_bin.146_k121_636412_17	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E050_E054_E058_A_bin.141_k121_1641186_9	STM_0716_E_M_E050_E054_E058_A_bin.141_k121_1641186_9	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E050_E054_E058_A_bin.118_k121_6543822_6	STM_0716_E_M_E050_E054_E058_A_bin.118_k121_6543822_6	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E050_E054_E058_A_bin.118_k121_2938374_7	STM_0716_E_M_E050_E054_E058_A_bin.118_k121_2938374_7	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E050_E054_E058_A_bin.111_k121_5978574_4	STM_0716_E_M_E050_E054_E058_A_bin.111_k121_5978574_4	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E050_E054_E058_A_bin.111_k121_3211777_2	STM_0716_E_M_E050_E054_E058_A_bin.111_k121_3211777_2	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E034_E058_E069_D_bin.93_k121_8747240_8	STM_0716_E_M_E034_E058_E069_D_bin.93_k121_8747240_8	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E034_E058_E069_D_bin.77_k121_909892_3	STM_0716_E_M_E034_E058_E069_D_bin.77_k121_909892_3	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E034_E058_E069_D_bin.77_k121_4897179_2	STM_0716_E_M_E034_E058_E069_D_bin.77_k121_4897179_2	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E034_E058_E069_D_bin.77_k121_2697678_1	STM_0716_E_M_E034_E058_E069_D_bin.77_k121_2697678_1	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E034_E058_A_bin.85_k121_713754_22	STM_0716_E_M_E034_E058_A_bin.85_k121_713754_22	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E034_E058_A_bin.33_k121_2653289_18	STM_0716_E_M_E034_E058_A_bin.33_k121_2653289_18	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E034_E058_A_bin.128_k121_3456198_3	STM_0716_E_M_E034_E058_A_bin.128_k121_3456198_3	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E034_E058_A_bin.12_k121_5095904_4	STM_0716_E_M_E034_E058_A_bin.12_k121_5095904_4	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E034_E058_A_bin.12_k121_3615863_4	STM_0716_E_M_E034_E058_A_bin.12_k121_3615863_4	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E034_A_bin.10_k121_955452_12	STM_0716_E_M_E034_A_bin.10_k121_955452_12	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E034_A_bin.10_k121_2595405_104	STM_0716_E_M_E034_A_bin.10_k121_2595405_104	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E034_A_bin.10_k121_2042154_7	STM_0716_E_M_E034_A_bin.10_k121_2042154_7	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E034_A_bin.1_k121_236618_6	STM_0716_E_M_E034_A_bin.1_k121_236618_6	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E034_A_bin.1_k121_1708057_1	STM_0716_E_M_E034_A_bin.1_k121_1708057_1	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E030_E054_E065_D_bin.82_k121_6291661_2	STM_0716_E_M_E030_E054_E065_D_bin.82_k121_6291661_2	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E030_E054_E065_D_bin.82_k121_10135067_4	STM_0716_E_M_E030_E054_E065_D_bin.82_k121_10135067_4	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E026_E050_A_bin.98_k121_4110801_3	STM_0716_E_M_E026_E050_A_bin.98_k121_4110801_3	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E026_E030_E034_D_multi_bin.57_k121_7369993_8	STM_0716_E_M_E026_E030_E034_D_multi_bin.57_k121_7369993_8	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E026_E030_E034_D_multi_bin.57_k121_4062144_2	STM_0716_E_M_E026_E030_E034_D_multi_bin.57_k121_4062144_2	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E026_E030_E034_D_multi_bin.46_k121_7796814_2	STM_0716_E_M_E026_E030_E034_D_multi_bin.46_k121_7796814_2	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E026_E030_E034_D_multi_bin.46_k121_6132196_4	STM_0716_E_M_E026_E030_E034_D_multi_bin.46_k121_6132196_4	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E026_E030_E034_D_multi_bin.46_k121_5679176_2	STM_0716_E_M_E026_E030_E034_D_multi_bin.46_k121_5679176_2	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E026_E030_E034_D_multi_bin.46_k121_1893340_2	STM_0716_E_M_E026_E030_E034_D_multi_bin.46_k121_1893340_2	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E026_E030_E034_D_multi_bin.12_k121_1305298_3	STM_0716_E_M_E026_E030_E034_D_multi_bin.12_k121_1305298_3	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E026_E030_E034_A_multi_bin.58_k121_640814_4	STM_0716_E_M_E026_E030_E034_A_multi_bin.58_k121_640814_4	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E026_E030_E034_A_multi_bin.55_k121_7405643_6	STM_0716_E_M_E026_E030_E034_A_multi_bin.55_k121_7405643_6	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E026_E030_E034_A_multi_bin.55_k121_5271180_4	STM_0716_E_M_E026_E030_E034_A_multi_bin.55_k121_5271180_4	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E026_E030_E034_A_multi_bin.44_k121_8209102_11	STM_0716_E_M_E026_E030_E034_A_multi_bin.44_k121_8209102_11	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E026_E030_E034_A_multi_bin.110_k121_5127053_3	STM_0716_E_M_E026_E030_E034_A_multi_bin.110_k121_5127053_3	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E026_E030_E034_A_bin.150_k121_3568991_2	STM_0716_E_M_E026_E030_E034_A_bin.150_k121_3568991_2	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E026_E030_E034_A_bin.136_k121_6909657_43	STM_0716_E_M_E026_E030_E034_A_bin.136_k121_6909657_43	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E026_A_bin.32_k121_1195156_8	STM_0716_E_M_E026_A_bin.32_k121_1195156_8	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E001_E061_E_bin.25_k121_795448_2	STM_0716_E_M_E001_E061_E_bin.25_k121_795448_2	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E001_E061_A_bin.34_k121_4620399_15	STM_0716_E_M_E001_E061_A_bin.34_k121_4620399_15	A	1	fefe_A	no	fefe_A
+STM_0716_E_M_E001_E061_A_bin.20_k121_893224_5	STM_0716_E_M_E001_E061_A_bin.20_k121_893224_5	A	1	fefe_A	no	fefe_A
+PMZX01_ENA_PMZX01000489_PMZX01000489.1_22	PMZX01_ENA|PMZX01000489|PMZX01000489.1_22	A	1	fefe_A	no	fefe_A
+PMNP01_ENA_PMNP01000246_PMNP01000246.1_23	PMNP01_ENA|PMNP01000246|PMNP01000246.1_23	A	1	fefe_A	no	fefe_A
+PMNH01_ENA_PMNH01000276_PMNH01000276.1_2	PMNH01_ENA|PMNH01000276|PMNH01000276.1_2	A	1	fefe_A	no	fefe_A
+PMLA01_ENA_PMLA01000047_PMLA01000047.1_106	PMLA01_ENA|PMLA01000047|PMLA01000047.1_106	A	1	fefe_A	no	fefe_A
+PMKN01_ENA_PMKN01000049_PMKN01000049.1_2	PMKN01_ENA|PMKN01000049|PMKN01000049.1_2	A	1	fefe_A	no	fefe_A
+PMJF01_ENA_PMJF01000067_PMJF01000067.1_31	PMJF01_ENA|PMJF01000067|PMJF01000067.1_31	A	1	fefe_A	no	fefe_A
+PMEC01_ENA_PMEC01000156_PMEC01000156.1_20	PMEC01_ENA|PMEC01000156|PMEC01000156.1_20	A	1	fefe_A	no	fefe_A
+PMDY01_ENA_PMDY01000776_PMDY01000776.1_5	PMDY01_ENA|PMDY01000776|PMDY01000776.1_5	A	1	fefe_A	no	fefe_A
+PMDS01_ENA_PMDS01000077_PMDS01000077.1_124	PMDS01_ENA|PMDS01000077|PMDS01000077.1_124	A	1	fefe_A	no	fefe_A
+PMDS01_ENA_PMDS01000077_PMDS01000077.1_117	PMDS01_ENA|PMDS01000077|PMDS01000077.1_117	A	1	fefe_A	no	fefe_A
+PMDB01_ENA_PMDB01000091_PMDB01000091.1_25	PMDB01_ENA|PMDB01000091|PMDB01000091.1_25	A	1	fefe_A	no	fefe_A
+PMCM01_ENA_PMCM01000218_PMCM01000218.1_7	PMCM01_ENA|PMCM01000218|PMCM01000218.1_7	A	1	fefe_A	no	fefe_A
+PMCI01_ENA_PMCI01000433_PMCI01000433.1_14	PMCI01_ENA|PMCI01000433|PMCI01000433.1_14	A	1	fefe_A	no	fefe_A
+PMCE01_ENA_PMCE01000174_PMCE01000174.1_52	PMCE01_ENA|PMCE01000174|PMCE01000174.1_52	A	1	fefe_A	no	fefe_A
+PMCB01_ENA_PMCB01000046_PMCB01000046.1_8	PMCB01_ENA|PMCB01000046|PMCB01000046.1_8	A	1	fefe_A	no	fefe_A
+PMCA01_ENA_PMCA01000005_PMCA01000005.1_112	PMCA01_ENA|PMCA01000005|PMCA01000005.1_112	A	1	fefe_A	no	fefe_A
+PMBY01_ENA_PMBY01000002_PMBY01000002.1_4	PMBY01_ENA|PMBY01000002|PMBY01000002.1_4	A	1	fefe_A	no	fefe_A
+PMBX01_ENA_PMBX01000178_PMBX01000178.1_9	PMBX01_ENA|PMBX01000178|PMBX01000178.1_9	A	1	fefe_A	no	fefe_A
+PMBS01_ENA_PMBS01000264_PMBS01000264.1_14	PMBS01_ENA|PMBS01000264|PMBS01000264.1_14	A	1	fefe_A	no	fefe_A
+PLWQ01_ENA_PLWQ01000018_PLWQ01000018.1_25	PLWQ01_ENA|PLWQ01000018|PLWQ01000018.1_25	A	1	fefe_A	no	fefe_A
+PLWQ01_ENA_PLWQ01000018_PLWQ01000018.1_14	PLWQ01_ENA|PLWQ01000018|PLWQ01000018.1_14	A	1	fefe_A	no	fefe_A
+PLTW01_ENA_PLTW01000021_PLTW01000021.1_23	PLTW01_ENA|PLTW01000021|PLTW01000021.1_23	A	1	fefe_A	no	fefe_A
+PLTW01_ENA_PLTW01000021_PLTW01000021.1_15	PLTW01_ENA|PLTW01000021|PLTW01000021.1_15	A	1	fefe_A	no	fefe_A
+PLSJ01_ENA_PLSJ01000065_PLSJ01000065.1_10	PLSJ01_ENA|PLSJ01000065|PLSJ01000065.1_10	A	1	fefe_A	no	fefe_A
+PLPO01_ENA_PLPO01000113_PLPO01000113.1_7	PLPO01_ENA|PLPO01000113|PLPO01000113.1_7	A	1	fefe_A	no	fefe_A
+PLNZ01_ENA_PLNZ01000217_PLNZ01000217.1_9	PLNZ01_ENA|PLNZ01000217|PLNZ01000217.1_9	A	1	fefe_A	no	fefe_A
+PLNZ01_ENA_PLNZ01000217_PLNZ01000217.1_2	PLNZ01_ENA|PLNZ01000217|PLNZ01000217.1_2	A	1	fefe_A	no	fefe_A
+PLNW01_ENA_PLNW01000160_PLNW01000160.1_38	PLNW01_ENA|PLNW01000160|PLNW01000160.1_38	A	1	fefe_A	no	fefe_A
+PLNT01_ENA_PLNT01000016_PLNT01000016.1_135	PLNT01_ENA|PLNT01000016|PLNT01000016.1_135	A	1	fefe_A	no	fefe_A
+PLNT01_ENA_PLNT01000009_PLNT01000009.1_82	PLNT01_ENA|PLNT01000009|PLNT01000009.1_82	A	1	fefe_A	no	fefe_A
+PLNR01_ENA_PLNR01000010_PLNR01000010.1_53	PLNR01_ENA|PLNR01000010|PLNR01000010.1_53	A	1	fefe_A	no	fefe_A
+PLNR01_ENA_PLNR01000006_PLNR01000006.1_180	PLNR01_ENA|PLNR01000006|PLNR01000006.1_180	A	1	fefe_A	no	fefe_A
+PLMQ01_ENA_PLMQ01000023_PLMQ01000023.1_56	PLMQ01_ENA|PLMQ01000023|PLMQ01000023.1_56	A	1	fefe_A	no	fefe_A
+PLMK01_ENA_PLMK01000006_PLMK01000006.1_63	PLMK01_ENA|PLMK01000006|PLMK01000006.1_63	A	1	fefe_A	no	fefe_A
+PLLM01_ENA_PLLM01000057_PLLM01000057.1_44	PLLM01_ENA|PLLM01000057|PLLM01000057.1_44	A	1	fefe_A	no	fefe_A
+PLLE01_ENA_PLLE01000029_PLLE01000029.1_3	PLLE01_ENA|PLLE01000029|PLLE01000029.1_3	A	1	fefe_A	no	fefe_A
+PKYG01_ENA_PKYG01000029_PKYG01000029.1_20	PKYG01_ENA|PKYG01000029|PKYG01000029.1_20	A	1	fefe_A	no	fefe_A
+PKWP01_ENA_PKWP01000493_PKWP01000493.1_1	PKWP01_ENA|PKWP01000493|PKWP01000493.1_1	A	1	fefe_A	no	fefe_A
+Fen.Unlabelled.R3.T3.F1.trimmomatic.metaspades_bin.86_81.81_1.08_NODE_17203_length_4628_cov_14.124207_1	Fen.Unlabelled.R3.T3.F1.trimmomatic.metaspades_bin.86_81.81_1.08_NODE_17203_length_4628_cov_14.124207_1	A	1	fefe_A	no	fefe_A
+Fen.Unlabelled.R3.T3.F1.trimmomatic.metaspades_bin.86_81.81_1.08_NODE_15774_length_4900_cov_16.088545_4	Fen.Unlabelled.R3.T3.F1.trimmomatic.metaspades_bin.86_81.81_1.08_NODE_15774_length_4900_cov_16.088545_4	A	1	fefe_A	no	fefe_A
+Fen.Unlabelled.R3.T3.F1.trimmomatic.metaspades_bin.59_95.75_1.35_NODE_408_length_44852_cov_12.636650_28	Fen.Unlabelled.R3.T3.F1.trimmomatic.metaspades_bin.59_95.75_1.35_NODE_408_length_44852_cov_12.636650_28	A	1	fefe_A	no	fefe_A
+Fen.Unlabelled.R3.T3.F1.trimmomatic.metaspades_bin.47_85.60_2.42_NODE_2509_length_15522_cov_7.080300_5	Fen.Unlabelled.R3.T3.F1.trimmomatic.metaspades_bin.47_85.60_2.42_NODE_2509_length_15522_cov_7.080300_5	A	1	fefe_A	no	fefe_A
+Fen.Unlabelled.R3.T3.F1.trimmomatic.metaspades_bin.47_85.60_2.42_NODE_2509_length_15522_cov_7.080300_2	Fen.Unlabelled.R3.T3.F1.trimmomatic.metaspades_bin.47_85.60_2.42_NODE_2509_length_15522_cov_7.080300_2	A	1	fefe_A	no	fefe_A
+Fen.Unlabelled.R3.T3.F1.trimmomatic.metaspades_bin.36_72.59_0.89_NODE_7505_length_7880_cov_4.728435_2	Fen.Unlabelled.R3.T3.F1.trimmomatic.metaspades_bin.36_72.59_0.89_NODE_7505_length_7880_cov_4.728435_2	A	1	fefe_A	no	fefe_A
+Fen.Unlabelled.R3.T3.F1.trimmomatic.metaspades_bin.36_72.59_0.89_NODE_12615_length_5656_cov_4.581860_1	Fen.Unlabelled.R3.T3.F1.trimmomatic.metaspades_bin.36_72.59_0.89_NODE_12615_length_5656_cov_4.581860_1	A	1	fefe_A	no	fefe_A
+Fen.Unlabelled.R3.T2.F3.trimmomatic.metaspades_bin.10_74.46_4.17_NODE_9404_length_2894_cov_4.182811_3	Fen.Unlabelled.R3.T2.F3.trimmomatic.metaspades_bin.10_74.46_4.17_NODE_9404_length_2894_cov_4.182811_3	A	1	fefe_A	no	fefe_A
+Fen.Unlabelled.R3.T2.F3.trimmomatic.metaspades_bin.10_74.46_4.17_NODE_1058_length_10538_cov_5.403033_4	Fen.Unlabelled.R3.T2.F3.trimmomatic.metaspades_bin.10_74.46_4.17_NODE_1058_length_10538_cov_5.403033_4	A	1	fefe_A	no	fefe_A
+Fen.Unlabelled.R3.T1.F2.trimmomatic.metaspades_bin.17_87.24_2.27_NODE_2686_length_7264_cov_6.683035_2	Fen.Unlabelled.R3.T1.F2.trimmomatic.metaspades_bin.17_87.24_2.27_NODE_2686_length_7264_cov_6.683035_2	A	1	fefe_A	no	fefe_A
+Fen.Unlabelled.R2.T3.F2.trimmomatic.metaspades_bin.22_97.12_0.14_NODE_324_length_38487_cov_5.173866_15	Fen.Unlabelled.R2.T3.F2.trimmomatic.metaspades_bin.22_97.12_0.14_NODE_324_length_38487_cov_5.173866_15	A	1	fefe_A	no	fefe_A
+Fen.Unlabelled.R2.T3.F2.trimmomatic.metaspades_bin.22_97.12_0.14_NODE_2788_length_10516_cov_4.425294_7	Fen.Unlabelled.R2.T3.F2.trimmomatic.metaspades_bin.22_97.12_0.14_NODE_2788_length_10516_cov_4.425294_7	A	1	fefe_A	no	fefe_A
+Fen.Unlabelled.R2.T3.F2.trimmomatic.metaspades_bin.22_97.12_0.14_NODE_247_length_44182_cov_5.578739_10	Fen.Unlabelled.R2.T3.F2.trimmomatic.metaspades_bin.22_97.12_0.14_NODE_247_length_44182_cov_5.578739_10	A	1	fefe_A	no	fefe_A
+Fen.Unlabelled.R2.T3.F2.trimmomatic.metaspades_bin.10_87.59_0.24_NODE_4931_length_7462_cov_5.495747_6	Fen.Unlabelled.R2.T3.F2.trimmomatic.metaspades_bin.10_87.59_0.24_NODE_4931_length_7462_cov_5.495747_6	A	1	fefe_A	no	fefe_A
+Fen.Unlabelled.R2.T3.F2.trimmomatic.metaspades_bin.10_87.59_0.24_NODE_4136_length_8246_cov_6.511537_3	Fen.Unlabelled.R2.T3.F2.trimmomatic.metaspades_bin.10_87.59_0.24_NODE_4136_length_8246_cov_6.511537_3	A	1	fefe_A	no	fefe_A
+Fen.Unlabelled.R2.T3.F2.trimmomatic.metaspades_bin.1_83.87_1.79_NODE_5499_length_6998_cov_176.766527_3	Fen.Unlabelled.R2.T3.F2.trimmomatic.metaspades_bin.1_83.87_1.79_NODE_5499_length_6998_cov_176.766527_3	A	1	fefe_A	no	fefe_A
+Fen.Unlabelled.R2.T3.F2.trimmomatic.megahit_bin.2_88.97_0.00_k141_92396_2	Fen.Unlabelled.R2.T3.F2.trimmomatic.megahit_bin.2_88.97_0.00_k141_92396_2	A	1	fefe_A	no	fefe_A
+Fen.Unlabelled.R2.T3.F2.trimmomatic.megahit_bin.15_70.76_3.55_k141_29521_2	Fen.Unlabelled.R2.T3.F2.trimmomatic.megahit_bin.15_70.76_3.55_k141_29521_2	A	1	fefe_A	no	fefe_A
+Fen.Unlabelled.R2.T3.F1.trimmomatic.megahit_bin.57_76.38_6.90_k141_569629_2	Fen.Unlabelled.R2.T3.F1.trimmomatic.megahit_bin.57_76.38_6.90_k141_569629_2	A	1	fefe_A	no	fefe_A
+Fen.Unlabelled.R2.T3.F1.trimmomatic.megahit_bin.57_76.38_6.90_k141_1183238_6	Fen.Unlabelled.R2.T3.F1.trimmomatic.megahit_bin.57_76.38_6.90_k141_1183238_6	A	1	fefe_A	no	fefe_A
+Fen.Unlabelled.R2.T3.F1.trimmomatic.megahit_bin.50_75.54_2.15_k141_756216_1	Fen.Unlabelled.R2.T3.F1.trimmomatic.megahit_bin.50_75.54_2.15_k141_756216_1	A	1	fefe_A	no	fefe_A
+Fen.Unlabelled.R2.T3.F1.JGI.BFC.metaspades_bin.57_85.17_9.86_scaffold_621_c1_6	Fen.Unlabelled.R2.T3.F1.JGI.BFC.metaspades_bin.57_85.17_9.86_scaffold_621_c1_6	A	1	fefe_A	no	fefe_A
+Fen.Unlabelled.R2.T3.F1.JGI.BFC.metaspades_bin.57_85.17_9.86_scaffold_1167_c1_5	Fen.Unlabelled.R2.T3.F1.JGI.BFC.metaspades_bin.57_85.17_9.86_scaffold_1167_c1_5	A	1	fefe_A	no	fefe_A
+Fen.Unlabelled.R2.T1.F1.trimmomatic.megahit_bin.27_91.70_2.68_k141_1214726_11	Fen.Unlabelled.R2.T1.F1.trimmomatic.megahit_bin.27_91.70_2.68_k141_1214726_11	A	1	fefe_A	no	fefe_A
+Fen.Unlabelled.R2.T1.F1.trimmomatic.megahit_bin.27_91.70_2.68_k141_1066524_6	Fen.Unlabelled.R2.T1.F1.trimmomatic.megahit_bin.27_91.70_2.68_k141_1066524_6	A	1	fefe_A	no	fefe_A
+Fen.Unlabelled.R1.T3.F1.trimmomatic.metaspades_bin.62_83.80_1.99_NODE_3762_length_10294_cov_4.405411_6	Fen.Unlabelled.R1.T3.F1.trimmomatic.metaspades_bin.62_83.80_1.99_NODE_3762_length_10294_cov_4.405411_6	A	1	fefe_A	no	fefe_A
+Fen.Unlabelled.R1.T3.F1.trimmomatic.megahit_bin.44_83.93_6.72_k141_1176040_6	Fen.Unlabelled.R1.T3.F1.trimmomatic.megahit_bin.44_83.93_6.72_k141_1176040_6	A	1	fefe_A	no	fefe_A
+Fen.Unlabelled.R1.T3.F1.trimmomatic.megahit_bin.41_79.82_8.05_k141_448356_4	Fen.Unlabelled.R1.T3.F1.trimmomatic.megahit_bin.41_79.82_8.05_k141_448356_4	A	1	fefe_A	no	fefe_A
+Fen.Unlabelled.R1.T3.F1.trimmomatic.megahit_bin.41_79.82_8.05_k141_345571_2	Fen.Unlabelled.R1.T3.F1.trimmomatic.megahit_bin.41_79.82_8.05_k141_345571_2	A	1	fefe_A	no	fefe_A
+Fen.Unlabelled.R1.T3.F1.JGI.BFC.metaspades_bin.57_72.73_5.56_scaffold_17730_c1_1	Fen.Unlabelled.R1.T3.F1.JGI.BFC.metaspades_bin.57_72.73_5.56_scaffold_17730_c1_1	A	1	fefe_A	no	fefe_A
+Fen.Unlabelled.R1.T2.F1.trimmomatic.metaspades_bin.22_94.77_0.27_NODE_236_length_34940_cov_19.177411_19	Fen.Unlabelled.R1.T2.F1.trimmomatic.metaspades_bin.22_94.77_0.27_NODE_236_length_34940_cov_19.177411_19	A	1	fefe_A	no	fefe_A
+Fen.Unlabelled.R1.T2.F1.JGI.BFC.metaspades_bin.83_76.02_7.93_scaffold_13005_c1_3	Fen.Unlabelled.R1.T2.F1.JGI.BFC.metaspades_bin.83_76.02_7.93_scaffold_13005_c1_3	A	1	fefe_A	no	fefe_A
+Fen.Unlabelled.R1.T2.F1.JGI.BFC.metaspades_bin.79_78.95_1.72_scaffold_626_c1_13	Fen.Unlabelled.R1.T2.F1.JGI.BFC.metaspades_bin.79_78.95_1.72_scaffold_626_c1_13	A	1	fefe_A	no	fefe_A
+Fen.Unlabelled.R1.T2.F1.JGI.BFC.metaspades_bin.29_98.61_0.00_scaffold_28_c1_47	Fen.Unlabelled.R1.T2.F1.JGI.BFC.metaspades_bin.29_98.61_0.00_scaffold_28_c1_47	A	1	fefe_A	no	fefe_A
+Fen.Unlabelled.R1.T2.F1.JGI.BFC.metaspades_bin.29_98.61_0.00_scaffold_21_c1_41	Fen.Unlabelled.R1.T2.F1.JGI.BFC.metaspades_bin.29_98.61_0.00_scaffold_21_c1_41	A	1	fefe_A	no	fefe_A
+Fen.Unlabelled.R1.T1.F1.JGI.BFC.metaspades_bin.54_88.81_3.97_scaffold_960_c1_8	Fen.Unlabelled.R1.T1.F1.JGI.BFC.metaspades_bin.54_88.81_3.97_scaffold_960_c1_8	A	1	fefe_A	no	fefe_A
+Fen.Unlabelled.R1.T1.F1.JGI.BFC.metaspades_bin.54_88.81_3.97_scaffold_13758_c1_2	Fen.Unlabelled.R1.T1.F1.JGI.BFC.metaspades_bin.54_88.81_3.97_scaffold_13758_c1_2	A	1	fefe_A	no	fefe_A
+Fen.Unlabelled.R1.T1.F1.JGI.BFC.metaspades_bin.15_79.61_4.68_scaffold_703_c1_5	Fen.Unlabelled.R1.T1.F1.JGI.BFC.metaspades_bin.15_79.61_4.68_scaffold_703_c1_5	A	1	fefe_A	no	fefe_A
+Fen.Labelled.R3.T1.F2.trimmomatic.metaspades_bin.15_97.73_2.19_NODE_2_length_390249_cov_17.748125_95	Fen.Labelled.R3.T1.F2.trimmomatic.metaspades_bin.15_97.73_2.19_NODE_2_length_390249_cov_17.748125_95	A	1	fefe_A	no	fefe_A
+Fen.Labelled.R3.T1.F2.JGI.BFC.metaspades_bin.27_91.57_1.74_scaffold_691_c1_5	Fen.Labelled.R3.T1.F2.JGI.BFC.metaspades_bin.27_91.57_1.74_scaffold_691_c1_5	A	1	fefe_A	no	fefe_A
+Fen.Labelled.R2.T3.F4.trimmomatic.metaspades_bin.70_73.37_4.30_NODE_4007_length_7074_cov_6.175666_7	Fen.Labelled.R2.T3.F4.trimmomatic.metaspades_bin.70_73.37_4.30_NODE_4007_length_7074_cov_6.175666_7	A	1	fefe_A	no	fefe_A
+Fen.Labelled.R2.T3.F4.trimmomatic.metaspades_bin.70_73.37_4.30_NODE_11498_length_3814_cov_6.730779_1	Fen.Labelled.R2.T3.F4.trimmomatic.metaspades_bin.70_73.37_4.30_NODE_11498_length_3814_cov_6.730779_1	A	1	fefe_A	no	fefe_A
+Fen.Labelled.R2.T3.F4.trimmomatic.metaspades_bin.51_87.95_0.05_NODE_616_length_22900_cov_6.002145_1	Fen.Labelled.R2.T3.F4.trimmomatic.metaspades_bin.51_87.95_0.05_NODE_616_length_22900_cov_6.002145_1	A	1	fefe_A	no	fefe_A
+Fen.Labelled.R2.T3.F4.trimmomatic.metaspades_bin.51_87.95_0.05_NODE_1189_length_15102_cov_5.078953_7	Fen.Labelled.R2.T3.F4.trimmomatic.metaspades_bin.51_87.95_0.05_NODE_1189_length_15102_cov_5.078953_7	A	1	fefe_A	no	fefe_A
+Fen.Labelled.R2.T3.F4.trimmomatic.megahit_bin.36_71.84_5.41_k141_1752279_2	Fen.Labelled.R2.T3.F4.trimmomatic.megahit_bin.36_71.84_5.41_k141_1752279_2	A	1	fefe_A	no	fefe_A
+Fen.Labelled.R2.T3.F4.trimmomatic.megahit_bin.36_71.84_5.41_k141_1740860_1	Fen.Labelled.R2.T3.F4.trimmomatic.megahit_bin.36_71.84_5.41_k141_1740860_1	A	1	fefe_A	no	fefe_A
+Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.79_74.29_5.68_k141_11936_5	Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.79_74.29_5.68_k141_11936_5	A	1	fefe_A	no	fefe_A
+Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.79_74.29_5.68_k141_11936_2	Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.79_74.29_5.68_k141_11936_2	A	1	fefe_A	no	fefe_A
+Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.72_76.95_1.88_k141_396601_2	Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.72_76.95_1.88_k141_396601_2	A	1	fefe_A	no	fefe_A
+Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.67_82.16_6.03_k141_1340820_8	Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.67_82.16_6.03_k141_1340820_8	A	1	fefe_A	no	fefe_A
+Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.52_84.89_1.03_k141_421369_8	Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.52_84.89_1.03_k141_421369_8	A	1	fefe_A	no	fefe_A
+Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.52_84.89_1.03_k141_1734467_2	Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.52_84.89_1.03_k141_1734467_2	A	1	fefe_A	no	fefe_A
+Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.104_84.12_2.69_k141_3542024_3	Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.104_84.12_2.69_k141_3542024_3	A	1	fefe_A	no	fefe_A
+Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.104_84.12_2.69_k141_1291599_16	Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.104_84.12_2.69_k141_1291599_16	A	1	fefe_A	no	fefe_A
+Fen.Labelled.R2.T3.F3.JGI.BFC.metaspades_bin.50_82.72_4.92_scaffold_40039_c1_2	Fen.Labelled.R2.T3.F3.JGI.BFC.metaspades_bin.50_82.72_4.92_scaffold_40039_c1_2	A	1	fefe_A	no	fefe_A
+Fen.Labelled.R2.T3.F3.JGI.BFC.metaspades_bin.38_80.01_9.95_scaffold_20671_c1_1	Fen.Labelled.R2.T3.F3.JGI.BFC.metaspades_bin.38_80.01_9.95_scaffold_20671_c1_1	A	1	fefe_A	no	fefe_A
+Fen.Labelled.R2.T3.F3.JGI.BFC.metaspades_bin.31_81.88_4.50_scaffold_19304_c1_2	Fen.Labelled.R2.T3.F3.JGI.BFC.metaspades_bin.31_81.88_4.50_scaffold_19304_c1_2	A	1	fefe_A	no	fefe_A
+Fen.Labelled.R2.T3.F3.JGI.BFC.metaspades_bin.27_99.16_2.15_scaffold_2120_c1_12	Fen.Labelled.R2.T3.F3.JGI.BFC.metaspades_bin.27_99.16_2.15_scaffold_2120_c1_12	A	1	fefe_A	no	fefe_A
+Fen.Labelled.R2.T3.F2.trimmomatic.megahit_bin.32_74.76_6.99_k141_169772_4	Fen.Labelled.R2.T3.F2.trimmomatic.megahit_bin.32_74.76_6.99_k141_169772_4	A	1	fefe_A	no	fefe_A
+Fen.Labelled.R1.T2.F3.trimmomatic.metaspades_bin.30_79.47_0.07_NODE_157_length_38012_cov_10.900782_17	Fen.Labelled.R1.T2.F3.trimmomatic.metaspades_bin.30_79.47_0.07_NODE_157_length_38012_cov_10.900782_17	A	1	fefe_A	no	fefe_A
+Fen.Labelled.R1.T2.F3.trimmomatic.megahit_bin.4_83.95_1.23_k141_315933_15	Fen.Labelled.R1.T2.F3.trimmomatic.megahit_bin.4_83.95_1.23_k141_315933_15	A	1	fefe_A	no	fefe_A
+Bog.Unlabelled.R3.T3.F3.JGI.BFC.metaspades_bin.56_97.76_1.08_scaffold_2356_c1_16	Bog.Unlabelled.R3.T3.F3.JGI.BFC.metaspades_bin.56_97.76_1.08_scaffold_2356_c1_16	A	1	fefe_A	no	fefe_A
+Bog.Unlabelled.R3.T3.F2.trimmomatic.metaspades_bin.148_70.25_9.70_NODE_401_length_58862_cov_11.557145_30	Bog.Unlabelled.R3.T3.F2.trimmomatic.metaspades_bin.148_70.25_9.70_NODE_401_length_58862_cov_11.557145_30	A	1	fefe_A	no	fefe_A
+Bog.Unlabelled.R3.T2.F3.JGI.BFC.metaspades_bin.122_96.77_0.86_scaffold_24_c1_99	Bog.Unlabelled.R3.T2.F3.JGI.BFC.metaspades_bin.122_96.77_0.86_scaffold_24_c1_99	A	1	fefe_A	no	fefe_A
+Bog.Unlabelled.R3.T2.F2.trimmomatic.metaspades_bin.36_75.58_8.10_NODE_585_length_39372_cov_7.833380_8	Bog.Unlabelled.R3.T2.F2.trimmomatic.metaspades_bin.36_75.58_8.10_NODE_585_length_39372_cov_7.833380_8	A	1	fefe_A	no	fefe_A
+Bog.Unlabelled.R2.T3.F3.trimmomatic.metaspades_bin.173_71.36_8.00_NODE_35757_length_4411_cov_5.580119_3	Bog.Unlabelled.R2.T3.F3.trimmomatic.metaspades_bin.173_71.36_8.00_NODE_35757_length_4411_cov_5.580119_3	A	1	fefe_A	no	fefe_A
+Bog.Unlabelled.R2.T3.F2.JGI.BFC.metaspades_bin.69_94.23_0.86_scaffold_1712_c1_18	Bog.Unlabelled.R2.T3.F2.JGI.BFC.metaspades_bin.69_94.23_0.86_scaffold_1712_c1_18	A	1	fefe_A	no	fefe_A
+Bog.Unlabelled.R2.T3.F2.JGI.BFC.metaspades_bin.55_93.55_2.59_scaffold_218_c1_23	Bog.Unlabelled.R2.T3.F2.JGI.BFC.metaspades_bin.55_93.55_2.59_scaffold_218_c1_23	A	1	fefe_A	no	fefe_A
+Bog.Unlabelled.R2.T3.F2.JGI.BFC.metaspades_bin.14_99.14_0.86_scaffold_12_c1_72	Bog.Unlabelled.R2.T3.F2.JGI.BFC.metaspades_bin.14_99.14_0.86_scaffold_12_c1_72	A	1	fefe_A	no	fefe_A
+Bog.Unlabelled.R2.T3.F1.JGI.BFC.metaspades_bin.55_91.59_1.72_scaffold_612_c1_3	Bog.Unlabelled.R2.T3.F1.JGI.BFC.metaspades_bin.55_91.59_1.72_scaffold_612_c1_3	A	1	fefe_A	no	fefe_A
+Bog.Unlabelled.R2.T2.F2.JGI.BFC.metaspades_bin.16_87.66_1.12_scaffold_788_c1_13	Bog.Unlabelled.R2.T2.F2.JGI.BFC.metaspades_bin.16_87.66_1.12_scaffold_788_c1_13	A	1	fefe_A	no	fefe_A
+Bog.Unlabelled.R2.T2.F2.JGI.BFC.metaspades_bin.16_87.66_1.12_scaffold_1392_c1_12	Bog.Unlabelled.R2.T2.F2.JGI.BFC.metaspades_bin.16_87.66_1.12_scaffold_1392_c1_12	A	1	fefe_A	no	fefe_A
+Bog.Unlabelled.R2.T1.F1.trimmomatic.metaspades_bin.5_99.59_0.63_NODE_1483_length_14577_cov_7.584699_14	Bog.Unlabelled.R2.T1.F1.trimmomatic.metaspades_bin.5_99.59_0.63_NODE_1483_length_14577_cov_7.584699_14	A	1	fefe_A	no	fefe_A
+Bog.Unlabelled.R2.T1.F1.trimmomatic.metaspades_bin.5_99.59_0.63_NODE_143_length_59892_cov_9.252536_2	Bog.Unlabelled.R2.T1.F1.trimmomatic.metaspades_bin.5_99.59_0.63_NODE_143_length_59892_cov_9.252536_2	A	1	fefe_A	no	fefe_A
+Bog.Unlabelled.R1.T3.F3.trimmomatic.metaspades_bin.65_71.70_0.05_NODE_2072_length_10900_cov_6.623513_9	Bog.Unlabelled.R1.T3.F3.trimmomatic.metaspades_bin.65_71.70_0.05_NODE_2072_length_10900_cov_6.623513_9	A	1	fefe_A	no	fefe_A
+Bog.Unlabelled.R1.T3.F3.trimmomatic.megahit_bin.57_71.58_1.72_k141_557899_8	Bog.Unlabelled.R1.T3.F3.trimmomatic.megahit_bin.57_71.58_1.72_k141_557899_8	A	1	fefe_A	no	fefe_A
+Bog.Unlabelled.R1.T3.F3.trimmomatic.megahit_bin.52_81.45_3.60_k141_1253217_10	Bog.Unlabelled.R1.T3.F3.trimmomatic.megahit_bin.52_81.45_3.60_k141_1253217_10	A	1	fefe_A	no	fefe_A
+Bog.Unlabelled.R1.T3.F3.JGI.BFC.metaspades_bin.18_71.79_4.30_scaffold_877_c2_11	Bog.Unlabelled.R1.T3.F3.JGI.BFC.metaspades_bin.18_71.79_4.30_scaffold_877_c2_11	A	1	fefe_A	no	fefe_A
+Bog.Unlabelled.R1.T3.F3.JGI.BFC.metaspades_bin.10_82.72_4.05_scaffold_1745_c1_2	Bog.Unlabelled.R1.T3.F3.JGI.BFC.metaspades_bin.10_82.72_4.05_scaffold_1745_c1_2	A	1	fefe_A	no	fefe_A
+Bog.Unlabelled.R1.T2.F1.trimmomatic.megahit_bin.52_97.85_0.54_k141_426496_4	Bog.Unlabelled.R1.T2.F1.trimmomatic.megahit_bin.52_97.85_0.54_k141_426496_4	A	1	fefe_A	no	fefe_A
+Bog.None.R3.T0.trimmomatic.megahit_bin.55_94.74_3.88_k141_3367276_10	Bog.None.R3.T0.trimmomatic.megahit_bin.55_94.74_3.88_k141_3367276_10	A	1	fefe_A	no	fefe_A
+Bog.None.R3.T0.JGI.BFC.metaspades_bin.277_97.34_4.31_scaffold_2084_c1_24	Bog.None.R3.T0.JGI.BFC.metaspades_bin.277_97.34_4.31_scaffold_2084_c1_24	A	1	fefe_A	no	fefe_A
+Bog.None.R3.T0.JGI.BFC.metaspades_bin.199_96.50_2.76_scaffold_1124_c2_48	Bog.None.R3.T0.JGI.BFC.metaspades_bin.199_96.50_2.76_scaffold_1124_c2_48	A	1	fefe_A	no	fefe_A
+Bog.None.R3.T0.JGI.BFC.metaspades_bin.143_78.72_9.48_scaffold_12565_c1_11	Bog.None.R3.T0.JGI.BFC.metaspades_bin.143_78.72_9.48_scaffold_12565_c1_11	A	1	fefe_A	no	fefe_A
+Bog.None.R1.T0.trimmomatic.megahit_bin.1_70.85_3.45_k141_1489366_7	Bog.None.R1.T0.trimmomatic.megahit_bin.1_70.85_3.45_k141_1489366_7	A	1	fefe_A	no	fefe_A
+Bog.Labelled.R2.T2.F2.JGI.BFC.metaspades_bin.66_91.59_1.20_scaffold_629_c1_9	Bog.Labelled.R2.T2.F2.JGI.BFC.metaspades_bin.66_91.59_1.20_scaffold_629_c1_9	A	1	fefe_A	no	fefe_A
+Bog.Labelled.R1.T3.F3.trimmomatic.metaspades_bin.43_92.84_1.75_NODE_721_length_52547_cov_8.712851_35	Bog.Labelled.R1.T3.F3.trimmomatic.metaspades_bin.43_92.84_1.75_NODE_721_length_52547_cov_8.712851_35	A	1	fefe_A	no	fefe_A
+Bog.Labelled.R1.T3.F3.trimmomatic.metaspades_bin.43_92.84_1.75_NODE_721_length_52547_cov_8.712851_28	Bog.Labelled.R1.T3.F3.trimmomatic.metaspades_bin.43_92.84_1.75_NODE_721_length_52547_cov_8.712851_28	A	1	fefe_A	no	fefe_A
+Bog.Labelled.R1.T1.F1.JGI.BFC.metaspades_bin.64_100.00_1.08_scaffold_7268_c1_7	Bog.Labelled.R1.T1.F1.JGI.BFC.metaspades_bin.64_100.00_1.08_scaffold_7268_c1_7	A	1	fefe_A	no	fefe_A
+Bog.Labelled.R1.T1.F1.JGI.BFC.metaspades_bin.64_100.00_1.08_scaffold_605_c1_30	Bog.Labelled.R1.T1.F1.JGI.BFC.metaspades_bin.64_100.00_1.08_scaffold_605_c1_30	A	1	fefe_A	no	fefe_A
+Bog.Labelled.R1.T1.F1.JGI.BFC.metaspades_bin.151_96.12_0.92_scaffold_3785_c1_2	Bog.Labelled.R1.T1.F1.JGI.BFC.metaspades_bin.151_96.12_0.92_scaffold_3785_c1_2	A	1	fefe_A	no	fefe_A
+Bog.Labelled.R1.T1.F1.JGI.BFC.metaspades_bin.116_96.93_0.86_scaffold_57_c1_38	Bog.Labelled.R1.T1.F1.JGI.BFC.metaspades_bin.116_96.93_0.86_scaffold_57_c1_38	A	1	fefe_A	no	fefe_A
+3300039216_12_Ga0310687_0000841_16	3300039216_12_Ga0310687_0000841_16	A	1	fefe_A	no	fefe_A
+3300038475_6_Ga0436670_0000183_8	3300038475_6_Ga0436670_0000183_8	A	1	fefe_A	no	fefe_A
+3300038475_6_Ga0436670_0000183_15	3300038475_6_Ga0436670_0000183_15	A	1	fefe_A	no	fefe_A
+3300038461_5_Ga0436662_0001062_2	3300038461_5_Ga0436662_0001062_2	A	1	fefe_A	no	fefe_A
+3300038461_4_Ga0436662_0000016_60	3300038461_4_Ga0436662_0000016_60	A	1	fefe_A	no	fefe_A
+3300038458_8_Ga0436657_0010285_2	3300038458_8_Ga0436657_0010285_2	A	1	fefe_A	no	fefe_A
+3300038457_9_Ga0436655_003117_3	3300038457_9_Ga0436655_003117_3	A	1	fefe_A	no	fefe_A
+3300038457_9_Ga0436655_002736_8	3300038457_9_Ga0436655_002736_8	A	1	fefe_A	no	fefe_A
+3300037562_7_Ga0310760_009725_8	3300037562_7_Ga0310760_009725_8	A	1	fefe_A	no	fefe_A
+3300037562_7_Ga0310760_003751_9	3300037562_7_Ga0310760_003751_9	A	1	fefe_A	no	fefe_A
+3300037562_7_Ga0310760_002300_9	3300037562_7_Ga0310760_002300_9	A	1	fefe_A	no	fefe_A
+3300037549_11_Ga0310740_0015363_5	3300037549_11_Ga0310740_0015363_5	A	1	fefe_A	no	fefe_A
+3300037549_11_Ga0310740_0001280_9	3300037549_11_Ga0310740_0001280_9	A	1	fefe_A	no	fefe_A
+3300037360_7_Ga0310742_004406_3	3300037360_7_Ga0310742_004406_3	A	1	fefe_A	no	fefe_A
+3300037225_17_Ga0395714_000025_237	3300037225_17_Ga0395714_000025_237	A	1	fefe_A	no	fefe_A
+3300037224_12_Ga0395705_000785_9	3300037224_12_Ga0395705_000785_9	A	1	fefe_A	no	fefe_A
+3300037224_12_Ga0395705_000175_37	3300037224_12_Ga0395705_000175_37	A	1	fefe_A	no	fefe_A
+3300037185_7_Ga0395721_003825_5	3300037185_7_Ga0395721_003825_5	A	1	fefe_A	no	fefe_A
+3300037185_7_Ga0395721_000216_4	3300037185_7_Ga0395721_000216_4	A	1	fefe_A	no	fefe_A
+3300037182_7_Ga0395695_010049_1	3300037182_7_Ga0395695_010049_1	A	1	fefe_A	no	fefe_A
+3300037132_9_Ga0395987_000176_50	3300037132_9_Ga0395987_000176_50	A	1	fefe_A	no	fefe_A
+3300037132_8_Ga0395987_000620_5	3300037132_8_Ga0395987_000620_5	A	1	fefe_A	no	fefe_A
+3300037109_9_Ga0395722_0018218_2	3300037109_9_Ga0395722_0018218_2	A	1	fefe_A	no	fefe_A
+3300037109_9_Ga0395722_0002784_5	3300037109_9_Ga0395722_0002784_5	A	1	fefe_A	no	fefe_A
+3300037104_11_Ga0395706_000032_185	3300037104_11_Ga0395706_000032_185	A	1	fefe_A	no	fefe_A
+3300037104_11_Ga0395706_000027_30	3300037104_11_Ga0395706_000027_30	A	1	fefe_A	no	fefe_A
+3300037091_10_Ga0334825_001439_10	3300037091_10_Ga0334825_001439_10	A	1	fefe_A	no	fefe_A
+3300037089_15_Ga0334820_000042_136	3300037089_15_Ga0334820_000042_136	A	1	fefe_A	no	fefe_A
+3300037089_15_Ga0334820_000042_130	3300037089_15_Ga0334820_000042_130	A	1	fefe_A	no	fefe_A
+3300037076_21_Ga0395910_005948_4	3300037076_21_Ga0395910_005948_4	A	1	fefe_A	no	fefe_A
+3300037076_21_Ga0395910_005948_10	3300037076_21_Ga0395910_005948_10	A	1	fefe_A	no	fefe_A
+3300037076_20_Ga0395910_000140_24	3300037076_20_Ga0395910_000140_24	A	1	fefe_A	no	fefe_A
+3300037076_11_Ga0395910_000002_98	3300037076_11_Ga0395910_000002_98	A	1	fefe_A	no	fefe_A
+3300037076_11_Ga0395910_000002_461	3300037076_11_Ga0395910_000002_461	A	1	fefe_A	no	fefe_A
+3300037076_11_Ga0395910_000002_455	3300037076_11_Ga0395910_000002_455	A	1	fefe_A	no	fefe_A
+3300036886_10_Ga0334826_000005_192	3300036886_10_Ga0334826_000005_192	A	1	fefe_A	no	fefe_A
+3300036886_10_Ga0334826_000005_161	3300036886_10_Ga0334826_000005_161	A	1	fefe_A	no	fefe_A
+3300036884_7_Ga0334813_000075_28	3300036884_7_Ga0334813_000075_28	A	1	fefe_A	no	fefe_A
+3300036884_7_Ga0334813_000075_20	3300036884_7_Ga0334813_000075_20	A	1	fefe_A	no	fefe_A
+3300036884_7_Ga0334813_000075_18	3300036884_7_Ga0334813_000075_18	A	1	fefe_A	no	fefe_A
+3300036878_6_Ga0334796_000609_3	3300036878_6_Ga0334796_000609_3	A	1	fefe_A	no	fefe_A
+3300028857_5_Ga0302289_1000393_3	3300028857_5_Ga0302289_1000393_3	A	1	fefe_A	no	fefe_A
+3300023254_4_Ga0224524_1004397_2	3300023254_4_Ga0224524_1004397_2	A	1	fefe_A	no	fefe_A
+3300023254_4_Ga0224524_1002291_2	3300023254_4_Ga0224524_1002291_2	A	1	fefe_A	no	fefe_A
+3300023254_4_Ga0224524_1000688_8	3300023254_4_Ga0224524_1000688_8	A	1	fefe_A	no	fefe_A
+3300023254_2_Ga0224524_1000217_20	3300023254_2_Ga0224524_1000217_20	A	1	fefe_A	no	fefe_A
+3300023248_5_Ga0224525_1000115_31	3300023248_5_Ga0224525_1000115_31	A	1	fefe_A	no	fefe_A
+3300022824_1_Ga0224518_1000142_5	3300022824_1_Ga0224518_1000142_5	A	1	fefe_A	no	fefe_A
+3300022824_1_Ga0224518_1000023_16	3300022824_1_Ga0224518_1000023_16	A	1	fefe_A	no	fefe_A
+3300022824_1_Ga0224518_1000013_44	3300022824_1_Ga0224518_1000013_44	A	1	fefe_A	no	fefe_A
+20170700_S35_2_c_000000000255_23	20170700_S35_2_c_000000000255_23	A	1	fefe_A	no	fefe_A
+20170700_S35_19_c_000000001371_5	20170700_S35_19_c_000000001371_5	A	1	fefe_A	no	fefe_A
+20170700_S35_19_c_000000001342_4	20170700_S35_19_c_000000001342_4	A	1	fefe_A	no	fefe_A
+20170700_S35_19_c_000000001247_11	20170700_S35_19_c_000000001247_11	A	1	fefe_A	no	fefe_A
+20170700_S35_18_c_000000002128_3	20170700_S35_18_c_000000002128_3	A	1	fefe_A	no	fefe_A
+20170700_S33_33_c_000000004139_8	20170700_S33_33_c_000000004139_8	A	1	fefe_A	no	fefe_A
+20170700_S33_33_c_000000003985_2	20170700_S33_33_c_000000003985_2	A	1	fefe_A	no	fefe_A
+20170700_S25_23_c_000000011222_2	20170700_S25_23_c_000000011222_2	A	1	fefe_A	no	fefe_A
+20170700_S25_13_c_000000008165_10	20170700_S25_13_c_000000008165_10	A	1	fefe_A	no	fefe_A
+20170700_S24_9_c_000000001541_10	20170700_S24_9_c_000000001541_10	A	1	fefe_A	no	fefe_A
+20170700_S24_14_c_000000003635_44	20170700_S24_14_c_000000003635_44	A	1	fefe_A	no	fefe_A
+20170700_E33_1_c_000000000454_3	20170700_E33_1_c_000000000454_3	A	1	fefe_A	no	fefe_A
+20170700_E33_1_c_000000000391_4	20170700_E33_1_c_000000000391_4	A	1	fefe_A	no	fefe_A
+20170700_E15_6_c_000000002524_48	20170700_E15_6_c_000000002524_48	A	1	fefe_A	no	fefe_A
+20160700_E35_7_c_000000000781_3	20160700_E35_7_c_000000000781_3	A	1	fefe_A	no	fefe_A
+20160700_E35_4_c_000000000178_4	20160700_E35_4_c_000000000178_4	A	1	fefe_A	no	fefe_A
+20160700_E25_18_c_000000000697_3	20160700_E25_18_c_000000000697_3	A	1	fefe_A	no	fefe_A
+20160700_E25_15_c_000000006823_153	20160700_E25_15_c_000000006823_153	A	1	fefe_A	no	fefe_A
+20160700_E25_11_c_000000003080_5	20160700_E25_11_c_000000003080_5	A	1	fefe_A	no	fefe_A
+20160700_E23_20_c_000000004031_8	20160700_E23_20_c_000000004031_8	A	1	fefe_A	no	fefe_A
+20160700_E15_4_c_000000001034_2	20160700_E15_4_c_000000001034_2	A	1	fefe_A	no	fefe_A
+20160700_E14_9_c_000000000100_1	20160700_E14_9_c_000000000100_1	A	1	fefe_A	no	fefe_A
+20160700_E14_7_c_000000000914_2	20160700_E14_7_c_000000000914_2	A	1	fefe_A	no	fefe_A
+20160700_E13_6_c_000000002826_2	20160700_E13_6_c_000000002826_2	A	1	fefe_A	no	fefe_A
+20160700_E11_1_c_000000001130_1	20160700_E11_1_c_000000001130_1	A	1	fefe_A	no	fefe_A
+20150700_S15_12_c_000000004534_70	20150700_S15_12_c_000000004534_70	A	1	fefe_A	no	fefe_A
+20150700_S15_12_c_000000004534_63	20150700_S15_12_c_000000004534_63	A	1	fefe_A	no	fefe_A
+20150700_E35_7_c_000000001658_2	20150700_E35_7_c_000000001658_2	A	1	fefe_A	no	fefe_A
+20150700_E35_2_c_000000002142_10	20150700_E35_2_c_000000002142_10	A	1	fefe_A	no	fefe_A
+20150700_E35_2_c_000000002104_2	20150700_E35_2_c_000000002104_2	A	1	fefe_A	no	fefe_A
+20150700_E21_1_c_000000001261_1	20150700_E21_1_c_000000001261_1	A	1	fefe_A	no	fefe_A
+20150700_E21_1_c_000000001119_3	20150700_E21_1_c_000000001119_3	A	1	fefe_A	no	fefe_A
+20150700_E15_6_c_000000008190_13	20150700_E15_6_c_000000008190_13	A	1	fefe_A	no	fefe_A
+20150700_E15_4_c_000000004544_2	20150700_E15_4_c_000000004544_2	A	1	fefe_A	no	fefe_A
+20150700_E15_20_c_000000007574_28	20150700_E15_20_c_000000007574_28	A	1	fefe_A	no	fefe_A
+20150700_E15_18_c_000000007982_4	20150700_E15_18_c_000000007982_4	A	1	fefe_A	no	fefe_A
+20150700_E15_18_c_000000007907_4	20150700_E15_18_c_000000007907_4	A	1	fefe_A	no	fefe_A
+20150700_E14_5_c_000000004414_31	20150700_E14_5_c_000000004414_31	A	1	fefe_A	no	fefe_A
+20150700_E14_4_c_000000001918_21	20150700_E14_4_c_000000001918_21	A	1	fefe_A	no	fefe_A
+20140700_S36_11_c_000000006010_17	20140700_S36_11_c_000000006010_17	A	1	fefe_A	no	fefe_A
+20140700_S36_11_c_000000005992_6	20140700_S36_11_c_000000005992_6	A	1	fefe_A	no	fefe_A
+20140700_S35_5_c_000000003221_15	20140700_S35_5_c_000000003221_15	A	1	fefe_A	no	fefe_A
+20140700_S11_6_c_000000005325_8	20140700_S11_6_c_000000005325_8	A	1	fefe_A	no	fefe_A
+20140700_S11_11_c_000000002495_45	20140700_S11_11_c_000000002495_45	A	1	fefe_A	no	fefe_A
+20140700_E15_7_c_000000001583_6	20140700_E15_7_c_000000001583_6	A	1	fefe_A	no	fefe_A
+20140700_E15_7_c_000000001583_13	20140700_E15_7_c_000000001583_13	A	1	fefe_A	no	fefe_A
+20140700_E15_6_c_000000004333_3	20140700_E15_6_c_000000004333_3	A	1	fefe_A	no	fefe_A
+20140700_E15_6_c_000000004322_9	20140700_E15_6_c_000000004322_9	A	1	fefe_A	no	fefe_A
+20140700_E15_5_c_000000004104_65	20140700_E15_5_c_000000004104_65	A	1	fefe_A	no	fefe_A
+20140700_E15_5_c_000000004104_58	20140700_E15_5_c_000000004104_58	A	1	fefe_A	no	fefe_A
+20140700_E15_14_c_000000002388_6	20140700_E15_14_c_000000002388_6	A	1	fefe_A	no	fefe_A
+20140700_E15_1_c_000000002763_5	20140700_E15_1_c_000000002763_5	A	1	fefe_A	no	fefe_A
+20140700_E15_1_c_000000002707_6	20140700_E15_1_c_000000002707_6	A	1	fefe_A	no	fefe_A
+20130700_S2D_2_c_000000006655_14	20130700_S2D_2_c_000000006655_14	A	1	fefe_A	no	fefe_A
+20130700_S1Z_5_c_000000000196_7	20130700_S1Z_5_c_000000000196_7	A	1	fefe_A	no	fefe_A
+20130700_S1Z_5_c_000000000184_24	20130700_S1Z_5_c_000000000184_24	A	1	fefe_A	no	fefe_A
+20130700_E3Z_8_c_000000004234_103	20130700_E3Z_8_c_000000004234_103	A	1	fefe_A	no	fefe_A
+20130700_E3Z_7_c_000000003131_9	20130700_E3Z_7_c_000000003131_9	A	1	fefe_A	no	fefe_A
+20130700_E3Z_15_c_000000002897_42	20130700_E3Z_15_c_000000002897_42	A	1	fefe_A	no	fefe_A
+20130700_E3X_2_c_000000002676_4	20130700_E3X_2_c_000000002676_4	A	1	fefe_A	no	fefe_A
+20130700_E3S_4_c_000000001564_1	20130700_E3S_4_c_000000001564_1	A	1	fefe_A	no	fefe_A
+20130700_E3M_6_c_000000003071_28	20130700_E3M_6_c_000000003071_28	A	1	fefe_A	no	fefe_A
+20130700_E3D_6_c_000000000441_4	20130700_E3D_6_c_000000000441_4	A	1	fefe_A	no	fefe_A
+20130700_E2Y_3_c_000000002256_partial_60836_222644_8	20130700_E2Y_3_c_000000002256_partial_60836_222644_8	A	1	fefe_A	no	fefe_A
+20130700_E2Y_3_c_000000002256_partial_60836_222644_1	20130700_E2Y_3_c_000000002256_partial_60836_222644_1	A	1	fefe_A	no	fefe_A
+20130700_E2Y_15_c_000000001637_4	20130700_E2Y_15_c_000000001637_4	A	1	fefe_A	no	fefe_A
+20130700_E2M_2_c_000000002025_3	20130700_E2M_2_c_000000002025_3	A	1	fefe_A	no	fefe_A
+20130700_E2M_1_c_000000001229_2	20130700_E2M_1_c_000000001229_2	A	1	fefe_A	no	fefe_A
+20130700_E2D_8_c_000000001449_14	20130700_E2D_8_c_000000001449_14	A	1	fefe_A	no	fefe_A
+20130700_E1Z_4_c_000000002960_51	20130700_E1Z_4_c_000000002960_51	A	1	fefe_A	no	fefe_A
+20130700_E1Y_5_c_000000005780_3	20130700_E1Y_5_c_000000005780_3	A	1	fefe_A	no	fefe_A
+20130700_E1Y_5_c_000000005754_1	20130700_E1Y_5_c_000000005754_1	A	1	fefe_A	no	fefe_A
+20130700_E1Y_1_c_000000003678_3	20130700_E1Y_1_c_000000003678_3	A	1	fefe_A	no	fefe_A
+20130700_E1Y_1_c_000000003524_3	20130700_E1Y_1_c_000000003524_3	A	1	fefe_A	no	fefe_A
+20130700_E1M_4_c_000000000403_2	20130700_E1M_4_c_000000000403_2	A	1	fefe_A	no	fefe_A
+20130700_C2Y_6_c_000000000109_5	20130700_C2Y_6_c_000000000109_5	A	1	fefe_A	no	fefe_A
+20130700_C2X_6_c_000000002986_15	20130700_C2X_6_c_000000002986_15	A	1	fefe_A	no	fefe_A
+20130700_C2X_5_c_000000003648_27	20130700_C2X_5_c_000000003648_27	A	1	fefe_A	no	fefe_A
+20130700_C2X_5_c_000000003565_15	20130700_C2X_5_c_000000003565_15	A	1	fefe_A	no	fefe_A
+20130700_C2X_3_c_000000000434_109	20130700_C2X_3_c_000000000434_109	A	1	fefe_A	no	fefe_A
+20130700_C2X_12_c_000000000297_58	20130700_C2X_12_c_000000000297_58	A	1	fefe_A	no	fefe_A
+20130700_C2X_10_c_000000002054_6	20130700_C2X_10_c_000000002054_6	A	1	fefe_A	no	fefe_A
+20130700_C2X_10_c_000000002044_24	20130700_C2X_10_c_000000002044_24	A	1	fefe_A	no	fefe_A
+20130700_C2M_8_c_000000006089_8	20130700_C2M_8_c_000000006089_8	A	1	fefe_A	no	fefe_A
+20130700_C2M_8_c_000000005958_6	20130700_C2M_8_c_000000005958_6	A	1	fefe_A	no	fefe_A
+20130700_C2M_20_c_000000007510_4	20130700_C2M_20_c_000000007510_4	A	1	fefe_A	no	fefe_A
+20130700_C2M_16_c_000000000050_4	20130700_C2M_16_c_000000000050_4	A	1	fefe_A	no	fefe_A
+20130700_C2M_13_c_000000008364_9	20130700_C2M_13_c_000000008364_9	A	1	fefe_A	no	fefe_A
+20130700_C2M_13_c_000000008322_3	20130700_C2M_13_c_000000008322_3	A	1	fefe_A	no	fefe_A
+20130700_C1Y_5_c_000000000034_24	20130700_C1Y_5_c_000000000034_24	A	1	fefe_A	no	fefe_A
+20130700_C1Y_4_c_000000000713_2	20130700_C1Y_4_c_000000000713_2	A	1	fefe_A	no	fefe_A
+20130700_C1Y_11_c_000000000635_7	20130700_C1Y_11_c_000000000635_7	A	1	fefe_A	no	fefe_A
+20130700_C1X_8_c_000000004278_67	20130700_C1X_8_c_000000004278_67	A	1	fefe_A	no	fefe_A
+20130700_C1X_8_c_000000004278_56	20130700_C1X_8_c_000000004278_56	A	1	fefe_A	no	fefe_A
+20130700_C1X_6_c_000000000995_12	20130700_C1X_6_c_000000000995_12	A	1	fefe_A	no	fefe_A
+20130700_C1X_5_c_000000005228_11	20130700_C1X_5_c_000000005228_11	A	1	fefe_A	no	fefe_A
+20130700_C1X_17_c_000000006689_3	20130700_C1X_17_c_000000006689_3	A	1	fefe_A	no	fefe_A
+20130700_C1X_17_c_000000006305_6	20130700_C1X_17_c_000000006305_6	A	1	fefe_A	no	fefe_A
+20130700_C1X_11_c_000000004517_3	20130700_C1X_11_c_000000004517_3	A	1	fefe_A	no	fefe_A
+20130700_C1X_10_c_000000003068_18	20130700_C1X_10_c_000000003068_18	A	1	fefe_A	no	fefe_A
+20130700_C1X_10_c_000000003068_11	20130700_C1X_10_c_000000003068_11	A	1	fefe_A	no	fefe_A
+20130700_C1D_9_c_000000003868_2	20130700_C1D_9_c_000000003868_2	A	1	fefe_A	no	fefe_A
+20130700_C1D_8_c_000000002579_19	20130700_C1D_8_c_000000002579_19	A	1	fefe_A	no	fefe_A
+20130700_C1D_5_c_000000006223_11	20130700_C1D_5_c_000000006223_11	A	1	fefe_A	no	fefe_A
+20130700_C1D_3_c_000000005433_52	20130700_C1D_3_c_000000005433_52	A	1	fefe_A	no	fefe_A
+20130700_C1D_19_c_000000001670_2	20130700_C1D_19_c_000000001670_2	A	1	fefe_A	no	fefe_A
+20130700_C1D_14_c_000000003236_6	20130700_C1D_14_c_000000003236_6	A	1	fefe_A	no	fefe_A
+20130700_C1D_14_c_000000003002_10	20130700_C1D_14_c_000000003002_10	A	1	fefe_A	no	fefe_A
+20130700_C1D_13_c_000000003408_15	20130700_C1D_13_c_000000003408_15	A	1	fefe_A	no	fefe_A
+20130700_C1D_10_c_000000005836_4	20130700_C1D_10_c_000000005836_4	A	1	fefe_A	no	fefe_A
+20120800_E3X_6_c_000000001102_74	20120800_E3X_6_c_000000001102_74	A	1	fefe_A	no	fefe_A
+20120800_E3X_3_c_000000002781_349	20120800_E3X_3_c_000000002781_349	A	1	fefe_A	no	fefe_A
+20120800_E3X_28_c_000000005794_9	20120800_E3X_28_c_000000005794_9	A	1	fefe_A	no	fefe_A
+20120800_E3X_28_c_000000005794_2	20120800_E3X_28_c_000000005794_2	A	1	fefe_A	no	fefe_A
+20120800_E3X_26_c_000000002207_4	20120800_E3X_26_c_000000002207_4	A	1	fefe_A	no	fefe_A
+20120800_E3X_2_c_000000000843_8	20120800_E3X_2_c_000000000843_8	A	1	fefe_A	no	fefe_A
+20120800_E3X_14_c_000000000284_47	20120800_E3X_14_c_000000000284_47	A	1	fefe_A	no	fefe_A
+20120800_E3X_14_c_000000000278_46	20120800_E3X_14_c_000000000278_46	A	1	fefe_A	no	fefe_A
+20120800_E3S_15_c_000000003958_15	20120800_E3S_15_c_000000003958_15	A	1	fefe_A	no	fefe_A
+20120800_E3S_10_c_000000002097_1	20120800_E3S_10_c_000000002097_1	A	1	fefe_A	no	fefe_A
+20120800_E3D_4_c_000000000172_39	20120800_E3D_4_c_000000000172_39	A	1	fefe_A	no	fefe_A
+20120800_E2X_16_c_000000005333_17	20120800_E2X_16_c_000000005333_17	A	1	fefe_A	no	fefe_A
+20120800_E2X_16_c_000000005277_34	20120800_E2X_16_c_000000005277_34	A	1	fefe_A	no	fefe_A
+20120800_E2X_13_c_000000003959_2	20120800_E2X_13_c_000000003959_2	A	1	fefe_A	no	fefe_A
+20120800_E2X_13_c_000000003958_9	20120800_E2X_13_c_000000003958_9	A	1	fefe_A	no	fefe_A
+20120800_E2X_13_c_000000003938_11	20120800_E2X_13_c_000000003938_11	A	1	fefe_A	no	fefe_A
+20120800_E2X_11_c_000000002802_2	20120800_E2X_11_c_000000002802_2	A	1	fefe_A	no	fefe_A
+20120800_E2M_2_c_000000001035_2	20120800_E2M_2_c_000000001035_2	A	1	fefe_A	no	fefe_A
+20120800_E2M_2_c_000000000774_3	20120800_E2M_2_c_000000000774_3	A	1	fefe_A	no	fefe_A
+20120800_E2D_4_c_000000006814_2	20120800_E2D_4_c_000000006814_2	A	1	fefe_A	no	fefe_A
+20120800_E2D_4_c_000000006509_4	20120800_E2D_4_c_000000006509_4	A	1	fefe_A	no	fefe_A
+20120800_E2D_20_c_000000001589_22	20120800_E2D_20_c_000000001589_22	A	1	fefe_A	no	fefe_A
+20120800_E2D_20_c_000000001566_8	20120800_E2D_20_c_000000001566_8	A	1	fefe_A	no	fefe_A
+20120800_E2D_20_c_000000001415_4	20120800_E2D_20_c_000000001415_4	A	1	fefe_A	no	fefe_A
+20120800_E2D_13_c_000000002102_2	20120800_E2D_13_c_000000002102_2	A	1	fefe_A	no	fefe_A
+20120800_E2D_13_c_000000002036_4	20120800_E2D_13_c_000000002036_4	A	1	fefe_A	no	fefe_A
+20120800_E2D_10_c_000000004876_5	20120800_E2D_10_c_000000004876_5	A	1	fefe_A	no	fefe_A
+20120800_E2D_10_c_000000004730_6	20120800_E2D_10_c_000000004730_6	A	1	fefe_A	no	fefe_A
+20120800_E1X_7_c_000000000883_3	20120800_E1X_7_c_000000000883_3	A	1	fefe_A	no	fefe_A
+20120800_E1X_12_c_000000003147_9	20120800_E1X_12_c_000000003147_9	A	1	fefe_A	no	fefe_A
+20120800_E1X_12_c_000000003147_3	20120800_E1X_12_c_000000003147_3	A	1	fefe_A	no	fefe_A
+20120800_E1D_7_c_000000004603_7	20120800_E1D_7_c_000000004603_7	A	1	fefe_A	no	fefe_A
+20120800_E1D_19_c_000000006402_15	20120800_E1D_19_c_000000006402_15	A	1	fefe_A	no	fefe_A
+20120800_E1D_18_c_000000006555_2	20120800_E1D_18_c_000000006555_2	A	1	fefe_A	no	fefe_A
+20120800_E1D_15_c_000000006331_9	20120800_E1D_15_c_000000006331_9	A	1	fefe_A	no	fefe_A
+20120700_S1D_98_c_000000048949_12	20120700_S1D_98_c_000000048949_12	A	1	fefe_A	no	fefe_A
+20120700_S1D_77_c_000000077508_9	20120700_S1D_77_c_000000077508_9	A	1	fefe_A	no	fefe_A
+20120700_S1D_74_c_000000032606_7	20120700_S1D_74_c_000000032606_7	A	1	fefe_A	no	fefe_A
+20120700_S1D_73_c_000000074529_3	20120700_S1D_73_c_000000074529_3	A	1	fefe_A	no	fefe_A
+20120700_S1D_67_c_000000013853_3	20120700_S1D_67_c_000000013853_3	A	1	fefe_A	no	fefe_A
+20120700_S1D_49_c_000000018273_1	20120700_S1D_49_c_000000018273_1	A	1	fefe_A	no	fefe_A
+20120700_S1D_48_c_000000071398_23	20120700_S1D_48_c_000000071398_23	A	1	fefe_A	no	fefe_A
+20120700_S1D_39_c_000000057280_4	20120700_S1D_39_c_000000057280_4	A	1	fefe_A	no	fefe_A
+20120700_S1D_30_c_000000001425_5	20120700_S1D_30_c_000000001425_5	A	1	fefe_A	no	fefe_A
+20120700_S1D_26_c_000000005438_4	20120700_S1D_26_c_000000005438_4	A	1	fefe_A	no	fefe_A
+20120700_S1D_26_c_000000005424_20	20120700_S1D_26_c_000000005424_20	A	1	fefe_A	no	fefe_A
+20120700_S1D_24_c_000000028948_4	20120700_S1D_24_c_000000028948_4	A	1	fefe_A	no	fefe_A
+20120700_S1D_24_c_000000028871_3	20120700_S1D_24_c_000000028871_3	A	1	fefe_A	no	fefe_A
+20120700_S1D_24_c_000000028732_9	20120700_S1D_24_c_000000028732_9	A	1	fefe_A	no	fefe_A
+20120700_S1D_107_c_000000092957_32	20120700_S1D_107_c_000000092957_32	A	1	fefe_A	no	fefe_A
+20120700_S1D_107_c_000000092957_22	20120700_S1D_107_c_000000092957_22	A	1	fefe_A	no	fefe_A
+20120700_S1D_104_c_000000032514_13	20120700_S1D_104_c_000000032514_13	A	1	fefe_A	no	fefe_A
+20120700_S1D_103_c_000000003390_7	20120700_S1D_103_c_000000003390_7	A	1	fefe_A	no	fefe_A
+20120700_P3D_20_c_000000084747_52	20120700_P3D_20_c_000000084747_52	A	1	fefe_A	no	fefe_A
+20120700_P3D_20_c_000000084591_23	20120700_P3D_20_c_000000084591_23	A	1	fefe_A	no	fefe_A
+20120700_P3D_138_c_000000007612_2	20120700_P3D_138_c_000000007612_2	A	1	fefe_A	no	fefe_A
+20120700_P3D_112_c_000000057391_33	20120700_P3D_112_c_000000057391_33	A	1	fefe_A	no	fefe_A
+20120700_P3D_105_c_000000075338_4	20120700_P3D_105_c_000000075338_4	A	1	fefe_A	no	fefe_A
+20120700_E3M_3_c_000000038955_4	20120700_E3M_3_c_000000038955_4	A	1	fefe_A	no	fefe_A
+20120700_E3M_2_c_000000037382_36	20120700_E3M_2_c_000000037382_36	A	1	fefe_A	no	fefe_A
+20120600_S1D_7_c_000000003642_2	20120600_S1D_7_c_000000003642_2	A	1	fefe_A	no	fefe_A
+20120600_S1D_1_c_000000004003_15	20120600_S1D_1_c_000000004003_15	A	1	fefe_A	no	fefe_A
+20120600_E3D_50_c_000000012390_2	20120600_E3D_50_c_000000012390_2	A	1	fefe_A	no	fefe_A
+20120600_E3D_50_c_000000012324_4	20120600_E3D_50_c_000000012324_4	A	1	fefe_A	no	fefe_A
+20120600_E3D_49_c_000000000955_2	20120600_E3D_49_c_000000000955_2	A	1	fefe_A	no	fefe_A
+20120600_E3D_42_c_000000016992_25	20120600_E3D_42_c_000000016992_25	A	1	fefe_A	no	fefe_A
+20120600_E3D_42_c_000000016968_10	20120600_E3D_42_c_000000016968_10	A	1	fefe_A	no	fefe_A
+20120600_E3D_41_c_000000011556_11	20120600_E3D_41_c_000000011556_11	A	1	fefe_A	no	fefe_A
+20120600_E3D_38_c_000000018126_61	20120600_E3D_38_c_000000018126_61	A	1	fefe_A	no	fefe_A
+20120600_E3D_38_c_000000018082_25	20120600_E3D_38_c_000000018082_25	A	1	fefe_A	no	fefe_A
+20120600_E3D_3_c_000000015994_7	20120600_E3D_3_c_000000015994_7	A	1	fefe_A	no	fefe_A
+20120600_E3D_29_c_000000022987_10	20120600_E3D_29_c_000000022987_10	A	1	fefe_A	no	fefe_A
+20120600_E3D_29_c_000000022902_13	20120600_E3D_29_c_000000022902_13	A	1	fefe_A	no	fefe_A
+20120600_E3D_27_c_000000013371_9	20120600_E3D_27_c_000000013371_9	A	1	fefe_A	no	fefe_A
+20120600_E3D_27_c_000000013371_5	20120600_E3D_27_c_000000013371_5	A	1	fefe_A	no	fefe_A
+20120600_E3D_26_c_000000004644_2	20120600_E3D_26_c_000000004644_2	A	1	fefe_A	no	fefe_A
+20120600_E3D_25_c_000000016850_6	20120600_E3D_25_c_000000016850_6	A	1	fefe_A	no	fefe_A
+20120600_E3D_25_c_000000016587_2	20120600_E3D_25_c_000000016587_2	A	1	fefe_A	no	fefe_A
+20120600_E3D_14_c_000000019820_8	20120600_E3D_14_c_000000019820_8	A	1	fefe_A	no	fefe_A
+20120600_E3D_13_c_000000013764_7	20120600_E3D_13_c_000000013764_7	A	1	fefe_A	no	fefe_A
+20120600_E3D_13_c_000000013708_2	20120600_E3D_13_c_000000013708_2	A	1	fefe_A	no	fefe_A
+20120600_E2D_8_c_000000008478_3	20120600_E2D_8_c_000000008478_3	A	1	fefe_A	no	fefe_A
+20120600_E2D_8_c_000000008296_4	20120600_E2D_8_c_000000008296_4	A	1	fefe_A	no	fefe_A
+20120600_E2D_7_c_000000017925_5	20120600_E2D_7_c_000000017925_5	A	1	fefe_A	no	fefe_A
+20120600_E2D_57_c_000000020293_4	20120600_E2D_57_c_000000020293_4	A	1	fefe_A	no	fefe_A
+20120600_E2D_44_c_000000003879_1	20120600_E2D_44_c_000000003879_1	A	1	fefe_A	no	fefe_A
+20120600_E2D_44_c_000000003755_7	20120600_E2D_44_c_000000003755_7	A	1	fefe_A	no	fefe_A
+20120600_E2D_38_c_000000010168_27	20120600_E2D_38_c_000000010168_27	A	1	fefe_A	no	fefe_A
+20120600_E2D_38_c_000000010055_2	20120600_E2D_38_c_000000010055_2	A	1	fefe_A	no	fefe_A
+20120600_E2D_36_c_000000005127_9	20120600_E2D_36_c_000000005127_9	A	1	fefe_A	no	fefe_A
+20120600_E2D_27_c_000000014183_2	20120600_E2D_27_c_000000014183_2	A	1	fefe_A	no	fefe_A
+20120600_E2D_22_c_000000009807_11	20120600_E2D_22_c_000000009807_11	A	1	fefe_A	no	fefe_A
+20120600_E2D_19_c_000000014325_8	20120600_E2D_19_c_000000014325_8	A	1	fefe_A	no	fefe_A
+20120600_E2D_11_c_000000015013_3	20120600_E2D_11_c_000000015013_3	A	1	fefe_A	no	fefe_A
+20120600_E2D_11_c_000000015013_12	20120600_E2D_11_c_000000015013_12	A	1	fefe_A	no	fefe_A
+20120600_E2D_1_c_000000018135_8	20120600_E2D_1_c_000000018135_8	A	1	fefe_A	no	fefe_A
+20120600_E2D_1_c_000000018023_6	20120600_E2D_1_c_000000018023_6	A	1	fefe_A	no	fefe_A
+20120600_E1D_54_c_000000000712_9	20120600_E1D_54_c_000000000712_9	A	1	fefe_A	no	fefe_A
+20120600_E1D_54_c_000000000651_75	20120600_E1D_54_c_000000000651_75	A	1	fefe_A	no	fefe_A
+20120600_E1D_54_c_000000000610_21	20120600_E1D_54_c_000000000610_21	A	1	fefe_A	no	fefe_A
+20120600_E1D_37_c_000000009300_5	20120600_E1D_37_c_000000009300_5	A	1	fefe_A	no	fefe_A
+20120600_E1D_35_c_000000007950_16	20120600_E1D_35_c_000000007950_16	A	1	fefe_A	no	fefe_A
+20120600_E1D_35_c_000000007939_7	20120600_E1D_35_c_000000007939_7	A	1	fefe_A	no	fefe_A
+20120600_E1D_31_c_000000003174_24	20120600_E1D_31_c_000000003174_24	A	1	fefe_A	no	fefe_A
+20120600_E1D_18_c_000000004807_31	20120600_E1D_18_c_000000004807_31	A	1	fefe_A	no	fefe_A
+20120600_E1D_10_c_000000014357_2	20120600_E1D_10_c_000000014357_2	A	1	fefe_A	no	fefe_A
+20120600_E1D_10_c_000000014204_19	20120600_E1D_10_c_000000014204_19	A	1	fefe_A	no	fefe_A
+20120500_P28_9_c_000000000164_2	20120500_P28_9_c_000000000164_2	A	1	fefe_A	no	fefe_A
+20120500_P28_3_c_000000003627_1	20120500_P28_3_c_000000003627_1	A	1	fefe_A	no	fefe_A
+20120500_P28_11_c_000000001872_8	20120500_P28_11_c_000000001872_8	A	1	fefe_A	no	fefe_A
+20120500_P28_11_c_000000001849_15	20120500_P28_11_c_000000001849_15	A	1	fefe_A	no	fefe_A
+20120500_P26_5_c_000000003192_11	20120500_P26_5_c_000000003192_11	A	1	fefe_A	no	fefe_A
+20120500_P19_9_c_000000001673_8	20120500_P19_9_c_000000001673_8	A	1	fefe_A	no	fefe_A
+20120500_P19_9_c_000000001579_2	20120500_P19_9_c_000000001579_2	A	1	fefe_A	no	fefe_A
+20120500_P19_8_c_000000001457_43	20120500_P19_8_c_000000001457_43	A	1	fefe_A	no	fefe_A
+20120500_P19_5_c_000000002122_20	20120500_P19_5_c_000000002122_20	A	1	fefe_A	no	fefe_A
+20120500_P19_10_c_000000001989_5	20120500_P19_10_c_000000001989_5	A	1	fefe_A	no	fefe_A
+20111000_S2M_12_c_000000002188_8	20111000_S2M_12_c_000000002188_8	A	1	fefe_A	no	fefe_A
+20111000_P3M_44_c_000000005408_7	20111000_P3M_44_c_000000005408_7	A	1	fefe_A	no	fefe_A
+20111000_P3D_13_c_000000000562_23	20111000_P3D_13_c_000000000562_23	A	1	fefe_A	no	fefe_A
+20111000_E3D_7_c_000000002650_2	20111000_E3D_7_c_000000002650_2	A	1	fefe_A	no	fefe_A
+20111000_E3D_2_c_000000000845_4	20111000_E3D_2_c_000000000845_4	A	1	fefe_A	no	fefe_A
+20111000_E3D_2_c_000000000796_6	20111000_E3D_2_c_000000000796_6	A	1	fefe_A	no	fefe_A
+20110800_E3M_4_c_000000002812_23	20110800_E3M_4_c_000000002812_23	A	1	fefe_A	no	fefe_A
+20110800_E3M_4_c_000000002712_8	20110800_E3M_4_c_000000002712_8	A	1	fefe_A	no	fefe_A
+20110800_E3D_40_c_000000005423_20	20110800_E3D_40_c_000000005423_20	A	1	fefe_A	no	fefe_A
+20110800_E3D_38_c_000000006862_26	20110800_E3D_38_c_000000006862_26	A	1	fefe_A	no	fefe_A
+20110800_E3D_32_c_000000002365_9	20110800_E3D_32_c_000000002365_9	A	1	fefe_A	no	fefe_A
+20110800_E3D_3_c_000000007370_4	20110800_E3D_3_c_000000007370_4	A	1	fefe_A	no	fefe_A
+20110800_E3D_28_c_000000003301_3	20110800_E3D_28_c_000000003301_3	A	1	fefe_A	no	fefe_A
+20110800_E3D_26_c_000000012080_45	20110800_E3D_26_c_000000012080_45	A	1	fefe_A	no	fefe_A
+20110800_E3D_22_c_000000009602_2	20110800_E3D_22_c_000000009602_2	A	1	fefe_A	no	fefe_A
+20110800_E3D_16_c_000000000650_4	20110800_E3D_16_c_000000000650_4	A	1	fefe_A	no	fefe_A
+20110800_E3D_15_c_000000000983_4	20110800_E3D_15_c_000000000983_4	A	1	fefe_A	no	fefe_A
+20110800_E2S_4_c_000000000741_5	20110800_E2S_4_c_000000000741_5	A	1	fefe_A	no	fefe_A
+20110800_E2D_6_c_000000002802_10	20110800_E2D_6_c_000000002802_10	A	1	fefe_A	no	fefe_A
+20110800_E2D_34_c_000000008010_6	20110800_E2D_34_c_000000008010_6	A	1	fefe_A	no	fefe_A
+20110800_E2D_32_c_000000010130_3	20110800_E2D_32_c_000000010130_3	A	1	fefe_A	no	fefe_A
+20110800_E2D_32_c_000000009941_13	20110800_E2D_32_c_000000009941_13	A	1	fefe_A	no	fefe_A
+20110800_E2D_31_c_000000007258_12	20110800_E2D_31_c_000000007258_12	A	1	fefe_A	no	fefe_A
+20110800_E2D_31_c_000000007245_1	20110800_E2D_31_c_000000007245_1	A	1	fefe_A	no	fefe_A
+20110800_E2D_3_c_000000007462_14	20110800_E2D_3_c_000000007462_14	A	1	fefe_A	no	fefe_A
+20110800_E2D_1_c_000000008579_3	20110800_E2D_1_c_000000008579_3	A	1	fefe_A	no	fefe_A
+20110800_E2D_1_c_000000008548_4	20110800_E2D_1_c_000000008548_4	A	1	fefe_A	no	fefe_A
+20110800_E1S_8_c_000000002255_5	20110800_E1S_8_c_000000002255_5	A	1	fefe_A	no	fefe_A
+20110800_E1D_6_c_000000005370_19	20110800_E1D_6_c_000000005370_19	A	1	fefe_A	no	fefe_A
+20110800_E1D_5_c_000000002208_27	20110800_E1D_5_c_000000002208_27	A	1	fefe_A	no	fefe_A
+20110800_E1D_3_c_000000002142_11	20110800_E1D_3_c_000000002142_11	A	1	fefe_A	no	fefe_A
+20110800_E1D_17_c_000000006111_4	20110800_E1D_17_c_000000006111_4	A	1	fefe_A	no	fefe_A
+20110700_S2D_14_c_000000000302_7	20110700_S2D_14_c_000000000302_7	A	1	fefe_A	no	fefe_A
+20110700_P2D_15_c_000000007078_4	20110700_P2D_15_c_000000007078_4	A	1	fefe_A	no	fefe_A
+20110700_P2D_15_c_000000007078_10	20110700_P2D_15_c_000000007078_10	A	1	fefe_A	no	fefe_A
+20110700_E2S_1_c_000000000403_3	20110700_E2S_1_c_000000000403_3	A	1	fefe_A	no	fefe_A
+20110700_E2S_1_c_000000000174_4	20110700_E2S_1_c_000000000174_4	A	1	fefe_A	no	fefe_A
+20110700_E2M_2_c_000000001769_1	20110700_E2M_2_c_000000001769_1	A	1	fefe_A	no	fefe_A
+20110700_E2M_2_c_000000001653_3	20110700_E2M_2_c_000000001653_3	A	1	fefe_A	no	fefe_A
+20110700_E1D_5_c_000000000319_8	20110700_E1D_5_c_000000000319_8	A	1	fefe_A	no	fefe_A
+20110600_S1M_11_c_000000004446_2	20110600_S1M_11_c_000000004446_2	A	1	fefe_A	no	fefe_A
+20110600_E3S_1_c_000000000833_3	20110600_E3S_1_c_000000000833_3	A	1	fefe_A	no	fefe_A
+20110600_E3S_1_c_000000000467_1	20110600_E3S_1_c_000000000467_1	A	1	fefe_A	no	fefe_A
+20110600_E2D_3_c_000000000117_8	20110600_E2D_3_c_000000000117_8	A	1	fefe_A	no	fefe_A
+20100900_E3D_14_c_000000002614_2	20100900_E3D_14_c_000000002614_2	A	1	fefe_A	no	fefe_A
+20100900_E2D_7_c_000000001039_8	20100900_E2D_7_c_000000001039_8	A	1	fefe_A	no	fefe_A
+20100900_E2D_7_c_000000001039_25	20100900_E2D_7_c_000000001039_25	A	1	fefe_A	no	fefe_A
+20100900_E1D_8_c_000000003244_13	20100900_E1D_8_c_000000003244_13	A	1	fefe_A	no	fefe_A
+20100900_E1D_8_c_000000003189_15	20100900_E1D_8_c_000000003189_15	A	1	fefe_A	no	fefe_A
+20100900_E1D_16_c_000000004595_5	20100900_E1D_16_c_000000004595_5	A	1	fefe_A	no	fefe_A
+STM_0716_S_M_E013_D_bin.53_k121_68852_1	STM_0716_S_M_E013_D_bin.53_k121_68852_1	3	1	fefe_B	no	fefe_B
+STM_0716_E_M_E069_E061_E_bin.45_k121_748683_5	STM_0716_E_M_E069_E061_E_bin.45_k121_748683_5	3	1	fefe_B	no	fefe_B
+STM_0716_E_M_E069_E061_E_bin.45_k121_2312119_1	STM_0716_E_M_E069_E061_E_bin.45_k121_2312119_1	3	1	fefe_B	no	fefe_B
+STM_0716_E_M_E069_D_bin.35_k121_2296941_13	STM_0716_E_M_E069_D_bin.35_k121_2296941_13	3	1	fefe_B	no	fefe_B
+STM_0716_E_M_E061_A_bin.30_k121_1465053_7	STM_0716_E_M_E061_A_bin.30_k121_1465053_7	3	1	fefe_B	no	fefe_B
+STM_0716_E_M_E054_A_bin.52_k121_555130_3	STM_0716_E_M_E054_A_bin.52_k121_555130_3	3	1	fefe_B	no	fefe_B
+STM_0716_E_M_E054_A_bin.21_k121_466820_20	STM_0716_E_M_E054_A_bin.21_k121_466820_20	3	1	fefe_B	no	fefe_B
+STM_0716_E_M_E054_A_bin.21_k121_1480649_19	STM_0716_E_M_E054_A_bin.21_k121_1480649_19	3	1	fefe_B	no	fefe_B
+STM_0716_E_M_E050_E054_E058_D_bin.80_k121_8618217_1	STM_0716_E_M_E050_E054_E058_D_bin.80_k121_8618217_1	3	1	fefe_B	no	fefe_B
+STM_0716_E_M_E050_E054_E058_A_bin.156_k121_9175855_13	STM_0716_E_M_E050_E054_E058_A_bin.156_k121_9175855_13	3	1	fefe_B	no	fefe_B
+STM_0716_E_M_E050_E054_E058_A_bin.156_k121_4644237_4	STM_0716_E_M_E050_E054_E058_A_bin.156_k121_4644237_4	3	1	fefe_B	no	fefe_B
+STM_0716_E_M_E034_E058_A_bin.85_k121_909970_81	STM_0716_E_M_E034_E058_A_bin.85_k121_909970_81	3	1	fefe_B	no	fefe_B
+STM_0716_E_M_E034_E058_A_bin.85_k121_4701743_9	STM_0716_E_M_E034_E058_A_bin.85_k121_4701743_9	3	1	fefe_B	no	fefe_B
+STM_0716_E_M_E034_E058_A_bin.33_k121_3805235_4	STM_0716_E_M_E034_E058_A_bin.33_k121_3805235_4	3	1	fefe_B	no	fefe_B
+STM_0716_E_M_E034_E058_A_bin.128_k121_4557576_7	STM_0716_E_M_E034_E058_A_bin.128_k121_4557576_7	3	1	fefe_B	no	fefe_B
+STM_0716_E_M_E034_E058_A_bin.128_k121_315456_16	STM_0716_E_M_E034_E058_A_bin.128_k121_315456_16	3	1	fefe_B	no	fefe_B
+STM_0716_E_M_E034_E058_A_bin.12_k121_5123704_4	STM_0716_E_M_E034_E058_A_bin.12_k121_5123704_4	3	1	fefe_B	no	fefe_B
+STM_0716_E_M_E034_A_bin.60_k121_2541794_4	STM_0716_E_M_E034_A_bin.60_k121_2541794_4	3	1	fefe_B	no	fefe_B
+STM_0716_E_M_E030_E054_E065_D_bin.82_k121_9276233_5	STM_0716_E_M_E030_E054_E065_D_bin.82_k121_9276233_5	3	1	fefe_B	no	fefe_B
+STM_0716_E_M_E030_E054_E065_D_bin.82_k121_7709738_1	STM_0716_E_M_E030_E054_E065_D_bin.82_k121_7709738_1	3	1	fefe_B	no	fefe_B
+STM_0716_E_M_E026_E050_A_bin.98_k121_4364654_8	STM_0716_E_M_E026_E050_A_bin.98_k121_4364654_8	3	1	fefe_B	no	fefe_B
+Fen.Unlabelled.R3.T3.F1.trimmomatic.metaspades_bin.91_92.88_0.54_NODE_564_length_37241_cov_6.412844_29	Fen.Unlabelled.R3.T3.F1.trimmomatic.metaspades_bin.91_92.88_0.54_NODE_564_length_37241_cov_6.412844_29	3	1	fefe_B	no	fefe_B
+Fen.Unlabelled.R3.T3.F1.trimmomatic.metaspades_bin.47_85.60_2.42_NODE_4614_length_10671_cov_8.193576_6	Fen.Unlabelled.R3.T3.F1.trimmomatic.metaspades_bin.47_85.60_2.42_NODE_4614_length_10671_cov_8.193576_6	3	1	fefe_B	no	fefe_B
+Fen.Unlabelled.R3.T3.F1.trimmomatic.metaspades_bin.36_72.59_0.89_NODE_20171_length_4182_cov_5.741216_1	Fen.Unlabelled.R3.T3.F1.trimmomatic.metaspades_bin.36_72.59_0.89_NODE_20171_length_4182_cov_5.741216_1	3	1	fefe_B	no	fefe_B
+Fen.Unlabelled.R3.T3.F1.trimmomatic.metaspades_bin.17_77.78_2.69_NODE_2016_length_17750_cov_358.084996_1	Fen.Unlabelled.R3.T3.F1.trimmomatic.metaspades_bin.17_77.78_2.69_NODE_2016_length_17750_cov_358.084996_1	3	1	fefe_B	no	fefe_B
+Fen.Unlabelled.R3.T2.F3.trimmomatic.metaspades_bin.14_70.54_1.79_NODE_2580_length_6047_cov_4.525033_1	Fen.Unlabelled.R3.T2.F3.trimmomatic.metaspades_bin.14_70.54_1.79_NODE_2580_length_6047_cov_4.525033_1	3	1	fefe_B	no	fefe_B
+Fen.Unlabelled.R3.T2.F2.trimmomatic.metaspades_bin.5_81.01_1.93_NODE_1259_length_11600_cov_75.736076_6	Fen.Unlabelled.R3.T2.F2.trimmomatic.metaspades_bin.5_81.01_1.93_NODE_1259_length_11600_cov_75.736076_6	3	1	fefe_B	no	fefe_B
+Fen.Unlabelled.R3.T2.F1.trimmomatic.metaspades_bin.67_78.91_1.19_NODE_1616_length_18751_cov_7.112965_8	Fen.Unlabelled.R3.T2.F1.trimmomatic.metaspades_bin.67_78.91_1.19_NODE_1616_length_18751_cov_7.112965_8	3	1	fefe_B	no	fefe_B
+Fen.Unlabelled.R3.T2.F1.trimmomatic.metaspades_bin.62_76.88_1.72_NODE_6930_length_8165_cov_4.880025_7	Fen.Unlabelled.R3.T2.F1.trimmomatic.metaspades_bin.62_76.88_1.72_NODE_6930_length_8165_cov_4.880025_7	3	1	fefe_B	no	fefe_B
+Fen.Unlabelled.R3.T1.F2.trimmomatic.metaspades_bin.33_81.45_2.20_NODE_850_length_13471_cov_45.838178_6	Fen.Unlabelled.R3.T1.F2.trimmomatic.metaspades_bin.33_81.45_2.20_NODE_850_length_13471_cov_45.838178_6	3	1	fefe_B	no	fefe_B
+Fen.Unlabelled.R3.T1.F1.trimmomatic.metaspades_bin.79_77.74_1.08_NODE_12132_length_4759_cov_286.368197_5	Fen.Unlabelled.R3.T1.F1.trimmomatic.metaspades_bin.79_77.74_1.08_NODE_12132_length_4759_cov_286.368197_5	3	1	fefe_B	no	fefe_B
+Fen.Unlabelled.R2.T3.F2.trimmomatic.metaspades_bin.10_87.59_0.24_NODE_3839_length_8582_cov_6.269028_8	Fen.Unlabelled.R2.T3.F2.trimmomatic.metaspades_bin.10_87.59_0.24_NODE_3839_length_8582_cov_6.269028_8	3	1	fefe_B	no	fefe_B
+Fen.Unlabelled.R2.T3.F2.trimmomatic.metaspades_bin.1_83.87_1.79_NODE_1850_length_13571_cov_157.822211_6	Fen.Unlabelled.R2.T3.F2.trimmomatic.metaspades_bin.1_83.87_1.79_NODE_1850_length_13571_cov_157.822211_6	3	1	fefe_B	no	fefe_B
+Fen.Unlabelled.R2.T3.F2.trimmomatic.megahit_bin.2_88.97_0.00_k141_659497_2	Fen.Unlabelled.R2.T3.F2.trimmomatic.megahit_bin.2_88.97_0.00_k141_659497_2	3	1	fefe_B	no	fefe_B
+Fen.Unlabelled.R2.T3.F2.trimmomatic.megahit_bin.15_70.76_3.55_k141_520269_1	Fen.Unlabelled.R2.T3.F2.trimmomatic.megahit_bin.15_70.76_3.55_k141_520269_1	3	1	fefe_B	no	fefe_B
+Fen.Unlabelled.R2.T3.F1.trimmomatic.metaspades_bin.62_83.32_2.20_NODE_3740_length_10660_cov_379.273362_5	Fen.Unlabelled.R2.T3.F1.trimmomatic.metaspades_bin.62_83.32_2.20_NODE_3740_length_10660_cov_379.273362_5	3	1	fefe_B	no	fefe_B
+Fen.Unlabelled.R2.T1.F3.trimmomatic.metaspades_bin.31_80.65_2.69_NODE_1491_length_10301_cov_12.040504_6	Fen.Unlabelled.R2.T1.F3.trimmomatic.metaspades_bin.31_80.65_2.69_NODE_1491_length_10301_cov_12.040504_6	3	1	fefe_B	no	fefe_B
+Fen.Unlabelled.R2.T1.F2.trimmomatic.metaspades_bin.23_80.11_1.08_NODE_532_length_15430_cov_37.262374_13	Fen.Unlabelled.R2.T1.F2.trimmomatic.metaspades_bin.23_80.11_1.08_NODE_532_length_15430_cov_37.262374_13	3	1	fefe_B	no	fefe_B
+Fen.Unlabelled.R2.T1.F1.trimmomatic.metaspades_bin.45_77.69_1.61_NODE_3270_length_7283_cov_194.622856_1	Fen.Unlabelled.R2.T1.F1.trimmomatic.metaspades_bin.45_77.69_1.61_NODE_3270_length_7283_cov_194.622856_1	3	1	fefe_B	no	fefe_B
+Fen.Unlabelled.R2.T1.F1.trimmomatic.megahit_bin.27_91.70_2.68_k141_860887_2	Fen.Unlabelled.R2.T1.F1.trimmomatic.megahit_bin.27_91.70_2.68_k141_860887_2	3	1	fefe_B	no	fefe_B
+Fen.Unlabelled.R2.T1.F1.JGI.BFC.metaspades_bin.11_89.30_5.73_scaffold_331_c1_2	Fen.Unlabelled.R2.T1.F1.JGI.BFC.metaspades_bin.11_89.30_5.73_scaffold_331_c1_2	3	1	fefe_B	no	fefe_B
+Fen.Unlabelled.R1.T3.F2.trimmomatic.metaspades_bin.27_79.22_2.69_NODE_1382_length_12024_cov_38.191495_4	Fen.Unlabelled.R1.T3.F2.trimmomatic.metaspades_bin.27_79.22_2.69_NODE_1382_length_12024_cov_38.191495_4	3	1	fefe_B	no	fefe_B
+Fen.Unlabelled.R1.T3.F1.trimmomatic.metaspades_bin.62_83.80_1.99_NODE_3476_length_10848_cov_4.959881_5	Fen.Unlabelled.R1.T3.F1.trimmomatic.metaspades_bin.62_83.80_1.99_NODE_3476_length_10848_cov_4.959881_5	3	1	fefe_B	no	fefe_B
+Fen.Unlabelled.R1.T3.F1.trimmomatic.metaspades_bin.26_71.72_1.72_NODE_847_length_26801_cov_5.436028_9	Fen.Unlabelled.R1.T3.F1.trimmomatic.metaspades_bin.26_71.72_1.72_NODE_847_length_26801_cov_5.436028_9	3	1	fefe_B	no	fefe_B
+Fen.Unlabelled.R1.T3.F1.trimmomatic.metaspades_bin.1_78.41_3.32_NODE_1316_length_20536_cov_271.253894_14	Fen.Unlabelled.R1.T3.F1.trimmomatic.metaspades_bin.1_78.41_3.32_NODE_1316_length_20536_cov_271.253894_14	3	1	fefe_B	no	fefe_B
+Fen.Unlabelled.R1.T3.F1.trimmomatic.megahit_bin.44_83.93_6.72_k141_282594_2	Fen.Unlabelled.R1.T3.F1.trimmomatic.megahit_bin.44_83.93_6.72_k141_282594_2	3	1	fefe_B	no	fefe_B
+Fen.Unlabelled.R1.T3.F1.trimmomatic.megahit_bin.41_79.82_8.05_k141_895614_6	Fen.Unlabelled.R1.T3.F1.trimmomatic.megahit_bin.41_79.82_8.05_k141_895614_6	3	1	fefe_B	no	fefe_B
+Fen.Unlabelled.R1.T2.F4.trimmomatic.metaspades_bin.55_83.98_0.54_NODE_2439_length_11913_cov_6.505903_6	Fen.Unlabelled.R1.T2.F4.trimmomatic.metaspades_bin.55_83.98_0.54_NODE_2439_length_11913_cov_6.505903_6	3	1	fefe_B	no	fefe_B
+Fen.Unlabelled.R1.T2.F3.trimmomatic.metaspades_bin.12_80.43_0.99_NODE_1537_length_8829_cov_12.790176_6	Fen.Unlabelled.R1.T2.F3.trimmomatic.metaspades_bin.12_80.43_0.99_NODE_1537_length_8829_cov_12.790176_6	3	1	fefe_B	no	fefe_B
+Fen.Unlabelled.R1.T2.F2.trimmomatic.metaspades_bin.20_77.22_1.61_NODE_1462_length_11600_cov_110.830056_6	Fen.Unlabelled.R1.T2.F2.trimmomatic.metaspades_bin.20_77.22_1.61_NODE_1462_length_11600_cov_110.830056_6	3	1	fefe_B	no	fefe_B
+Fen.Unlabelled.R1.T2.F1.JGI.BFC.metaspades_bin.83_76.02_7.93_scaffold_6056_c1_7	Fen.Unlabelled.R1.T2.F1.JGI.BFC.metaspades_bin.83_76.02_7.93_scaffold_6056_c1_7	3	1	fefe_B	no	fefe_B
+Fen.Unlabelled.R1.T2.F1.JGI.BFC.metaspades_bin.83_76.02_7.93_scaffold_2966_c1_6	Fen.Unlabelled.R1.T2.F1.JGI.BFC.metaspades_bin.83_76.02_7.93_scaffold_2966_c1_6	3	1	fefe_B	no	fefe_B
+Fen.Unlabelled.R1.T2.F1.JGI.BFC.metaspades_bin.80_90.94_1.07_scaffold_3794_c1_6	Fen.Unlabelled.R1.T2.F1.JGI.BFC.metaspades_bin.80_90.94_1.07_scaffold_3794_c1_6	3	1	fefe_B	no	fefe_B
+Fen.Unlabelled.R1.T2.F1.JGI.BFC.metaspades_bin.79_78.95_1.72_scaffold_63_c1_17	Fen.Unlabelled.R1.T2.F1.JGI.BFC.metaspades_bin.79_78.95_1.72_scaffold_63_c1_17	3	1	fefe_B	no	fefe_B
+Fen.Unlabelled.R1.T2.F1.JGI.BFC.metaspades_bin.29_98.61_0.00_scaffold_133_c1_44	Fen.Unlabelled.R1.T2.F1.JGI.BFC.metaspades_bin.29_98.61_0.00_scaffold_133_c1_44	3	1	fefe_B	no	fefe_B
+Fen.Unlabelled.R1.T2.F1.JGI.BFC.metaspades_bin.10_78.91_3.92_scaffold_571_c1_16	Fen.Unlabelled.R1.T2.F1.JGI.BFC.metaspades_bin.10_78.91_3.92_scaffold_571_c1_16	3	1	fefe_B	no	fefe_B
+Fen.Unlabelled.R1.T1.F2.trimmomatic.metaspades_bin.7_83.87_1.57_NODE_484_length_14027_cov_20.101489_6	Fen.Unlabelled.R1.T1.F2.trimmomatic.metaspades_bin.7_83.87_1.57_NODE_484_length_14027_cov_20.101489_6	3	1	fefe_B	no	fefe_B
+Fen.Unlabelled.R1.T1.F1.trimmomatic.metaspades_bin.4_77.53_2.15_NODE_588_length_20607_cov_167.678912_5	Fen.Unlabelled.R1.T1.F1.trimmomatic.metaspades_bin.4_77.53_2.15_NODE_588_length_20607_cov_167.678912_5	3	1	fefe_B	no	fefe_B
+Fen.Unlabelled.R1.T1.F1.JGI.BFC.metaspades_bin.54_88.81_3.97_scaffold_1191_c1_3	Fen.Unlabelled.R1.T1.F1.JGI.BFC.metaspades_bin.54_88.81_3.97_scaffold_1191_c1_3	3	1	fefe_B	no	fefe_B
+Fen.Labelled.R3.T2.F4.trimmomatic.metaspades_bin.4_74.00_1.30_NODE_2309_length_11716_cov_4.415916_4	Fen.Labelled.R3.T2.F4.trimmomatic.metaspades_bin.4_74.00_1.30_NODE_2309_length_11716_cov_4.415916_4	3	1	fefe_B	no	fefe_B
+Fen.Labelled.R3.T2.F4.JGI.BFC.metaspades_bin.26_72.46_2.96_scaffold_3488_c1_3	Fen.Labelled.R3.T2.F4.JGI.BFC.metaspades_bin.26_72.46_2.96_scaffold_3488_c1_3	3	1	fefe_B	no	fefe_B
+Fen.Labelled.R3.T2.F3.trimmomatic.metaspades_bin.20_86.01_1.88_NODE_731_length_16328_cov_16.039022_6	Fen.Labelled.R3.T2.F3.trimmomatic.metaspades_bin.20_86.01_1.88_NODE_731_length_16328_cov_16.039022_6	3	1	fefe_B	no	fefe_B
+Fen.Labelled.R3.T1.F2.trimmomatic.metaspades_bin.42_94.61_1.08_NODE_72_length_55428_cov_63.943438_38	Fen.Labelled.R3.T1.F2.trimmomatic.metaspades_bin.42_94.61_1.08_NODE_72_length_55428_cov_63.943438_38	3	1	fefe_B	no	fefe_B
+Fen.Labelled.R3.T1.F2.trimmomatic.metaspades_bin.36_77.20_3.96_NODE_1288_length_10339_cov_69.987456_4	Fen.Labelled.R3.T1.F2.trimmomatic.metaspades_bin.36_77.20_3.96_NODE_1288_length_10339_cov_69.987456_4	3	1	fefe_B	no	fefe_B
+Fen.Labelled.R3.T1.F2.trimmomatic.metaspades_bin.15_97.73_2.19_NODE_4_length_361304_cov_17.444123_312	Fen.Labelled.R3.T1.F2.trimmomatic.metaspades_bin.15_97.73_2.19_NODE_4_length_361304_cov_17.444123_312	3	1	fefe_B	no	fefe_B
+Fen.Labelled.R3.T1.F2.JGI.BFC.metaspades_bin.27_91.57_1.74_scaffold_1509_c1_6	Fen.Labelled.R3.T1.F2.JGI.BFC.metaspades_bin.27_91.57_1.74_scaffold_1509_c1_6	3	1	fefe_B	no	fefe_B
+Fen.Labelled.R3.T1.F2.JGI.BFC.metaspades_bin.26_80.66_5.49_scaffold_1139_c1_7	Fen.Labelled.R3.T1.F2.JGI.BFC.metaspades_bin.26_80.66_5.49_scaffold_1139_c1_7	3	1	fefe_B	no	fefe_B
+Fen.Labelled.R3.T1.F1.trimmomatic.metaspades_bin.34_80.56_1.08_NODE_2852_length_7282_cov_44.126885_1	Fen.Labelled.R3.T1.F1.trimmomatic.metaspades_bin.34_80.56_1.08_NODE_2852_length_7282_cov_44.126885_1	3	1	fefe_B	no	fefe_B
+Fen.Labelled.R2.T3.F4.trimmomatic.metaspades_bin.56_80.91_1.08_NODE_1903_length_11179_cov_33.343761_6	Fen.Labelled.R2.T3.F4.trimmomatic.metaspades_bin.56_80.91_1.08_NODE_1903_length_11179_cov_33.343761_6	3	1	fefe_B	no	fefe_B
+Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.67_82.16_6.03_k141_3375598_3	Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.67_82.16_6.03_k141_3375598_3	3	1	fefe_B	no	fefe_B
+Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.61_79.72_3.54_k141_2505773_7	Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.61_79.72_3.54_k141_2505773_7	3	1	fefe_B	no	fefe_B
+Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.52_84.89_1.03_k141_2748369_1	Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.52_84.89_1.03_k141_2748369_1	3	1	fefe_B	no	fefe_B
+Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.100_86.89_0.00_k141_746070_20	Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.100_86.89_0.00_k141_746070_20	3	1	fefe_B	no	fefe_B
+Fen.Labelled.R2.T3.F3.JGI.BFC.metaspades_bin.38_80.01_9.95_scaffold_12956_c1_3	Fen.Labelled.R2.T3.F3.JGI.BFC.metaspades_bin.38_80.01_9.95_scaffold_12956_c1_3	3	1	fefe_B	no	fefe_B
+Fen.Labelled.R2.T3.F3.JGI.BFC.metaspades_bin.27_99.16_2.15_scaffold_1845_c1_15	Fen.Labelled.R2.T3.F3.JGI.BFC.metaspades_bin.27_99.16_2.15_scaffold_1845_c1_15	3	1	fefe_B	no	fefe_B
+Fen.Labelled.R2.T3.F2.trimmomatic.metaspades_bin.80_81.43_2.15_NODE_5966_length_8971_cov_142.173396_5	Fen.Labelled.R2.T3.F2.trimmomatic.metaspades_bin.80_81.43_2.15_NODE_5966_length_8971_cov_142.173396_5	3	1	fefe_B	no	fefe_B
+Fen.Labelled.R2.T3.F2.trimmomatic.megahit_bin.32_74.76_6.99_k141_1493208_5	Fen.Labelled.R2.T3.F2.trimmomatic.megahit_bin.32_74.76_6.99_k141_1493208_5	3	1	fefe_B	no	fefe_B
+Fen.Labelled.R2.T2.F4.trimmomatic.metaspades_bin.18_74.78_2.15_NODE_1388_length_10676_cov_8.029658_7	Fen.Labelled.R2.T2.F4.trimmomatic.metaspades_bin.18_74.78_2.15_NODE_1388_length_10676_cov_8.029658_7	3	1	fefe_B	no	fefe_B
+Fen.Labelled.R2.T2.F2.trimmomatic.metaspades_bin.27_79.16_1.61_NODE_2340_length_8523_cov_73.979806_6	Fen.Labelled.R2.T2.F2.trimmomatic.metaspades_bin.27_79.16_1.61_NODE_2340_length_8523_cov_73.979806_6	3	1	fefe_B	no	fefe_B
+Fen.Labelled.R2.T2.F1.trimmomatic.metaspades_bin.58_77.65_2.15_NODE_3445_length_7116_cov_42.855261_6	Fen.Labelled.R2.T2.F1.trimmomatic.metaspades_bin.58_77.65_2.15_NODE_3445_length_7116_cov_42.855261_6	3	1	fefe_B	no	fefe_B
+Fen.Labelled.R2.T1.F2.JGI.BFC.metaspades_bin.6_87.76_3.48_scaffold_1478_c1_6	Fen.Labelled.R2.T1.F2.JGI.BFC.metaspades_bin.6_87.76_3.48_scaffold_1478_c1_6	3	1	fefe_B	no	fefe_B
+Fen.Labelled.R1.T2.F4.trimmomatic.metaspades_bin.31_76.52_2.24_NODE_1178_length_10523_cov_5.980034_7	Fen.Labelled.R1.T2.F4.trimmomatic.metaspades_bin.31_76.52_2.24_NODE_1178_length_10523_cov_5.980034_7	3	1	fefe_B	no	fefe_B
+Fen.Labelled.R1.T2.F3.trimmomatic.metaspades_bin.59_78.23_1.84_NODE_995_length_13997_cov_70.106369_6	Fen.Labelled.R1.T2.F3.trimmomatic.metaspades_bin.59_78.23_1.84_NODE_995_length_13997_cov_70.106369_6	3	1	fefe_B	no	fefe_B
+Fen.Labelled.R1.T2.F3.trimmomatic.megahit_bin.4_83.95_1.23_k141_164965_12	Fen.Labelled.R1.T2.F3.trimmomatic.megahit_bin.4_83.95_1.23_k141_164965_12	3	1	fefe_B	no	fefe_B
+Fen.Labelled.R1.T2.F2.trimmomatic.metaspades_bin.20_81.09_1.08_NODE_974_length_11948_cov_63.541999_4	Fen.Labelled.R1.T2.F2.trimmomatic.metaspades_bin.20_81.09_1.08_NODE_974_length_11948_cov_63.541999_4	3	1	fefe_B	no	fefe_B
+Fen.Labelled.R1.T2.F1.trimmomatic.metaspades_bin.30_82.87_1.08_NODE_2386_length_7280_cov_41.730104_6	Fen.Labelled.R1.T2.F1.trimmomatic.metaspades_bin.30_82.87_1.08_NODE_2386_length_7280_cov_41.730104_6	3	1	fefe_B	no	fefe_B
+Fen.Labelled.R1.T1.F3.trimmomatic.metaspades_bin.23_70.57_1.61_NODE_368_length_13117_cov_6.158092_6	Fen.Labelled.R1.T1.F3.trimmomatic.metaspades_bin.23_70.57_1.61_NODE_368_length_13117_cov_6.158092_6	3	1	fefe_B	no	fefe_B
+Fen.Labelled.R1.T1.F2.trimmomatic.metaspades_bin.20_82.87_0.54_NODE_1002_length_8458_cov_45.142568_3	Fen.Labelled.R1.T1.F2.trimmomatic.metaspades_bin.20_82.87_0.54_NODE_1002_length_8458_cov_45.142568_3	3	1	fefe_B	no	fefe_B
+Fen.Labelled.R1.T1.F1.trimmomatic.metaspades_bin.3_75.84_2.35_NODE_219_length_14363_cov_9.035575_6	Fen.Labelled.R1.T1.F1.trimmomatic.metaspades_bin.3_75.84_2.35_NODE_219_length_14363_cov_9.035575_6	3	1	fefe_B	no	fefe_B
+Bog.Unlabelled.R2.T3.F3.JGI.BFC.metaspades_bin.56_96.49_0.88_scaffold_318_c1_35	Bog.Unlabelled.R2.T3.F3.JGI.BFC.metaspades_bin.56_96.49_0.88_scaffold_318_c1_35	3	1	fefe_B	no	fefe_B
+Bog.Unlabelled.R1.T3.F2.trimmomatic.metaspades_bin.21_80.50_5.13_NODE_1557_length_14185_cov_96.869993_12	Bog.Unlabelled.R1.T3.F2.trimmomatic.metaspades_bin.21_80.50_5.13_NODE_1557_length_14185_cov_96.869993_12	3	1	fefe_B	no	fefe_B
+Bog.Labelled.R1.T3.F3.trimmomatic.metaspades_bin.43_92.84_1.75_NODE_4160_length_19659_cov_8.841818_19	Bog.Labelled.R1.T3.F3.trimmomatic.metaspades_bin.43_92.84_1.75_NODE_4160_length_19659_cov_8.841818_19	3	1	fefe_B	no	fefe_B
+Bog.Labelled.R1.T1.F1.JGI.BFC.metaspades_bin.64_100.00_1.08_scaffold_60_c1_8	Bog.Labelled.R1.T1.F1.JGI.BFC.metaspades_bin.64_100.00_1.08_scaffold_60_c1_8	3	1	fefe_B	no	fefe_B
+3300028857_5_Ga0302289_1000035_39	3300028857_5_Ga0302289_1000035_39	3	1	fefe_B	no	fefe_B
+3300023254_8_Ga0224524_1000903_3	3300023254_8_Ga0224524_1000903_3	3	1	fefe_B	no	fefe_B
+3300022861_5_Ga0224528_1002144_6	3300022861_5_Ga0224528_1002144_6	3	1	fefe_B	no	fefe_B
+3300022824_1_Ga0224518_1000031_20	3300022824_1_Ga0224518_1000031_20	3	1	fefe_B	no	fefe_B
+20130700_C2D_7_c_000000001710_449	20130700_C2D_7_c_000000001710_449	3	1	fefe_B	no	fefe_B
+20130700_C1D_10_c_000000005793_12	20130700_C1D_10_c_000000005793_12	3	1	fefe_B	no	fefe_B
+STM_0716_E_M_E069_A_bin.67_k121_2317891_3	STM_0716_E_M_E069_A_bin.67_k121_2317891_3	6	1	fefe_C1	no	fefe_C1
+STM_0716_E_M_E050_E054_E058_A_bin.141_k121_1641186_16	STM_0716_E_M_E050_E054_E058_A_bin.141_k121_1641186_16	6	1	fefe_C1	no	fefe_C1
+STM_0716_E_M_E034_E058_A_bin.89_k121_285002_2	STM_0716_E_M_E034_E058_A_bin.89_k121_285002_2	6	1	fefe_C1	no	fefe_C1
+STM_0716_E_M_E034_E058_A_bin.33_k121_4984413_34	STM_0716_E_M_E034_E058_A_bin.33_k121_4984413_34	6	1	fefe_C1	no	fefe_C1
+STM_0716_E_M_E034_A_bin.10_k121_955452_5	STM_0716_E_M_E034_A_bin.10_k121_955452_5	6	1	fefe_C1	no	fefe_C1
+STM_0716_E_M_E034_A_bin.1_k121_1544773_29	STM_0716_E_M_E034_A_bin.1_k121_1544773_29	6	1	fefe_C1	no	fefe_C1
+STM_0716_E_M_E026_E050_E061_D_bin.84_k121_3102723_4	STM_0716_E_M_E026_E050_E061_D_bin.84_k121_3102723_4	6	1	fefe_C1	no	fefe_C1
+STM_0716_E_M_E026_E030_E034_A_multi_bin.55_k121_2467208_5	STM_0716_E_M_E026_E030_E034_A_multi_bin.55_k121_2467208_5	6	1	fefe_C1	no	fefe_C1
+STM_0716_E_M_E026_E030_E034_A_bin.119_k121_3526775_13	STM_0716_E_M_E026_E030_E034_A_bin.119_k121_3526775_13	6	1	fefe_C1	no	fefe_C1
+STM_0716_E_M_E001_E061_A_bin.34_k121_4483491_29	STM_0716_E_M_E001_E061_A_bin.34_k121_4483491_29	6	1	fefe_C1	no	fefe_C1
+PMZI01_ENA_PMZI01000045_PMZI01000045.1_39	PMZI01_ENA|PMZI01000045|PMZI01000045.1_39	6	1	fefe_C1	no	fefe_C1
+PMCY01_ENA_PMCY01000310_PMCY01000310.1_5	PMCY01_ENA|PMCY01000310|PMCY01000310.1_5	6	1	fefe_C1	no	fefe_C1
+PMCI01_ENA_PMCI01000433_PMCI01000433.1_7	PMCI01_ENA|PMCI01000433|PMCI01000433.1_7	6	1	fefe_C1	no	fefe_C1
+PLSJ01_ENA_PLSJ01000065_PLSJ01000065.1_3	PLSJ01_ENA|PLSJ01000065|PLSJ01000065.1_3	6	1	fefe_C1	no	fefe_C1
+Fen.Unlabelled.R3.T3.F1.trimmomatic.metaspades_bin.86_81.81_1.08_NODE_17577_length_4567_cov_15.988697_3	Fen.Unlabelled.R3.T3.F1.trimmomatic.metaspades_bin.86_81.81_1.08_NODE_17577_length_4567_cov_15.988697_3	6	1	fefe_C1	no	fefe_C1
+Fen.Unlabelled.R2.T3.F2.trimmomatic.metaspades_bin.22_97.12_0.14_NODE_3009_length_9947_cov_5.603215_8	Fen.Unlabelled.R2.T3.F2.trimmomatic.metaspades_bin.22_97.12_0.14_NODE_3009_length_9947_cov_5.603215_8	6	1	fefe_C1	no	fefe_C1
+Fen.Unlabelled.R2.T3.F2.trimmomatic.megahit_bin.15_70.76_3.55_k141_500134_4	Fen.Unlabelled.R2.T3.F2.trimmomatic.megahit_bin.15_70.76_3.55_k141_500134_4	6	1	fefe_C1	no	fefe_C1
+Fen.Unlabelled.R2.T3.F1.trimmomatic.megahit_bin.50_75.54_2.15_k141_296352_3	Fen.Unlabelled.R2.T3.F1.trimmomatic.megahit_bin.50_75.54_2.15_k141_296352_3	6	1	fefe_C1	no	fefe_C1
+Fen.Unlabelled.R2.T3.F1.JGI.BFC.metaspades_bin.20_82.22_2.60_scaffold_10331_c1_3	Fen.Unlabelled.R2.T3.F1.JGI.BFC.metaspades_bin.20_82.22_2.60_scaffold_10331_c1_3	6	1	fefe_C1	no	fefe_C1
+Fen.Unlabelled.R1.T2.F1.JGI.BFC.metaspades_bin.29_98.61_0.00_scaffold_28_c1_39	Fen.Unlabelled.R1.T2.F1.JGI.BFC.metaspades_bin.29_98.61_0.00_scaffold_28_c1_39	6	1	fefe_C1	no	fefe_C1
+Fen.Labelled.R2.T3.F4.trimmomatic.megahit_bin.36_71.84_5.41_k141_1740860_7	Fen.Labelled.R2.T3.F4.trimmomatic.megahit_bin.36_71.84_5.41_k141_1740860_7	6	1	fefe_C1	no	fefe_C1
+Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.72_76.95_1.88_k141_396601_8	Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.72_76.95_1.88_k141_396601_8	6	1	fefe_C1	no	fefe_C1
+Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.61_79.72_3.54_k141_471521_4	Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.61_79.72_3.54_k141_471521_4	6	1	fefe_C1	no	fefe_C1
+Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.52_84.89_1.03_k141_3072829_6	Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.52_84.89_1.03_k141_3072829_6	6	1	fefe_C1	no	fefe_C1
+Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.104_84.12_2.69_k141_246391_6	Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.104_84.12_2.69_k141_246391_6	6	1	fefe_C1	no	fefe_C1
+Fen.Labelled.R2.T3.F3.JGI.BFC.metaspades_bin.27_99.16_2.15_scaffold_2120_c1_6	Fen.Labelled.R2.T3.F3.JGI.BFC.metaspades_bin.27_99.16_2.15_scaffold_2120_c1_6	6	1	fefe_C1	no	fefe_C1
+Fen.Labelled.R1.T2.F3.trimmomatic.megahit_bin.4_83.95_1.23_k141_315933_8	Fen.Labelled.R1.T2.F3.trimmomatic.megahit_bin.4_83.95_1.23_k141_315933_8	6	1	fefe_C1	no	fefe_C1
+Bog.Unlabelled.R1.T3.F3.trimmomatic.megahit_bin.52_81.45_3.60_k141_431934_9	Bog.Unlabelled.R1.T3.F3.trimmomatic.megahit_bin.52_81.45_3.60_k141_431934_9	6	1	fefe_C1	no	fefe_C1
+Bog.Unlabelled.R1.T3.F3.JGI.BFC.metaspades_bin.18_71.79_4.30_scaffold_877_c2_5	Bog.Unlabelled.R1.T3.F3.JGI.BFC.metaspades_bin.18_71.79_4.30_scaffold_877_c2_5	6	1	fefe_C1	no	fefe_C1
+3300036906_8_Ga0334865_002682_11	3300036906_8_Ga0334865_002682_11	6	1	fefe_C1	no	fefe_C1
+3300028857_5_Ga0302289_1000393_9	3300028857_5_Ga0302289_1000393_9	6	1	fefe_C1	no	fefe_C1
+3300022824_1_Ga0224518_1000023_23	3300022824_1_Ga0224518_1000023_23	6	1	fefe_C1	no	fefe_C1
+20130700_E3Z_1_c_000000000083_94	20130700_E3Z_1_c_000000000083_94	6	1	fefe_C1	no	fefe_C1
+20130700_C1D_3_c_000000005296_7	20130700_C1D_3_c_000000005296_7	6	1	fefe_C1	no	fefe_C1
+20120800_E2X_11_c_000000002581_6	20120800_E2X_11_c_000000002581_6	6	1	fefe_C1	no	fefe_C1
+20120800_E2D_4_c_000000006541_3	20120800_E2D_4_c_000000006541_3	6	1	fefe_C1	no	fefe_C1
+20120700_P3D_102_c_000000058472_23	20120700_P3D_102_c_000000058472_23	6	1	fefe_C1	no	fefe_C1
+20120600_E2D_11_c_000000015000_34	20120600_E2D_11_c_000000015000_34	6	1	fefe_C1	no	fefe_C1
+20120500_P28_3_c_000000003607_4	20120500_P28_3_c_000000003607_4	6	1	fefe_C1	no	fefe_C1
+20110800_E2D_22_c_000000006643_116	20110800_E2D_22_c_000000006643_116	6	1	fefe_C1	no	fefe_C1
+20100900_E2D_7_c_000000001022_11	20100900_E2D_7_c_000000001022_11	6	1	fefe_C1	no	fefe_C1
+STM_0716_S_M_E013_A_bin.31_k121_1928387_3	STM_0716_S_M_E013_A_bin.31_k121_1928387_3	5	1	fefe_C2	no	fefe_C2
+STM_0716_E_M_E069_I_bin.13_k121_1990787_1	STM_0716_E_M_E069_I_bin.13_k121_1990787_1	5	1	fefe_C2	no	fefe_C2
+STM_0716_E_M_E069_E065_A_bin.5_k121_3055300_2	STM_0716_E_M_E069_E065_A_bin.5_k121_3055300_2	5	1	fefe_C2	no	fefe_C2
+STM_0716_E_M_E069_E061_A_bin.81_k121_5002682_2	STM_0716_E_M_E069_E061_A_bin.81_k121_5002682_2	5	1	fefe_C2	no	fefe_C2
+STM_0716_E_M_E069_A_bin.67_k121_2996243_4	STM_0716_E_M_E069_A_bin.67_k121_2996243_4	5	1	fefe_C2	no	fefe_C2
+STM_0716_E_M_E065_E061_A_bin.40_k121_240347_2	STM_0716_E_M_E065_E061_A_bin.40_k121_240347_2	5	1	fefe_C2	no	fefe_C2
+STM_0716_E_M_E054_A_bin.52_k121_3707707_1	STM_0716_E_M_E054_A_bin.52_k121_3707707_1	5	1	fefe_C2	no	fefe_C2
+STM_0716_E_M_E050_E054_E058_A_bin.156_k121_2791419_1	STM_0716_E_M_E050_E054_E058_A_bin.156_k121_2791419_1	5	1	fefe_C2	no	fefe_C2
+STM_0716_E_M_E050_E054_E058_A_bin.156_k121_1628894_7	STM_0716_E_M_E050_E054_E058_A_bin.156_k121_1628894_7	5	1	fefe_C2	no	fefe_C2
+STM_0716_E_M_E034_E058_A_bin.128_k121_608465_9	STM_0716_E_M_E034_E058_A_bin.128_k121_608465_9	5	1	fefe_C2	no	fefe_C2
+STM_0716_E_M_E034_A_bin.10_k121_822379_19	STM_0716_E_M_E034_A_bin.10_k121_822379_19	5	1	fefe_C2	no	fefe_C2
+STM_0716_E_M_E026_E050_A_bin.98_k121_11191_1	STM_0716_E_M_E026_E050_A_bin.98_k121_11191_1	5	1	fefe_C2	no	fefe_C2
+STM_0716_E_M_E026_E030_E034_D_multi_bin.46_k121_1186236_5	STM_0716_E_M_E026_E030_E034_D_multi_bin.46_k121_1186236_5	5	1	fefe_C2	no	fefe_C2
+STM_0716_E_M_E026_E030_E034_D_multi_bin.12_k121_4038810_4	STM_0716_E_M_E026_E030_E034_D_multi_bin.12_k121_4038810_4	5	1	fefe_C2	no	fefe_C2
+STM_0716_E_M_E026_E030_E034_A_multi_bin.55_k121_6707441_1	STM_0716_E_M_E026_E030_E034_A_multi_bin.55_k121_6707441_1	5	1	fefe_C2	no	fefe_C2
+STM_0716_E_M_E026_A_bin.32_k121_1288665_2	STM_0716_E_M_E026_A_bin.32_k121_1288665_2	5	1	fefe_C2	no	fefe_C2
+PMDS01_ENA_PMDS01000060_PMDS01000060.1_16	PMDS01_ENA|PMDS01000060|PMDS01000060.1_16	5	1	fefe_C2	no	fefe_C2
+Fen.Unlabelled.R3.T2.F1.trimmomatic.metaspades_bin.67_78.91_1.19_NODE_305_length_42260_cov_7.829049_19	Fen.Unlabelled.R3.T2.F1.trimmomatic.metaspades_bin.67_78.91_1.19_NODE_305_length_42260_cov_7.829049_19	5	1	fefe_C2	no	fefe_C2
+Fen.Unlabelled.R3.T2.F1.trimmomatic.metaspades_bin.67_78.91_1.19_NODE_15505_length_4904_cov_6.790678_3	Fen.Unlabelled.R3.T2.F1.trimmomatic.metaspades_bin.67_78.91_1.19_NODE_15505_length_4904_cov_6.790678_3	5	1	fefe_C2	no	fefe_C2
+Fen.Unlabelled.R1.T3.F1.trimmomatic.metaspades_bin.62_83.80_1.99_NODE_4672_length_8922_cov_4.064509_7	Fen.Unlabelled.R1.T3.F1.trimmomatic.metaspades_bin.62_83.80_1.99_NODE_4672_length_8922_cov_4.064509_7	5	1	fefe_C2	no	fefe_C2
+Fen.Unlabelled.R1.T3.F1.trimmomatic.metaspades_bin.62_83.80_1.99_NODE_4666_length_8933_cov_4.810768_3	Fen.Unlabelled.R1.T3.F1.trimmomatic.metaspades_bin.62_83.80_1.99_NODE_4666_length_8933_cov_4.810768_3	5	1	fefe_C2	no	fefe_C2
+Fen.Unlabelled.R1.T2.F1.JGI.BFC.metaspades_bin.29_98.61_0.00_scaffold_82_c1_55	Fen.Unlabelled.R1.T2.F1.JGI.BFC.metaspades_bin.29_98.61_0.00_scaffold_82_c1_55	5	1	fefe_C2	no	fefe_C2
+Fen.Unlabelled.R1.T1.F1.JGI.BFC.metaspades_bin.15_79.61_4.68_scaffold_6781_c1_6	Fen.Unlabelled.R1.T1.F1.JGI.BFC.metaspades_bin.15_79.61_4.68_scaffold_6781_c1_6	5	1	fefe_C2	no	fefe_C2
+Fen.Labelled.R3.T1.F2.JGI.BFC.metaspades_bin.26_80.66_5.49_scaffold_562_c1_9	Fen.Labelled.R3.T1.F2.JGI.BFC.metaspades_bin.26_80.66_5.49_scaffold_562_c1_9	5	1	fefe_C2	no	fefe_C2
+Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.76_76.59_6.35_k141_3648879_7	Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.76_76.59_6.35_k141_3648879_7	5	1	fefe_C2	no	fefe_C2
+Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.76_76.59_6.35_k141_2040072_4	Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.76_76.59_6.35_k141_2040072_4	5	1	fefe_C2	no	fefe_C2
+Fen.Labelled.R2.T1.F2.JGI.BFC.metaspades_bin.6_87.76_3.48_scaffold_410_c1_2	Fen.Labelled.R2.T1.F2.JGI.BFC.metaspades_bin.6_87.76_3.48_scaffold_410_c1_2	5	1	fefe_C2	no	fefe_C2
+Bog.Unlabelled.R2.T3.F2.JGI.BFC.metaspades_bin.14_99.14_0.86_scaffold_234_c1_67	Bog.Unlabelled.R2.T3.F2.JGI.BFC.metaspades_bin.14_99.14_0.86_scaffold_234_c1_67	5	1	fefe_C2	no	fefe_C2
+Bog.None.R3.T0.JGI.BFC.metaspades_bin.199_96.50_2.76_scaffold_1832_c1_7	Bog.None.R3.T0.JGI.BFC.metaspades_bin.199_96.50_2.76_scaffold_1832_c1_7	5	1	fefe_C2	no	fefe_C2
+Bog.None.R1.T0.trimmomatic.megahit_bin.125_78.45_6.74_k141_2465059_2	Bog.None.R1.T0.trimmomatic.megahit_bin.125_78.45_6.74_k141_2465059_2	5	1	fefe_C2	no	fefe_C2
+Bog.Labelled.R1.T1.F1.JGI.BFC.metaspades_bin.64_100.00_1.08_scaffold_4548_c1_8	Bog.Labelled.R1.T1.F1.JGI.BFC.metaspades_bin.64_100.00_1.08_scaffold_4548_c1_8	5	1	fefe_C2	no	fefe_C2
+3300037562_7_Ga0310760_001909_19	3300037562_7_Ga0310760_001909_19	5	1	fefe_C2	no	fefe_C2
+3300037104_11_Ga0395706_000103_100	3300037104_11_Ga0395706_000103_100	5	1	fefe_C2	no	fefe_C2
+3300023232_1_Ga0224516_1000179_13	3300023232_1_Ga0224516_1000179_13	5	1	fefe_C2	no	fefe_C2
+3300022824_1_Ga0224518_1000101_7	3300022824_1_Ga0224518_1000101_7	5	1	fefe_C2	no	fefe_C2
+20170700_S25_9_c_000000009426_73	20170700_S25_9_c_000000009426_73	5	1	fefe_C2	no	fefe_C2
+20120700_P3D_20_c_000000084709_17	20120700_P3D_20_c_000000084709_17	5	1	fefe_C2	no	fefe_C2
+20120600_S2D_6_c_000000000108_37	20120600_S2D_6_c_000000000108_37	5	1	fefe_C2	no	fefe_C2
+STM_0716_S_M_E013_A_bin.80_k121_1849527_6	STM_0716_S_M_E013_A_bin.80_k121_1849527_6	7	1	fefe_C3	no	fefe_C3
+STM_0716_S_M_E013_A_bin.31_k121_1781844_6	STM_0716_S_M_E013_A_bin.31_k121_1781844_6	7	1	fefe_C3	no	fefe_C3
+STM_0716_E_M_E069_E065_A_bin.67_k121_773211_4	STM_0716_E_M_E069_E065_A_bin.67_k121_773211_4	7	1	fefe_C3	no	fefe_C3
+STM_0716_E_M_E069_E065_A_bin.47_k121_7424458_4	STM_0716_E_M_E069_E065_A_bin.47_k121_7424458_4	7	1	fefe_C3	no	fefe_C3
+STM_0716_E_M_E069_E065_A_bin.47_k121_1994259_15	STM_0716_E_M_E069_E065_A_bin.47_k121_1994259_15	7	1	fefe_C3	no	fefe_C3
+STM_0716_E_M_E069_E061_E_bin.45_k121_2580840_4	STM_0716_E_M_E069_E061_E_bin.45_k121_2580840_4	7	1	fefe_C3	no	fefe_C3
+STM_0716_E_M_E069_E061_A_bin.81_k121_5508965_2	STM_0716_E_M_E069_E061_A_bin.81_k121_5508965_2	7	1	fefe_C3	no	fefe_C3
+STM_0716_E_M_E069_E061_A_bin.81_k121_5333681_10	STM_0716_E_M_E069_E061_A_bin.81_k121_5333681_10	7	1	fefe_C3	no	fefe_C3
+STM_0716_E_M_E065_E061_A_bin.46_k121_1897694_6	STM_0716_E_M_E065_E061_A_bin.46_k121_1897694_6	7	1	fefe_C3	no	fefe_C3
+STM_0716_E_M_E065_A_bin.37_k121_1058339_5	STM_0716_E_M_E065_A_bin.37_k121_1058339_5	7	1	fefe_C3	no	fefe_C3
+STM_0716_E_M_E061_A_bin.35_k121_47139_4	STM_0716_E_M_E061_A_bin.35_k121_47139_4	7	1	fefe_C3	no	fefe_C3
+STM_0716_E_M_E061_A_bin.35_k121_1362516_2	STM_0716_E_M_E061_A_bin.35_k121_1362516_2	7	1	fefe_C3	no	fefe_C3
+STM_0716_E_M_E061_A_bin.30_k121_2241900_43	STM_0716_E_M_E061_A_bin.30_k121_2241900_43	7	1	fefe_C3	no	fefe_C3
+STM_0716_E_M_E061_A_bin.30_k121_2241900_38	STM_0716_E_M_E061_A_bin.30_k121_2241900_38	7	1	fefe_C3	no	fefe_C3
+STM_0716_E_M_E061_A_bin.22_k121_2140025_12	STM_0716_E_M_E061_A_bin.22_k121_2140025_12	7	1	fefe_C3	no	fefe_C3
+STM_0716_E_M_E061_A_bin.22_k121_150667_10	STM_0716_E_M_E061_A_bin.22_k121_150667_10	7	1	fefe_C3	no	fefe_C3
+STM_0716_E_M_E058_A_bin.15_k121_46744_8	STM_0716_E_M_E058_A_bin.15_k121_46744_8	7	1	fefe_C3	no	fefe_C3
+STM_0716_E_M_E054_A_bin.49_k121_1846133_30	STM_0716_E_M_E054_A_bin.49_k121_1846133_30	7	1	fefe_C3	no	fefe_C3
+STM_0716_E_M_E050_E054_E058_D_bin.80_k121_7583629_1	STM_0716_E_M_E050_E054_E058_D_bin.80_k121_7583629_1	7	1	fefe_C3	no	fefe_C3
+STM_0716_E_M_E050_E054_E058_D_bin.80_k121_2583433_2	STM_0716_E_M_E050_E054_E058_D_bin.80_k121_2583433_2	7	1	fefe_C3	no	fefe_C3
+STM_0716_E_M_E050_E054_E058_A_bin.74_k121_5053550_7	STM_0716_E_M_E050_E054_E058_A_bin.74_k121_5053550_7	7	1	fefe_C3	no	fefe_C3
+STM_0716_E_M_E050_E054_E058_A_bin.69_k121_3443351_29	STM_0716_E_M_E050_E054_E058_A_bin.69_k121_3443351_29	7	1	fefe_C3	no	fefe_C3
+STM_0716_E_M_E050_E054_E058_A_bin.148_k121_3551060_2	STM_0716_E_M_E050_E054_E058_A_bin.148_k121_3551060_2	7	1	fefe_C3	no	fefe_C3
+STM_0716_E_M_E050_E054_E058_A_bin.141_k121_9271634_14	STM_0716_E_M_E050_E054_E058_A_bin.141_k121_9271634_14	7	1	fefe_C3	no	fefe_C3
+STM_0716_E_M_E050_E054_E058_A_bin.111_k121_6049114_1	STM_0716_E_M_E050_E054_E058_A_bin.111_k121_6049114_1	7	1	fefe_C3	no	fefe_C3
+STM_0716_E_M_E050_E054_E058_A_bin.10_k121_5053544_2	STM_0716_E_M_E050_E054_E058_A_bin.10_k121_5053544_2	7	1	fefe_C3	no	fefe_C3
+STM_0716_E_M_E034_E058_A_bin.89_k121_3134762_3	STM_0716_E_M_E034_E058_A_bin.89_k121_3134762_3	7	1	fefe_C3	no	fefe_C3
+STM_0716_E_M_E034_E058_A_bin.85_k121_909970_83	STM_0716_E_M_E034_E058_A_bin.85_k121_909970_83	7	1	fefe_C3	no	fefe_C3
+STM_0716_E_M_E034_E058_A_bin.33_k121_5079429_14	STM_0716_E_M_E034_E058_A_bin.33_k121_5079429_14	7	1	fefe_C3	no	fefe_C3
+STM_0716_E_M_E030_E054_E065_D_bin.82_k121_9276233_2	STM_0716_E_M_E030_E054_E065_D_bin.82_k121_9276233_2	7	1	fefe_C3	no	fefe_C3
+STM_0716_E_M_E030_A_bin.43_k121_3564402_1	STM_0716_E_M_E030_A_bin.43_k121_3564402_1	7	1	fefe_C3	no	fefe_C3
+STM_0716_E_M_E026_E030_E034_D_multi_bin.46_k121_1397673_3	STM_0716_E_M_E026_E030_E034_D_multi_bin.46_k121_1397673_3	7	1	fefe_C3	no	fefe_C3
+STM_0716_E_M_E026_E030_E034_D_multi_bin.46_k121_1397037_2	STM_0716_E_M_E026_E030_E034_D_multi_bin.46_k121_1397037_2	7	1	fefe_C3	no	fefe_C3
+STM_0716_E_M_E026_E030_E034_D_bin.98_k121_8583521_1	STM_0716_E_M_E026_E030_E034_D_bin.98_k121_8583521_1	7	1	fefe_C3	no	fefe_C3
+STM_0716_E_M_E026_E030_E034_A_multi_bin.55_k121_7028883_5	STM_0716_E_M_E026_E030_E034_A_multi_bin.55_k121_7028883_5	7	1	fefe_C3	no	fefe_C3
+STM_0716_E_M_E026_E030_E034_A_bin.96_k121_7945598_2	STM_0716_E_M_E026_E030_E034_A_bin.96_k121_7945598_2	7	1	fefe_C3	no	fefe_C3
+STM_0716_E_M_E026_A_bin.32_k121_1119226_1	STM_0716_E_M_E026_A_bin.32_k121_1119226_1	7	1	fefe_C3	no	fefe_C3
+STM_0716_E_M_E026_A_bin.32_k121_1094_7	STM_0716_E_M_E026_A_bin.32_k121_1094_7	7	1	fefe_C3	no	fefe_C3
+STM_0716_E_M_E026_A_bin.32_k121_1005422_1	STM_0716_E_M_E026_A_bin.32_k121_1005422_1	7	1	fefe_C3	no	fefe_C3
+STM_0716_E_M_E001_E061_A_bin.34_k121_2468169_56	STM_0716_E_M_E001_E061_A_bin.34_k121_2468169_56	7	1	fefe_C3	no	fefe_C3
+STM_0716_E_M_E001_E061_A_bin.34_k121_2468169_51	STM_0716_E_M_E001_E061_A_bin.34_k121_2468169_51	7	1	fefe_C3	no	fefe_C3
+PNBO01_ENA_PNBO01000222_PNBO01000222.1_5	PNBO01_ENA|PNBO01000222|PNBO01000222.1_5	7	1	fefe_C3	no	fefe_C3
+PMZW01_ENA_PMZW01000039_PMZW01000039.1_3	PMZW01_ENA|PMZW01000039|PMZW01000039.1_3	7	1	fefe_C3	no	fefe_C3
+PMME01_ENA_PMME01000288_PMME01000288.1_4	PMME01_ENA|PMME01000288|PMME01000288.1_4	7	1	fefe_C3	no	fefe_C3
+PMKK01_ENA_PMKK01000339_PMKK01000339.1_1	PMKK01_ENA|PMKK01000339|PMKK01000339.1_1	7	1	fefe_C3	no	fefe_C3
+PMKK01_ENA_PMKK01000160_PMKK01000160.1_6	PMKK01_ENA|PMKK01000160|PMKK01000160.1_6	7	1	fefe_C3	no	fefe_C3
+PMJE01_ENA_PMJE01000598_PMJE01000598.1_2	PMJE01_ENA|PMJE01000598|PMJE01000598.1_2	7	1	fefe_C3	no	fefe_C3
+PMEC01_ENA_PMEC01000238_PMEC01000238.1_17	PMEC01_ENA|PMEC01000238|PMEC01000238.1_17	7	1	fefe_C3	no	fefe_C3
+PMEC01_ENA_PMEC01000238_PMEC01000238.1_11	PMEC01_ENA|PMEC01000238|PMEC01000238.1_11	7	1	fefe_C3	no	fefe_C3
+PMDY01_ENA_PMDY01000233_PMDY01000233.1_4	PMDY01_ENA|PMDY01000233|PMDY01000233.1_4	7	1	fefe_C3	no	fefe_C3
+PMDT01_ENA_PMDT01000389_PMDT01000389.1_5	PMDT01_ENA|PMDT01000389|PMDT01000389.1_5	7	1	fefe_C3	no	fefe_C3
+PMDS01_ENA_PMDS01000077_PMDS01000077.1_123	PMDS01_ENA|PMDS01000077|PMDS01000077.1_123	7	1	fefe_C3	no	fefe_C3
+PMCE01_ENA_PMCE01000558_PMCE01000558.1_22	PMCE01_ENA|PMCE01000558|PMCE01000558.1_22	7	1	fefe_C3	no	fefe_C3
+PMCE01_ENA_PMCE01000174_PMCE01000174.1_53	PMCE01_ENA|PMCE01000174|PMCE01000174.1_53	7	1	fefe_C3	no	fefe_C3
+PMBX01_ENA_PMBX01000178_PMBX01000178.1_7	PMBX01_ENA|PMBX01000178|PMBX01000178.1_7	7	1	fefe_C3	no	fefe_C3
+PLYK01_ENA_PLYK01000136_PLYK01000136.1_25	PLYK01_ENA|PLYK01000136|PLYK01000136.1_25	7	1	fefe_C3	no	fefe_C3
+PLTW01_ENA_PLTW01000191_PLTW01000191.1_4	PLTW01_ENA|PLTW01000191|PLTW01000191.1_4	7	1	fefe_C3	no	fefe_C3
+PLTO01_ENA_PLTO01000652_PLTO01000652.1_2	PLTO01_ENA|PLTO01000652|PLTO01000652.1_2	7	1	fefe_C3	no	fefe_C3
+PLSJ01_ENA_PLSJ01000389_PLSJ01000389.1_2	PLSJ01_ENA|PLSJ01000389|PLSJ01000389.1_2	7	1	fefe_C3	no	fefe_C3
+PLNZ01_ENA_PLNZ01000217_PLNZ01000217.1_3	PLNZ01_ENA|PLNZ01000217|PLNZ01000217.1_3	7	1	fefe_C3	no	fefe_C3
+PLNW01_ENA_PLNW01000160_PLNW01000160.1_30	PLNW01_ENA|PLNW01000160|PLNW01000160.1_30	7	1	fefe_C3	no	fefe_C3
+PLNT01_ENA_PLNT01000038_PLNT01000038.1_23	PLNT01_ENA|PLNT01000038|PLNT01000038.1_23	7	1	fefe_C3	no	fefe_C3
+PLNT01_ENA_PLNT01000038_PLNT01000038.1_18	PLNT01_ENA|PLNT01000038|PLNT01000038.1_18	7	1	fefe_C3	no	fefe_C3
+Fen.Unlabelled.R3.T3.F1.trimmomatic.metaspades_bin.36_72.59_0.89_NODE_20171_length_4182_cov_5.741216_2	Fen.Unlabelled.R3.T3.F1.trimmomatic.metaspades_bin.36_72.59_0.89_NODE_20171_length_4182_cov_5.741216_2	7	1	fefe_C3	no	fefe_C3
+Fen.Unlabelled.R3.T3.F1.trimmomatic.metaspades_bin.36_72.59_0.89_NODE_16507_length_4756_cov_2.620719_5	Fen.Unlabelled.R3.T3.F1.trimmomatic.metaspades_bin.36_72.59_0.89_NODE_16507_length_4756_cov_2.620719_5	7	1	fefe_C3	no	fefe_C3
+Fen.Unlabelled.R3.T2.F1.trimmomatic.metaspades_bin.67_78.91_1.19_NODE_1616_length_18751_cov_7.112965_5	Fen.Unlabelled.R3.T2.F1.trimmomatic.metaspades_bin.67_78.91_1.19_NODE_1616_length_18751_cov_7.112965_5	7	1	fefe_C3	no	fefe_C3
+Fen.Unlabelled.R3.T2.F1.trimmomatic.metaspades_bin.62_76.88_1.72_NODE_6930_length_8165_cov_4.880025_4	Fen.Unlabelled.R3.T2.F1.trimmomatic.metaspades_bin.62_76.88_1.72_NODE_6930_length_8165_cov_4.880025_4	7	1	fefe_C3	no	fefe_C3
+Fen.Unlabelled.R3.T1.F2.trimmomatic.metaspades_bin.1_79.41_0.30_NODE_15456_length_2921_cov_5.986043_1	Fen.Unlabelled.R3.T1.F2.trimmomatic.metaspades_bin.1_79.41_0.30_NODE_15456_length_2921_cov_5.986043_1	7	1	fefe_C3	no	fefe_C3
+Fen.Unlabelled.R2.T3.F2.trimmomatic.metaspades_bin.10_87.59_0.24_NODE_3839_length_8582_cov_6.269028_7	Fen.Unlabelled.R2.T3.F2.trimmomatic.metaspades_bin.10_87.59_0.24_NODE_3839_length_8582_cov_6.269028_7	7	1	fefe_C3	no	fefe_C3
+Fen.Unlabelled.R2.T3.F2.trimmomatic.metaspades_bin.10_87.59_0.24_NODE_1117_length_18268_cov_6.370175_5	Fen.Unlabelled.R2.T3.F2.trimmomatic.metaspades_bin.10_87.59_0.24_NODE_1117_length_18268_cov_6.370175_5	7	1	fefe_C3	no	fefe_C3
+Fen.Unlabelled.R2.T3.F2.trimmomatic.megahit_bin.2_88.97_0.00_k141_24411_2	Fen.Unlabelled.R2.T3.F2.trimmomatic.megahit_bin.2_88.97_0.00_k141_24411_2	7	1	fefe_C3	no	fefe_C3
+Fen.Unlabelled.R2.T3.F2.trimmomatic.megahit_bin.15_70.76_3.55_k141_253822_3	Fen.Unlabelled.R2.T3.F2.trimmomatic.megahit_bin.15_70.76_3.55_k141_253822_3	7	1	fefe_C3	no	fefe_C3
+Fen.Unlabelled.R1.T3.F1.trimmomatic.megahit_bin.41_79.82_8.05_k141_895614_5	Fen.Unlabelled.R1.T3.F1.trimmomatic.megahit_bin.41_79.82_8.05_k141_895614_5	7	1	fefe_C3	no	fefe_C3
+Fen.Unlabelled.R1.T3.F1.trimmomatic.megahit_bin.41_79.82_8.05_k141_650877_3	Fen.Unlabelled.R1.T3.F1.trimmomatic.megahit_bin.41_79.82_8.05_k141_650877_3	7	1	fefe_C3	no	fefe_C3
+Fen.Unlabelled.R1.T2.F1.JGI.BFC.metaspades_bin.29_98.61_0.00_scaffold_133_c1_41	Fen.Unlabelled.R1.T2.F1.JGI.BFC.metaspades_bin.29_98.61_0.00_scaffold_133_c1_41	7	1	fefe_C3	no	fefe_C3
+Fen.Unlabelled.R1.T1.F1.JGI.BFC.metaspades_bin.15_79.61_4.68_scaffold_1041_c1_6	Fen.Unlabelled.R1.T1.F1.JGI.BFC.metaspades_bin.15_79.61_4.68_scaffold_1041_c1_6	7	1	fefe_C3	no	fefe_C3
+Fen.Labelled.R2.T3.F4.trimmomatic.metaspades_bin.51_87.95_0.05_NODE_1579_length_12695_cov_5.453877_8	Fen.Labelled.R2.T3.F4.trimmomatic.metaspades_bin.51_87.95_0.05_NODE_1579_length_12695_cov_5.453877_8	7	1	fefe_C3	no	fefe_C3
+Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.76_76.59_6.35_k141_1806542_1	Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.76_76.59_6.35_k141_1806542_1	7	1	fefe_C3	no	fefe_C3
+Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.67_82.16_6.03_k141_3375598_2	Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.67_82.16_6.03_k141_3375598_2	7	1	fefe_C3	no	fefe_C3
+Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.67_82.16_6.03_k141_3360399_3	Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.67_82.16_6.03_k141_3360399_3	7	1	fefe_C3	no	fefe_C3
+Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.61_79.72_3.54_k141_3795890_5	Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.61_79.72_3.54_k141_3795890_5	7	1	fefe_C3	no	fefe_C3
+Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.52_84.89_1.03_k141_2748369_3	Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.52_84.89_1.03_k141_2748369_3	7	1	fefe_C3	no	fefe_C3
+Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.100_86.89_0.00_k141_746070_17	Fen.Labelled.R2.T3.F3.trimmomatic.megahit_bin.100_86.89_0.00_k141_746070_17	7	1	fefe_C3	no	fefe_C3
+Fen.Labelled.R2.T1.F2.JGI.BFC.metaspades_bin.6_87.76_3.48_scaffold_1815_c1_2	Fen.Labelled.R2.T1.F2.JGI.BFC.metaspades_bin.6_87.76_3.48_scaffold_1815_c1_2	7	1	fefe_C3	no	fefe_C3
+Fen.Labelled.R1.T2.F3.trimmomatic.megahit_bin.4_83.95_1.23_k141_164965_14	Fen.Labelled.R1.T2.F3.trimmomatic.megahit_bin.4_83.95_1.23_k141_164965_14	7	1	fefe_C3	no	fefe_C3
+Bog.Unlabelled.R3.T3.F2.trimmomatic.metaspades_bin.148_70.25_9.70_NODE_401_length_58862_cov_11.557145_25	Bog.Unlabelled.R3.T3.F2.trimmomatic.metaspades_bin.148_70.25_9.70_NODE_401_length_58862_cov_11.557145_25	7	1	fefe_C3	no	fefe_C3
+Bog.Unlabelled.R3.T2.F3.JGI.BFC.metaspades_bin.122_96.77_0.86_scaffold_24_c1_103	Bog.Unlabelled.R3.T2.F3.JGI.BFC.metaspades_bin.122_96.77_0.86_scaffold_24_c1_103	7	1	fefe_C3	no	fefe_C3
+Bog.Unlabelled.R3.T2.F2.trimmomatic.metaspades_bin.36_75.58_8.10_NODE_585_length_39372_cov_7.833380_3	Bog.Unlabelled.R3.T2.F2.trimmomatic.metaspades_bin.36_75.58_8.10_NODE_585_length_39372_cov_7.833380_3	7	1	fefe_C3	no	fefe_C3
+Bog.Unlabelled.R3.T2.F2.trimmomatic.metaspades_bin.36_75.58_8.10_NODE_21328_length_5093_cov_7.423978_4	Bog.Unlabelled.R3.T2.F2.trimmomatic.metaspades_bin.36_75.58_8.10_NODE_21328_length_5093_cov_7.423978_4	7	1	fefe_C3	no	fefe_C3
+Bog.Unlabelled.R2.T3.F3.trimmomatic.metaspades_bin.173_71.36_8.00_NODE_41165_length_3985_cov_3.973537_2	Bog.Unlabelled.R2.T3.F3.trimmomatic.metaspades_bin.173_71.36_8.00_NODE_41165_length_3985_cov_3.973537_2	7	1	fefe_C3	no	fefe_C3
+Bog.Unlabelled.R2.T3.F2.JGI.BFC.metaspades_bin.69_94.23_0.86_scaffold_1712_c1_13	Bog.Unlabelled.R2.T3.F2.JGI.BFC.metaspades_bin.69_94.23_0.86_scaffold_1712_c1_13	7	1	fefe_C3	no	fefe_C3
+Bog.Unlabelled.R2.T3.F2.JGI.BFC.metaspades_bin.55_93.55_2.59_scaffold_218_c1_17	Bog.Unlabelled.R2.T3.F2.JGI.BFC.metaspades_bin.55_93.55_2.59_scaffold_218_c1_17	7	1	fefe_C3	no	fefe_C3
+Bog.Unlabelled.R2.T3.F2.JGI.BFC.metaspades_bin.14_99.14_0.86_scaffold_172_c1_10	Bog.Unlabelled.R2.T3.F2.JGI.BFC.metaspades_bin.14_99.14_0.86_scaffold_172_c1_10	7	1	fefe_C3	no	fefe_C3
+Bog.Unlabelled.R2.T3.F1.JGI.BFC.metaspades_bin.55_91.59_1.72_scaffold_421_c1_3	Bog.Unlabelled.R2.T3.F1.JGI.BFC.metaspades_bin.55_91.59_1.72_scaffold_421_c1_3	7	1	fefe_C3	no	fefe_C3
+Bog.Unlabelled.R2.T2.F2.JGI.BFC.metaspades_bin.16_87.66_1.12_scaffold_788_c1_15	Bog.Unlabelled.R2.T2.F2.JGI.BFC.metaspades_bin.16_87.66_1.12_scaffold_788_c1_15	7	1	fefe_C3	no	fefe_C3
+Bog.Unlabelled.R1.T3.F3.trimmomatic.megahit_bin.57_71.58_1.72_k141_1129067_1	Bog.Unlabelled.R1.T3.F3.trimmomatic.megahit_bin.57_71.58_1.72_k141_1129067_1	7	1	fefe_C3	no	fefe_C3
+Bog.None.R3.T0.trimmomatic.megahit_bin.55_94.74_3.88_k141_3367276_12	Bog.None.R3.T0.trimmomatic.megahit_bin.55_94.74_3.88_k141_3367276_12	7	1	fefe_C3	no	fefe_C3
+Bog.None.R3.T0.trimmomatic.megahit_bin.55_94.74_3.88_k141_2985710_7	Bog.None.R3.T0.trimmomatic.megahit_bin.55_94.74_3.88_k141_2985710_7	7	1	fefe_C3	no	fefe_C3
+Bog.None.R3.T0.trimmomatic.megahit_bin.342_91.38_4.21_k141_3766989_7	Bog.None.R3.T0.trimmomatic.megahit_bin.342_91.38_4.21_k141_3766989_7	7	1	fefe_C3	no	fefe_C3
+Bog.None.R3.T0.JGI.BFC.metaspades_bin.277_97.34_4.31_scaffold_2084_c1_29	Bog.None.R3.T0.JGI.BFC.metaspades_bin.277_97.34_4.31_scaffold_2084_c1_29	7	1	fefe_C3	no	fefe_C3
+Bog.None.R3.T0.JGI.BFC.metaspades_bin.199_96.50_2.76_scaffold_12168_c1_5	Bog.None.R3.T0.JGI.BFC.metaspades_bin.199_96.50_2.76_scaffold_12168_c1_5	7	1	fefe_C3	no	fefe_C3
+Bog.None.R3.T0.JGI.BFC.metaspades_bin.143_78.72_9.48_scaffold_12565_c1_15	Bog.None.R3.T0.JGI.BFC.metaspades_bin.143_78.72_9.48_scaffold_12565_c1_15	7	1	fefe_C3	no	fefe_C3
+Bog.None.R1.T0.trimmomatic.megahit_bin.1_70.85_3.45_k141_1489366_2	Bog.None.R1.T0.trimmomatic.megahit_bin.1_70.85_3.45_k141_1489366_2	7	1	fefe_C3	no	fefe_C3
+Bog.Labelled.R2.T2.F2.JGI.BFC.metaspades_bin.66_91.59_1.20_scaffold_629_c1_4	Bog.Labelled.R2.T2.F2.JGI.BFC.metaspades_bin.66_91.59_1.20_scaffold_629_c1_4	7	1	fefe_C3	no	fefe_C3
+Bog.Labelled.R1.T3.F3.trimmomatic.metaspades_bin.43_92.84_1.75_NODE_721_length_52547_cov_8.712851_26	Bog.Labelled.R1.T3.F3.trimmomatic.metaspades_bin.43_92.84_1.75_NODE_721_length_52547_cov_8.712851_26	7	1	fefe_C3	no	fefe_C3
+Bog.Labelled.R1.T3.F3.trimmomatic.metaspades_bin.43_92.84_1.75_NODE_4813_length_18024_cov_7.286271_5	Bog.Labelled.R1.T3.F3.trimmomatic.metaspades_bin.43_92.84_1.75_NODE_4813_length_18024_cov_7.286271_5	7	1	fefe_C3	no	fefe_C3
+Bog.Labelled.R1.T3.F3.trimmomatic.metaspades_bin.43_92.84_1.75_NODE_4160_length_19659_cov_8.841818_16	Bog.Labelled.R1.T3.F3.trimmomatic.metaspades_bin.43_92.84_1.75_NODE_4160_length_19659_cov_8.841818_16	7	1	fefe_C3	no	fefe_C3
+Bog.Labelled.R1.T3.F3.trimmomatic.metaspades_bin.42_92.00_1.72_NODE_102_length_110393_cov_12.212937_46	Bog.Labelled.R1.T3.F3.trimmomatic.metaspades_bin.42_92.00_1.72_NODE_102_length_110393_cov_12.212937_46	7	1	fefe_C3	no	fefe_C3
+Bog.Labelled.R1.T1.F1.JGI.BFC.metaspades_bin.151_96.12_0.92_scaffold_119_c1_71	Bog.Labelled.R1.T1.F1.JGI.BFC.metaspades_bin.151_96.12_0.92_scaffold_119_c1_71	7	1	fefe_C3	no	fefe_C3
+Bog.Labelled.R1.T1.F1.JGI.BFC.metaspades_bin.128_96.67_1.72_scaffold_82_c1_26	Bog.Labelled.R1.T1.F1.JGI.BFC.metaspades_bin.128_96.67_1.72_scaffold_82_c1_26	7	1	fefe_C3	no	fefe_C3
+Bog.Labelled.R1.T1.F1.JGI.BFC.metaspades_bin.122_90.43_7.26_scaffold_39193_c1_4	Bog.Labelled.R1.T1.F1.JGI.BFC.metaspades_bin.122_90.43_7.26_scaffold_39193_c1_4	7	1	fefe_C3	no	fefe_C3
+Bog.Labelled.R1.T1.F1.JGI.BFC.metaspades_bin.116_96.93_0.86_scaffold_57_c1_42	Bog.Labelled.R1.T1.F1.JGI.BFC.metaspades_bin.116_96.93_0.86_scaffold_57_c1_42	7	1	fefe_C3	no	fefe_C3
+3300039216_12_Ga0310687_0000841_15	3300039216_12_Ga0310687_0000841_15	7	1	fefe_C3	no	fefe_C3
+3300038473_6_Ga0436660_0002412_1	3300038473_6_Ga0436660_0002412_1	7	1	fefe_C3	no	fefe_C3
+3300038461_5_Ga0436662_0002947_3	3300038461_5_Ga0436662_0002947_3	7	1	fefe_C3	no	fefe_C3
+3300038457_9_Ga0436655_003117_9	3300038457_9_Ga0436655_003117_9	7	1	fefe_C3	no	fefe_C3
+3300038457_9_Ga0436655_002736_14	3300038457_9_Ga0436655_002736_14	7	1	fefe_C3	no	fefe_C3
+3300037562_7_Ga0310760_003751_11	3300037562_7_Ga0310760_003751_11	7	1	fefe_C3	no	fefe_C3
+3300037549_15_Ga0310740_0011759_4	3300037549_15_Ga0310740_0011759_4	7	1	fefe_C3	no	fefe_C3
+3300037198_12_Ga0395635_0002223_8	3300037198_12_Ga0395635_0002223_8	7	1	fefe_C3	no	fefe_C3
+3300037132_8_Ga0395987_000620_4	3300037132_8_Ga0395987_000620_4	7	1	fefe_C3	no	fefe_C3
+3300037104_11_Ga0395706_000027_31	3300037104_11_Ga0395706_000027_31	7	1	fefe_C3	no	fefe_C3
+3300037104_11_Ga0395706_000004_73	3300037104_11_Ga0395706_000004_73	7	1	fefe_C3	no	fefe_C3
+3300037091_10_Ga0334825_000537_5	3300037091_10_Ga0334825_000537_5	7	1	fefe_C3	no	fefe_C3
+3300037076_11_Ga0395910_000002_97	3300037076_11_Ga0395910_000002_97	7	1	fefe_C3	no	fefe_C3
+3300036886_10_Ga0334826_000005_160	3300036886_10_Ga0334826_000005_160	7	1	fefe_C3	no	fefe_C3
+3300036884_7_Ga0334813_000075_27	3300036884_7_Ga0334813_000075_27	7	1	fefe_C3	no	fefe_C3
+3300028857_5_Ga0302289_1000088_32	3300028857_5_Ga0302289_1000088_32	7	1	fefe_C3	no	fefe_C3
+3300023254_4_Ga0224524_1000109_24	3300023254_4_Ga0224524_1000109_24	7	1	fefe_C3	no	fefe_C3
+3300023254_4_Ga0224524_1000109_20	3300023254_4_Ga0224524_1000109_20	7	1	fefe_C3	no	fefe_C3
+3300023248_5_Ga0224525_1000658_9	3300023248_5_Ga0224525_1000658_9	7	1	fefe_C3	no	fefe_C3
+3300023232_1_Ga0224516_1002283_1	3300023232_1_Ga0224516_1002283_1	7	1	fefe_C3	no	fefe_C3
+3300023232_1_Ga0224516_1000801_4	3300023232_1_Ga0224516_1000801_4	7	1	fefe_C3	no	fefe_C3
+20170700_S35_2_c_000000000431_1	20170700_S35_2_c_000000000431_1	7	1	fefe_C3	no	fefe_C3
+20170700_S35_2_c_000000000255_25	20170700_S35_2_c_000000000255_25	7	1	fefe_C3	no	fefe_C3
+20170700_S35_19_c_000000001371_9	20170700_S35_19_c_000000001371_9	7	1	fefe_C3	no	fefe_C3
+20170700_S35_19_c_000000001371_13	20170700_S35_19_c_000000001371_13	7	1	fefe_C3	no	fefe_C3
+20170700_S35_10_c_000000008494_3	20170700_S35_10_c_000000008494_3	7	1	fefe_C3	no	fefe_C3
+20170700_S34_10_c_000000008989_6	20170700_S34_10_c_000000008989_6	7	1	fefe_C3	no	fefe_C3
+20170700_S33_33_c_000000004139_6	20170700_S33_33_c_000000004139_6	7	1	fefe_C3	no	fefe_C3
+20170700_S33_33_c_000000004131_12	20170700_S33_33_c_000000004131_12	7	1	fefe_C3	no	fefe_C3
+20170700_S33_23_c_000000003393_17	20170700_S33_23_c_000000003393_17	7	1	fefe_C3	no	fefe_C3
+20170700_S25_23_c_000000011222_3	20170700_S25_23_c_000000011222_3	7	1	fefe_C3	no	fefe_C3
+20170700_S25_13_c_000000008165_5	20170700_S25_13_c_000000008165_5	7	1	fefe_C3	no	fefe_C3
+20170700_S24_9_c_000000001541_4	20170700_S24_9_c_000000001541_4	7	1	fefe_C3	no	fefe_C3
+20170700_S24_5_c_000000000924_1	20170700_S24_5_c_000000000924_1	7	1	fefe_C3	no	fefe_C3
+20170700_S24_14_c_000000003635_39	20170700_S24_14_c_000000003635_39	7	1	fefe_C3	no	fefe_C3
+20170700_E33_1_c_000000000451_3	20170700_E33_1_c_000000000451_3	7	1	fefe_C3	no	fefe_C3
+20170700_E33_1_c_000000000328_1	20170700_E33_1_c_000000000328_1	7	1	fefe_C3	no	fefe_C3
+20170700_E15_6_c_000000002651_41	20170700_E15_6_c_000000002651_41	7	1	fefe_C3	no	fefe_C3
+20160700_E35_7_c_000000001139_5	20160700_E35_7_c_000000001139_5	7	1	fefe_C3	no	fefe_C3
+20160700_E35_7_c_000000000846_2	20160700_E35_7_c_000000000846_2	7	1	fefe_C3	no	fefe_C3
+20160700_E25_16_c_000000001550_3	20160700_E25_16_c_000000001550_3	7	1	fefe_C3	no	fefe_C3
+20160700_E25_15_c_000000006823_148	20160700_E25_15_c_000000006823_148	7	1	fefe_C3	no	fefe_C3
+20160700_E25_13_c_000000008614_16	20160700_E25_13_c_000000008614_16	7	1	fefe_C3	no	fefe_C3
+20160700_E25_11_c_000000003068_1	20160700_E25_11_c_000000003068_1	7	1	fefe_C3	no	fefe_C3
+20160700_E23_20_c_000000004113_4	20160700_E23_20_c_000000004113_4	7	1	fefe_C3	no	fefe_C3
+20160700_E11_1_c_000000001060_3	20160700_E11_1_c_000000001060_3	7	1	fefe_C3	no	fefe_C3
+20160700_E11_1_c_000000000768_2	20160700_E11_1_c_000000000768_2	7	1	fefe_C3	no	fefe_C3
+20150700_S15_12_c_000000004534_69	20150700_S15_12_c_000000004534_69	7	1	fefe_C3	no	fefe_C3
+20150700_E35_7_c_000000001546_8	20150700_E35_7_c_000000001546_8	7	1	fefe_C3	no	fefe_C3
+20150700_E35_7_c_000000001546_3	20150700_E35_7_c_000000001546_3	7	1	fefe_C3	no	fefe_C3
+20150700_E34_1_c_000000002861_2	20150700_E34_1_c_000000002861_2	7	1	fefe_C3	no	fefe_C3
+20150700_E21_1_c_000000001126_2	20150700_E21_1_c_000000001126_2	7	1	fefe_C3	no	fefe_C3
+20150700_E15_4_c_000000004420_1	20150700_E15_4_c_000000004420_1	7	1	fefe_C3	no	fefe_C3
+20150700_E15_20_c_000000007574_23	20150700_E15_20_c_000000007574_23	7	1	fefe_C3	no	fefe_C3
+20150700_E15_18_c_000000008026_6	20150700_E15_18_c_000000008026_6	7	1	fefe_C3	no	fefe_C3
+20150700_E15_18_c_000000007920_2	20150700_E15_18_c_000000007920_2	7	1	fefe_C3	no	fefe_C3
+20150700_E14_5_c_000000004414_37	20150700_E14_5_c_000000004414_37	7	1	fefe_C3	no	fefe_C3
+20150700_E14_4_c_000000001918_15	20150700_E14_4_c_000000001918_15	7	1	fefe_C3	no	fefe_C3
+20150700_E13_3_c_000000003755_4	20150700_E13_3_c_000000003755_4	7	1	fefe_C3	no	fefe_C3
+20140700_S36_11_c_000000006010_18	20140700_S36_11_c_000000006010_18	7	1	fefe_C3	no	fefe_C3
+20140700_S35_5_c_000000003221_12	20140700_S35_5_c_000000003221_12	7	1	fefe_C3	no	fefe_C3
+20140700_S11_6_c_000000005325_3	20140700_S11_6_c_000000005325_3	7	1	fefe_C3	no	fefe_C3
+20140700_S11_11_c_000000002495_50	20140700_S11_11_c_000000002495_50	7	1	fefe_C3	no	fefe_C3
+20140700_E22_1_c_000000003858_6	20140700_E22_1_c_000000003858_6	7	1	fefe_C3	no	fefe_C3
+20140700_E22_1_c_000000003787_3	20140700_E22_1_c_000000003787_3	7	1	fefe_C3	no	fefe_C3
+20140700_E15_7_c_000000001583_7	20140700_E15_7_c_000000001583_7	7	1	fefe_C3	no	fefe_C3
+20140700_E15_6_c_000000004288_15	20140700_E15_6_c_000000004288_15	7	1	fefe_C3	no	fefe_C3
+20140700_E15_6_c_000000004288_10	20140700_E15_6_c_000000004288_10	7	1	fefe_C3	no	fefe_C3
+20140700_E15_5_c_000000004104_59	20140700_E15_5_c_000000004104_59	7	1	fefe_C3	no	fefe_C3
+20130700_S2D_2_c_000000006655_17	20130700_S2D_2_c_000000006655_17	7	1	fefe_C3	no	fefe_C3
+20130700_S1Z_5_c_000000000196_11	20130700_S1Z_5_c_000000000196_11	7	1	fefe_C3	no	fefe_C3
+20130700_E3Z_7_c_000000002966_2	20130700_E3Z_7_c_000000002966_2	7	1	fefe_C3	no	fefe_C3
+20130700_E2Y_3_c_000000002256_partial_60836_222644_2	20130700_E2Y_3_c_000000002256_partial_60836_222644_2	7	1	fefe_C3	no	fefe_C3
+20130700_E2S_2_c_000000000270_9	20130700_E2S_2_c_000000000270_9	7	1	fefe_C3	no	fefe_C3
+20130700_E2M_1_c_000000001694_1	20130700_E2M_1_c_000000001694_1	7	1	fefe_C3	no	fefe_C3
+20130700_E2D_8_c_000000001500_3	20130700_E2D_8_c_000000001500_3	7	1	fefe_C3	no	fefe_C3
+20130700_E1M_4_c_000000000344_3	20130700_E1M_4_c_000000000344_3	7	1	fefe_C3	no	fefe_C3
+20130700_C2Y_2_c_000000001366_11	20130700_C2Y_2_c_000000001366_11	7	1	fefe_C3	no	fefe_C3
+20130700_C2X_5_c_000000003671_31	20130700_C2X_5_c_000000003671_31	7	1	fefe_C3	no	fefe_C3
+20130700_C2X_5_c_000000003671_26	20130700_C2X_5_c_000000003671_26	7	1	fefe_C3	no	fefe_C3
+20130700_C2X_10_c_000000002143_32	20130700_C2X_10_c_000000002143_32	7	1	fefe_C3	no	fefe_C3
+20130700_C2X_10_c_000000002060_17	20130700_C2X_10_c_000000002060_17	7	1	fefe_C3	no	fefe_C3
+20130700_C2X_10_c_000000002054_8	20130700_C2X_10_c_000000002054_8	7	1	fefe_C3	no	fefe_C3
+20130700_C2M_8_c_000000005958_5	20130700_C2M_8_c_000000005958_5	7	1	fefe_C3	no	fefe_C3
+20130700_C2M_20_c_000000007510_2	20130700_C2M_20_c_000000007510_2	7	1	fefe_C3	no	fefe_C3
+20130700_C2M_20_c_000000007351_23	20130700_C2M_20_c_000000007351_23	7	1	fefe_C3	no	fefe_C3
+20130700_C1Y_11_c_000000000635_2	20130700_C1Y_11_c_000000000635_2	7	1	fefe_C3	no	fefe_C3
+20130700_C1X_6_c_000000000995_18	20130700_C1X_6_c_000000000995_18	7	1	fefe_C3	no	fefe_C3
+20130700_C1X_17_c_000000006362_3	20130700_C1X_17_c_000000006362_3	7	1	fefe_C3	no	fefe_C3
+20130700_C1X_15_c_000000005789_9	20130700_C1X_15_c_000000005789_9	7	1	fefe_C3	no	fefe_C3
+20130700_C1X_10_c_000000003068_17	20130700_C1X_10_c_000000003068_17	7	1	fefe_C3	no	fefe_C3
+20130700_C1D_5_c_000000006515_8	20130700_C1D_5_c_000000006515_8	7	1	fefe_C3	no	fefe_C3
+20130700_C1D_5_c_000000006223_9	20130700_C1D_5_c_000000006223_9	7	1	fefe_C3	no	fefe_C3
+20130700_C1D_3_c_000000005500_4	20130700_C1D_3_c_000000005500_4	7	1	fefe_C3	no	fefe_C3
+20130700_C1D_3_c_000000005487_3	20130700_C1D_3_c_000000005487_3	7	1	fefe_C3	no	fefe_C3
+20130700_C1D_14_c_000000003236_2	20130700_C1D_14_c_000000003236_2	7	1	fefe_C3	no	fefe_C3
+20130700_C1D_10_c_000000005721_3	20130700_C1D_10_c_000000005721_3	7	1	fefe_C3	no	fefe_C3
+20120800_E3X_28_c_000000005794_3	20120800_E3X_28_c_000000005794_3	7	1	fefe_C3	no	fefe_C3
+20120800_E3X_14_c_000000000292_19	20120800_E3X_14_c_000000000292_19	7	1	fefe_C3	no	fefe_C3
+20120800_E3X_14_c_000000000292_14	20120800_E3X_14_c_000000000292_14	7	1	fefe_C3	no	fefe_C3
+20120800_E3S_15_c_000000003985_31	20120800_E3S_15_c_000000003985_31	7	1	fefe_C3	no	fefe_C3
+20120800_E3S_15_c_000000003985_26	20120800_E3S_15_c_000000003985_26	7	1	fefe_C3	no	fefe_C3
+20120800_E3D_4_c_000000000056_24	20120800_E3D_4_c_000000000056_24	7	1	fefe_C3	no	fefe_C3
+20120800_E3D_4_c_000000000056_19	20120800_E3D_4_c_000000000056_19	7	1	fefe_C3	no	fefe_C3
+20120800_E2X_16_c_000000005300_5	20120800_E2X_16_c_000000005300_5	7	1	fefe_C3	no	fefe_C3
+20120800_E2X_16_c_000000005219_2	20120800_E2X_16_c_000000005219_2	7	1	fefe_C3	no	fefe_C3
+20120800_E2X_11_c_000000002892_6	20120800_E2X_11_c_000000002892_6	7	1	fefe_C3	no	fefe_C3
+20120800_E2X_11_c_000000002892_1	20120800_E2X_11_c_000000002892_1	7	1	fefe_C3	no	fefe_C3
+20120800_E2M_2_c_000000000941_4	20120800_E2M_2_c_000000000941_4	7	1	fefe_C3	no	fefe_C3
+20120800_E2D_10_c_000000004729_6	20120800_E2D_10_c_000000004729_6	7	1	fefe_C3	no	fefe_C3
+20120800_E2D_10_c_000000004729_11	20120800_E2D_10_c_000000004729_11	7	1	fefe_C3	no	fefe_C3
+20120800_E1X_7_c_000000000536_2	20120800_E1X_7_c_000000000536_2	7	1	fefe_C3	no	fefe_C3
+20120800_E1D_18_c_000000006598_5	20120800_E1D_18_c_000000006598_5	7	1	fefe_C3	no	fefe_C3
+20120700_S1D_98_c_000000048949_6	20120700_S1D_98_c_000000048949_6	7	1	fefe_C3	no	fefe_C3
+20120700_S1D_97_c_000000096873_21	20120700_S1D_97_c_000000096873_21	7	1	fefe_C3	no	fefe_C3
+20120700_S1D_9_c_000000027210_20	20120700_S1D_9_c_000000027210_20	7	1	fefe_C3	no	fefe_C3
+20120700_S1D_77_c_000000077338_6	20120700_S1D_77_c_000000077338_6	7	1	fefe_C3	no	fefe_C3
+20120700_S1D_74_c_000000032606_13	20120700_S1D_74_c_000000032606_13	7	1	fefe_C3	no	fefe_C3
+20120700_S1D_67_c_000000013476_6	20120700_S1D_67_c_000000013476_6	7	1	fefe_C3	no	fefe_C3
+20120700_S1D_64_c_000000031128_6	20120700_S1D_64_c_000000031128_6	7	1	fefe_C3	no	fefe_C3
+20120700_S1D_49_c_000000018254_7	20120700_S1D_49_c_000000018254_7	7	1	fefe_C3	no	fefe_C3
+20120700_S1D_48_c_000000071398_17	20120700_S1D_48_c_000000071398_17	7	1	fefe_C3	no	fefe_C3
+20120700_S1D_39_c_000000057994_1	20120700_S1D_39_c_000000057994_1	7	1	fefe_C3	no	fefe_C3
+20120700_S1D_39_c_000000057780_9	20120700_S1D_39_c_000000057780_9	7	1	fefe_C3	no	fefe_C3
+20120700_S1D_30_c_000000001425_3	20120700_S1D_30_c_000000001425_3	7	1	fefe_C3	no	fefe_C3
+20120700_S1D_26_c_000000005510_3	20120700_S1D_26_c_000000005510_3	7	1	fefe_C3	no	fefe_C3
+20120700_S1D_26_c_000000005438_3	20120700_S1D_26_c_000000005438_3	7	1	fefe_C3	no	fefe_C3
+20120700_S1D_24_c_000000028732_10	20120700_S1D_24_c_000000028732_10	7	1	fefe_C3	no	fefe_C3
+20120700_S1D_108_c_000000019317_5	20120700_S1D_108_c_000000019317_5	7	1	fefe_C3	no	fefe_C3
+20120700_S1D_107_c_000000093048_45	20120700_S1D_107_c_000000093048_45	7	1	fefe_C3	no	fefe_C3
+20120700_S1D_104_c_000000032514_8	20120700_S1D_104_c_000000032514_8	7	1	fefe_C3	no	fefe_C3
+20120700_P3D_62_c_000000087298_15	20120700_P3D_62_c_000000087298_15	7	1	fefe_C3	no	fefe_C3
+20120700_P3D_20_c_000000084747_50	20120700_P3D_20_c_000000084747_50	7	1	fefe_C3	no	fefe_C3
+20120700_P3D_20_c_000000084591_27	20120700_P3D_20_c_000000084591_27	7	1	fefe_C3	no	fefe_C3
+20120700_P3D_112_c_000000057391_39	20120700_P3D_112_c_000000057391_39	7	1	fefe_C3	no	fefe_C3
+20120700_P3D_105_c_000000075137_2	20120700_P3D_105_c_000000075137_2	7	1	fefe_C3	no	fefe_C3
+20120700_P3D_1_c_000000085246_2	20120700_P3D_1_c_000000085246_2	7	1	fefe_C3	no	fefe_C3
+20120700_E3M_2_c_000000037459_1	20120700_E3M_2_c_000000037459_1	7	1	fefe_C3	no	fefe_C3
+20120700_E3M_2_c_000000037391_8	20120700_E3M_2_c_000000037391_8	7	1	fefe_C3	no	fefe_C3
+20120700_E3M_2_c_000000037391_13	20120700_E3M_2_c_000000037391_13	7	1	fefe_C3	no	fefe_C3
+20120600_S3D_11_c_000000001837_12	20120600_S3D_11_c_000000001837_12	7	1	fefe_C3	no	fefe_C3
+20120600_S1D_7_c_000000003642_7	20120600_S1D_7_c_000000003642_7	7	1	fefe_C3	no	fefe_C3
+20120600_S1D_1_c_000000004003_11	20120600_S1D_1_c_000000004003_11	7	1	fefe_C3	no	fefe_C3
+20120600_E3D_50_c_000000012258_7	20120600_E3D_50_c_000000012258_7	7	1	fefe_C3	no	fefe_C3
+20120600_E3D_50_c_000000012258_3	20120600_E3D_50_c_000000012258_3	7	1	fefe_C3	no	fefe_C3
+20120600_E3D_49_c_000000001060_2	20120600_E3D_49_c_000000001060_2	7	1	fefe_C3	no	fefe_C3
+20120600_E3D_47_c_000000003680_2	20120600_E3D_47_c_000000003680_2	7	1	fefe_C3	no	fefe_C3
+20120600_E3D_42_c_000000016968_11	20120600_E3D_42_c_000000016968_11	7	1	fefe_C3	no	fefe_C3
+20120600_E3D_41_c_000000011556_9	20120600_E3D_41_c_000000011556_9	7	1	fefe_C3	no	fefe_C3
+20120600_E3D_38_c_000000018196_32	20120600_E3D_38_c_000000018196_32	7	1	fefe_C3	no	fefe_C3
+20120600_E3D_29_c_000000023004_20	20120600_E3D_29_c_000000023004_20	7	1	fefe_C3	no	fefe_C3
+20120600_E3D_29_c_000000022906_8	20120600_E3D_29_c_000000022906_8	7	1	fefe_C3	no	fefe_C3
+20120600_E3D_25_c_000000016587_4	20120600_E3D_25_c_000000016587_4	7	1	fefe_C3	no	fefe_C3
+20120600_E3D_17_c_000000018923_4	20120600_E3D_17_c_000000018923_4	7	1	fefe_C3	no	fefe_C3
+20120600_E3D_14_c_000000019820_9	20120600_E3D_14_c_000000019820_9	7	1	fefe_C3	no	fefe_C3
+20120600_E3D_13_c_000000013759_13	20120600_E3D_13_c_000000013759_13	7	1	fefe_C3	no	fefe_C3
+20120600_E3D_13_c_000000013655_2	20120600_E3D_13_c_000000013655_2	7	1	fefe_C3	no	fefe_C3
+20120600_E2D_38_c_000000010241_3	20120600_E2D_38_c_000000010241_3	7	1	fefe_C3	no	fefe_C3
+20120600_E2D_38_c_000000010179_2	20120600_E2D_38_c_000000010179_2	7	1	fefe_C3	no	fefe_C3
+20120600_E2D_22_c_000000009807_13	20120600_E2D_22_c_000000009807_13	7	1	fefe_C3	no	fefe_C3
+20120600_E2D_22_c_000000009777_4	20120600_E2D_22_c_000000009777_4	7	1	fefe_C3	no	fefe_C3
+20120600_E2D_15_c_000000017241_9	20120600_E2D_15_c_000000017241_9	7	1	fefe_C3	no	fefe_C3
+20120600_E2D_11_c_000000015013_10	20120600_E2D_11_c_000000015013_10	7	1	fefe_C3	no	fefe_C3
+20120600_E2D_1_c_000000018061_3	20120600_E2D_1_c_000000018061_3	7	1	fefe_C3	no	fefe_C3
+20120600_E1D_9_c_000000017557_5	20120600_E1D_9_c_000000017557_5	7	1	fefe_C3	no	fefe_C3
+20120600_E1D_9_c_000000017538_15	20120600_E1D_9_c_000000017538_15	7	1	fefe_C3	no	fefe_C3
+20120600_E1D_54_c_000000000610_23	20120600_E1D_54_c_000000000610_23	7	1	fefe_C3	no	fefe_C3
+20120600_E1D_54_c_000000000585_53	20120600_E1D_54_c_000000000585_53	7	1	fefe_C3	no	fefe_C3
+20120600_E1D_31_c_000000003174_33	20120600_E1D_31_c_000000003174_33	7	1	fefe_C3	no	fefe_C3
+20120600_E1D_18_c_000000004991_12	20120600_E1D_18_c_000000004991_12	7	1	fefe_C3	no	fefe_C3
+20120600_E1D_18_c_000000004807_33	20120600_E1D_18_c_000000004807_33	7	1	fefe_C3	no	fefe_C3
+20120600_E1D_10_c_000000014204_20	20120600_E1D_10_c_000000014204_20	7	1	fefe_C3	no	fefe_C3
+20120500_P28_11_c_000000001872_6	20120500_P28_11_c_000000001872_6	7	1	fefe_C3	no	fefe_C3
+20120500_P26_5_c_000000003192_6	20120500_P26_5_c_000000003192_6	7	1	fefe_C3	no	fefe_C3
+20120500_P19_5_c_000000002122_22	20120500_P19_5_c_000000002122_22	7	1	fefe_C3	no	fefe_C3
+20111000_S2M_12_c_000000002303_7	20111000_S2M_12_c_000000002303_7	7	1	fefe_C3	no	fefe_C3
+20111000_P3M_44_c_000000005408_2	20111000_P3M_44_c_000000005408_2	7	1	fefe_C3	no	fefe_C3
+20111000_P3D_13_c_000000000562_18	20111000_P3D_13_c_000000000562_18	7	1	fefe_C3	no	fefe_C3
+20110800_E3S_3_c_000000000160_3	20110800_E3S_3_c_000000000160_3	7	1	fefe_C3	no	fefe_C3
+20110800_E3M_4_c_000000002749_8	20110800_E3M_4_c_000000002749_8	7	1	fefe_C3	no	fefe_C3
+20110800_E3M_4_c_000000002749_3	20110800_E3M_4_c_000000002749_3	7	1	fefe_C3	no	fefe_C3
+20110800_E3M_3_c_000000001358_2	20110800_E3M_3_c_000000001358_2	7	1	fefe_C3	no	fefe_C3
+20110800_E3D_38_c_000000006862_27	20110800_E3D_38_c_000000006862_27	7	1	fefe_C3	no	fefe_C3
+20110800_E3D_32_c_000000002365_2	20110800_E3D_32_c_000000002365_2	7	1	fefe_C3	no	fefe_C3
+20110800_E3D_3_c_000000007370_2	20110800_E3D_3_c_000000007370_2	7	1	fefe_C3	no	fefe_C3
+20110800_E3D_19_c_000000003871_7	20110800_E3D_19_c_000000003871_7	7	1	fefe_C3	no	fefe_C3
+20110800_E2D_6_c_000000002802_12	20110800_E2D_6_c_000000002802_12	7	1	fefe_C3	no	fefe_C3
+20110800_E2D_32_c_000000009941_12	20110800_E2D_32_c_000000009941_12	7	1	fefe_C3	no	fefe_C3
+20110800_E2D_31_c_000000007258_16	20110800_E2D_31_c_000000007258_16	7	1	fefe_C3	no	fefe_C3
+20110800_E2D_3_c_000000007462_12	20110800_E2D_3_c_000000007462_12	7	1	fefe_C3	no	fefe_C3
+20110800_E2D_1_c_000000008579_2	20110800_E2D_1_c_000000008579_2	7	1	fefe_C3	no	fefe_C3
+20110800_E1D_3_c_000000002142_19	20110800_E1D_3_c_000000002142_19	7	1	fefe_C3	no	fefe_C3
+20110800_E1D_17_c_000000006129_1	20110800_E1D_17_c_000000006129_1	7	1	fefe_C3	no	fefe_C3
+20110700_S1M_9_c_000000004455_3	20110700_S1M_9_c_000000004455_3	7	1	fefe_C3	no	fefe_C3
+20110700_E2S_1_c_000000000449_2	20110700_E2S_1_c_000000000449_2	7	1	fefe_C3	no	fefe_C3
+20110700_E2M_2_c_000000001651_2	20110700_E2M_2_c_000000001651_2	7	1	fefe_C3	no	fefe_C3
+20110700_E1S_1_c_000000000162_1	20110700_E1S_1_c_000000000162_1	7	1	fefe_C3	no	fefe_C3
+20110600_S1M_11_c_000000004614_5	20110600_S1M_11_c_000000004614_5	7	1	fefe_C3	no	fefe_C3
+20100900_E2D_7_c_000000001039_9	20100900_E2D_7_c_000000001039_9	7	1	fefe_C3	no	fefe_C3
+20100900_E1D_1_c_000000005068_2	20100900_E1D_1_c_000000005068_2	7	1	fefe_C3	no	fefe_C3
+XP_008860420.1	XP_008860420.1	A		fefe_A1	reference	fefe_A1
+XP_008860272.1	XP_008860272.1	A		fefe_A1	reference	fefe_A1
+XP_005854537.1	XP_005854537.1	A		fefe_A1	reference	fefe_A1
+XP_005848612.1	XP_005848612.1	A		fefe_A1	reference	fefe_A1
+XP_005847147.1	XP_005847147.1	A		fefe_A1	reference	fefe_A1
+XP_005843810.1	XP_005843810.1	A		fefe_A1	reference	fefe_A1
+XP_002956049.1	XP_002956049.1	A		fefe_A1	reference	fefe_A1
+XP_002948483.1	XP_002948483.1	A		fefe_A1	reference	fefe_A1
+XP_002674266.1	XP_002674266.1	A		fefe_A1	reference	fefe_A1
+XP_002295160.1	XP_002295160.1	A		fefe_A1	reference	fefe_A1
+XP_001709915.1	XP_001709915.1	A		fefe_A1	reference	fefe_A1
+XP_001694503.1	XP_001694503.1	A		fefe_A1	reference	fefe_A1
+XP_001693376.1	XP_001693376.1	A		fefe_A1	reference	fefe_A1
+XP_001584012.1	XP_001584012.1	A		fefe_A1	reference	fefe_A1
+XP_001580488.1	XP_001580488.1	A		fefe_A1	reference	fefe_A1
+XP_001580286.1	XP_001580286.1	A		fefe_A1	reference	fefe_A1
+XP_001330775.1	XP_001330775.1	A		fefe_A1	reference	fefe_A1
+XP_001328981.1	XP_001328981.1	A		fefe_A1	reference	fefe_A1
+XP_001324510.1	XP_001324510.1	A		fefe_A1	reference	fefe_A1
+XP_001322682.1	XP_001322682.1	A		fefe_A1	reference	fefe_A1
+XP_001318941.1	XP_001318941.1	A		fefe_A1	reference	fefe_A1
+XP_001310180.1	XP_001310180.1	A		fefe_A1	reference	fefe_A1
+XP_001305709.1	XP_001305709.1	A		fefe_A1	reference	fefe_A1
+WP_029933546.1	WP_029933546.1	A		fefe_A1	reference	fefe_A1
+WP_029909256.1	WP_029909256.1	A		fefe_A1	reference	fefe_A1
+WP_029504843.1	WP_029504843.1	A		fefe_A1	reference	fefe_A1
+WP_028856877.1	WP_028856877.1	A		fefe_A1	reference	fefe_A1
+WP_028843928.1	WP_028843928.1	A		fefe_A1	reference	fefe_A1
+WP_028842274.1	WP_028842274.1	A		fefe_A1	reference	fefe_A1
+WP_028841196.1	WP_028841196.1	A		fefe_A1	reference	fefe_A1
+WP_028781324.1	WP_028781324.1	A		fefe_A1	reference	fefe_A1
+WP_028768142.1	WP_028768142.1	A		fefe_A1	reference	fefe_A1
+WP_028586843.1	WP_028586843.1	A		fefe_A1	reference	fefe_A1
+WP_028485709.1	WP_028485709.1	A		fefe_A1	reference	fefe_A1
+WP_028256896.1	WP_028256896.1	A		fefe_A1	reference	fefe_A1
+WP_028255372.1	WP_028255372.1	A		fefe_A1	reference	fefe_A1
+WP_028116362.1	WP_028116362.1	A		fefe_A1	reference	fefe_A1
+WP_028109440.1	WP_028109440.1	A		fefe_A1	reference	fefe_A1
+WP_028077982.1	WP_028077982.1	A		fefe_A1	reference	fefe_A1
+WP_027938424.1	WP_027938424.1	A		fefe_A1	reference	fefe_A1
+WP_027722058.1	WP_027722058.1	A		fefe_A1	reference	fefe_A1
+WP_027643016.1	WP_027643016.1	A		fefe_A1	reference	fefe_A1
+WP_027639472.1	WP_027639472.1	A		fefe_A1	reference	fefe_A1
+WP_027639457.1	WP_027639457.1	A		fefe_A1	reference	fefe_A1
+WP_027631367.1	WP_027631367.1	A		fefe_A1	reference	fefe_A1
+WP_027396346.1	WP_027396346.1	A		fefe_A1	reference	fefe_A1
+WP_027191878.1	WP_027191878.1	A		fefe_A1	reference	fefe_A1
+WP_027183226.1	WP_027183226.1	A		fefe_A1	reference	fefe_A1
+WP_027179345.1	WP_027179345.1	A		fefe_A1	reference	fefe_A1
+WP_027176561.1	WP_027176561.1	A		fefe_A1	reference	fefe_A1
+WP_027129041.1	WP_027129041.1	A		fefe_A1	reference	fefe_A1
+WP_027128738.1	WP_027128738.1	A		fefe_A1	reference	fefe_A1
+WP_027098630.1	WP_027098630.1	A		fefe_A1	reference	fefe_A1
+WP_026888587.1	WP_026888587.1	A		fefe_A1	reference	fefe_A1
+WP_026887313.1	WP_026887313.1	A		fefe_A1	reference	fefe_A1
+WP_026883172.1	WP_026883172.1	A		fefe_A1	reference	fefe_A1
+WP_026649549.1	WP_026649549.1	A		fefe_A1	reference	fefe_A1
+WP_026329186.1	WP_026329186.1	A		fefe_A1	reference	fefe_A1
+WP_026137213.1	WP_026137213.1	A		fefe_A1	reference	fefe_A1
+WP_025888294.1	WP_025888294.1	A		fefe_A1	reference	fefe_A1
+WP_025823167.1	WP_025823167.1	A		fefe_A1	reference	fefe_A1
+WP_024933644.1	WP_024933644.1	A		fefe_A1	reference	fefe_A1
+WP_024851245.1	WP_024851245.1	A		fefe_A1	reference	fefe_A1
+WP_024788990.1	WP_024788990.1	A		fefe_A1	reference	fefe_A1
+WP_024286662.1	WP_024286662.1	A		fefe_A1	reference	fefe_A1
+WP_024103747.1	WP_024103747.1	A		fefe_A1	reference	fefe_A1
+WP_023268563.1	WP_023268563.1	A		fefe_A1	reference	fefe_A1
+WP_023051580.1	WP_023051580.1	A		fefe_A1	reference	fefe_A1
+WP_023050374.1	WP_023050374.1	A		fefe_A1	reference	fefe_A1
+WP_022854721.1	WP_022854721.1	A		fefe_A1	reference	fefe_A1
+WP_022853375.1	WP_022853375.1	A		fefe_A1	reference	fefe_A1
+WP_022852507.1	WP_022852507.1	A		fefe_A1	reference	fefe_A1
+WP_022808283.1	WP_022808283.1	A		fefe_A1	reference	fefe_A1
+WP_022746500.1	WP_022746500.1	A		fefe_A1	reference	fefe_A1
+WP_022746312.1	WP_022746312.1	A		fefe_A1	reference	fefe_A1
+WP_022743406.1	WP_022743406.1	A		fefe_A1	reference	fefe_A1
+WP_022663178.1	WP_022663178.1	A		fefe_A1	reference	fefe_A1
+WP_022473608.1	WP_022473608.1	A		fefe_A1	reference	fefe_A1
+WP_022473470.1	WP_022473470.1	A		fefe_A1	reference	fefe_A1
+WP_022372326.1	WP_022372326.1	A		fefe_A1	reference	fefe_A1
+WP_021876669.1	WP_021876669.1	A		fefe_A1	reference	fefe_A1
+WP_021801498.1	WP_021801498.1	A		fefe_A1	reference	fefe_A1
+WP_021800870.1	WP_021800870.1	A		fefe_A1	reference	fefe_A1
+WP_021433568.1	WP_021433568.1	A		fefe_A1	reference	fefe_A1
+WP_021432477.1	WP_021432477.1	A		fefe_A1	reference	fefe_A1
+WP_020488527.1	WP_020488527.1	A		fefe_A1	reference	fefe_A1
+WP_018712282.1	WP_018712282.1	A		fefe_A1	reference	fefe_A1
+WP_018703705.1	WP_018703705.1	A		fefe_A1	reference	fefe_A1
+WP_018592904.1	WP_018592904.1	A		fefe_A1	reference	fefe_A1
+WP_017890120.1	WP_017890120.1	A		fefe_A1	reference	fefe_A1
+WP_017752954.1	WP_017752954.1	A		fefe_A1	reference	fefe_A1
+WP_016475267.1	WP_016475267.1	A		fefe_A1	reference	fefe_A1
+WP_016206989.1	WP_016206989.1	A		fefe_A1	reference	fefe_A1
+WP_016148395.1	WP_016148395.1	A		fefe_A1	reference	fefe_A1
+WP_015943803.1	WP_015943803.1	A		fefe_A1	reference	fefe_A1
+WP_015918980.1	WP_015918980.1	A		fefe_A1	reference	fefe_A1
+WP_015851212.1	WP_015851212.1	A		fefe_A1	reference	fefe_A1
+WP_015739747.1	WP_015739747.1	A		fefe_A1	reference	fefe_A1
+WP_015393615.1	WP_015393615.1	A		fefe_A1	reference	fefe_A1
+WP_015392538.1	WP_015392538.1	A		fefe_A1	reference	fefe_A1
+WP_015337634.1	WP_015337634.1	A		fefe_A1	reference	fefe_A1
+WP_014812866.1	WP_014812866.1	A		fefe_A1	reference	fefe_A1
+WP_014730285.1	WP_014730285.1	A		fefe_A1	reference	fefe_A1
+WP_014450901.1	WP_014450901.1	A		fefe_A1	reference	fefe_A1
+WP_014450900.1	WP_014450900.1	A		fefe_A1	reference	fefe_A1
+WP_014423937.1	WP_014423937.1	A		fefe_A1	reference	fefe_A1
+WP_014256388.1	WP_014256388.1	A		fefe_A1	reference	fefe_A1
+WP_014016432.1	WP_014016432.1	A		fefe_A1	reference	fefe_A1
+WP_014015846.1	WP_014015846.1	A		fefe_A1	reference	fefe_A1
+WP_013931422.1	WP_013931422.1	A		fefe_A1	reference	fefe_A1
+WP_013907974.1	WP_013907974.1	A		fefe_A1	reference	fefe_A1
+WP_013907125.1	WP_013907125.1	A		fefe_A1	reference	fefe_A1
+WP_013907122.1	WP_013907122.1	A		fefe_A1	reference	fefe_A1
+WP_013823947.1	WP_013823947.1	A		fefe_A1	reference	fefe_A1
+WP_013822105.1	WP_013822105.1	A		fefe_A1	reference	fefe_A1
+WP_013771726.1	WP_013771726.1	A		fefe_A1	reference	fefe_A1
+WP_013756852.1	WP_013756852.1	A		fefe_A1	reference	fefe_A1
+WP_013513265.1	WP_013513265.1	A		fefe_A1	reference	fefe_A1
+WP_013388849.1	WP_013388849.1	A		fefe_A1	reference	fefe_A1
+WP_013387092.1	WP_013387092.1	A		fefe_A1	reference	fefe_A1
+WP_013345564.1	WP_013345564.1	A		fefe_A1	reference	fefe_A1
+WP_013175699.1	WP_013175699.1	A		fefe_A1	reference	fefe_A1
+WP_013174329.1	WP_013174329.1	A		fefe_A1	reference	fefe_A1
+WP_012896175.1	WP_012896175.1	A		fefe_A1	reference	fefe_A1
+WP_012744686.1	WP_012744686.1	A		fefe_A1	reference	fefe_A1
+WP_012625129.1	WP_012625129.1	A		fefe_A1	reference	fefe_A1
+WP_012580432.1	WP_012580432.1	A		fefe_A1	reference	fefe_A1
+WP_012545114.1	WP_012545114.1	A		fefe_A1	reference	fefe_A1
+WP_012310723.1	WP_012310723.1	A		fefe_A1	reference	fefe_A1
+WP_012276514.1	WP_012276514.1	A		fefe_A1	reference	fefe_A1
+WP_012057804.1	WP_012057804.1	A		fefe_A1	reference	fefe_A1
+WP_012003383.1	WP_012003383.1	A		fefe_A1	reference	fefe_A1
+WP_011993425.1	WP_011993425.1	A		fefe_A1	reference	fefe_A1
+WP_011943326.1	WP_011943326.1	A		fefe_A1	reference	fefe_A1
+WP_011722328.1	WP_011722328.1	A		fefe_A1	reference	fefe_A1
+WP_011715875.1	WP_011715875.1	A		fefe_A1	reference	fefe_A1
+WP_011697718.1	WP_011697718.1	A		fefe_A1	reference	fefe_A1
+WP_011641809.1	WP_011641809.1	A		fefe_A1	reference	fefe_A1
+WP_011641315.1	WP_011641315.1	A		fefe_A1	reference	fefe_A1
+WP_011623989.1	WP_011623989.1	A		fefe_A1	reference	fefe_A1
+WP_011593109.1	WP_011593109.1	A		fefe_A1	reference	fefe_A1
+WP_011591981.1	WP_011591981.1	A		fefe_A1	reference	fefe_A1
+WP_011368163.1	WP_011368163.1	A		fefe_A1	reference	fefe_A1
+WP_011366264.1	WP_011366264.1	A		fefe_A1	reference	fefe_A1
+WP_011073665.1	WP_011073665.1	A		fefe_A1	reference	fefe_A1
+WP_010963357.1	WP_010963357.1	A		fefe_A1	reference	fefe_A1
+WP_010939057.1	WP_010939057.1	A		fefe_A1	reference	fefe_A1
+WP_010680041.1	WP_010680041.1	A		fefe_A1	reference	fefe_A1
+WP_010296878.1	WP_010296878.1	A		fefe_A1	reference	fefe_A1
+WP_010244148.1	WP_010244148.1	A		fefe_A1	reference	fefe_A1
+WP_010241437.1	WP_010241437.1	A		fefe_A1	reference	fefe_A1
+WP_010234442.1	WP_010234442.1	A		fefe_A1	reference	fefe_A1
+WP_010074109.1	WP_010074109.1	A		fefe_A1	reference	fefe_A1
+WP_009380765.1	WP_009380765.1	A		fefe_A1	reference	fefe_A1
+WP_009379319.1	WP_009379319.1	A		fefe_A1	reference	fefe_A1
+WP_009145476.1	WP_009145476.1	A		fefe_A1	reference	fefe_A1
+WP_008412697.1	WP_008412697.1	A		fefe_A1	reference	fefe_A1
+WP_008193913.1	WP_008193913.1	A		fefe_A1	reference	fefe_A1
+WP_007951362.1	WP_007951362.1	A		fefe_A1	reference	fefe_A1
+WP_007866252.1	WP_007866252.1	A		fefe_A1	reference	fefe_A1
+WP_007716914.1	WP_007716914.1	A		fefe_A1	reference	fefe_A1
+WP_007285570.1	WP_007285570.1	A		fefe_A1	reference	fefe_A1
+WP_006942403.1	WP_006942403.1	A		fefe_A1	reference	fefe_A1
+WP_006789933.1	WP_006789933.1	A		fefe_A1	reference	fefe_A1
+WP_006780212.1	WP_006780212.1	A		fefe_A1	reference	fefe_A1
+WP_006627482.1	WP_006627482.1	A		fefe_A1	reference	fefe_A1
+WP_006571360.1	WP_006571360.1	A		fefe_A1	reference	fefe_A1
+WP_006566021.1	WP_006566021.1	A		fefe_A1	reference	fefe_A1
+WP_006556240.1	WP_006556240.1	A		fefe_A1	reference	fefe_A1
+WP_006492050.1	WP_006492050.1	A		fefe_A1	reference	fefe_A1
+WP_006442921.1	WP_006442921.1	A		fefe_A1	reference	fefe_A1
+WP_006362914.1	WP_006362914.1	A		fefe_A1	reference	fefe_A1
+WP_005996594.1	WP_005996594.1	A		fefe_A1	reference	fefe_A1
+WP_005981915.1	WP_005981915.1	A		fefe_A1	reference	fefe_A1
+WP_005976079.1	WP_005976079.1	A		fefe_A1	reference	fefe_A1
+WP_005958327.1	WP_005958327.1	A		fefe_A1	reference	fefe_A1
+WP_005957191.1	WP_005957191.1	A		fefe_A1	reference	fefe_A1
+WP_005952086.1	WP_005952086.1	A		fefe_A1	reference	fefe_A1
+WP_005886368.1	WP_005886368.1	A		fefe_A1	reference	fefe_A1
+WP_005884626.1	WP_005884626.1	A		fefe_A1	reference	fefe_A1
+WP_005436344.1	WP_005436344.1	A		fefe_A1	reference	fefe_A1
+WP_005385706.1	WP_005385706.1	A		fefe_A1	reference	fefe_A1
+WP_005384882.1	WP_005384882.1	A		fefe_A1	reference	fefe_A1
+WP_005384713.1	WP_005384713.1	A		fefe_A1	reference	fefe_A1
+WP_005382858.1	WP_005382858.1	A		fefe_A1	reference	fefe_A1
+WP_005378576.1	WP_005378576.1	A		fefe_A1	reference	fefe_A1
+WP_005375825.1	WP_005375825.1	A		fefe_A1	reference	fefe_A1
+WP_005351469.1	WP_005351469.1	A		fefe_A1	reference	fefe_A1
+WP_005038203.1	WP_005038203.1	A		fefe_A1	reference	fefe_A1
+WP_005035184.1	WP_005035184.1	A		fefe_A1	reference	fefe_A1
+WP_005026529.1	WP_005026529.1	A		fefe_A1	reference	fefe_A1
+WP_004697562.1	WP_004697562.1	A		fefe_A1	reference	fefe_A1
+WP_004607406.1	WP_004607406.1	A		fefe_A1	reference	fefe_A1
+WP_004455619.1	WP_004455619.1	A		fefe_A1	reference	fefe_A1
+WP_003514900.1	WP_003514900.1	A		fefe_A1	reference	fefe_A1
+WP_003493693.1	WP_003493693.1	A		fefe_A1	reference	fefe_A1
+WP_002945014.1	WP_002945014.1	A		fefe_A1	reference	fefe_A1
+WP_002607524.1	WP_002607524.1	A		fefe_A1	reference	fefe_A1
+WP_002599284.1	WP_002599284.1	A		fefe_A1	reference	fefe_A1
+WP_002599108.1	WP_002599108.1	A		fefe_A1	reference	fefe_A1
+WP_002597295.1	WP_002597295.1	A		fefe_A1	reference	fefe_A1
+WP_002583070.1	WP_002583070.1	A		fefe_A1	reference	fefe_A1
+WP_002568840.1	WP_002568840.1	A		fefe_A1	reference	fefe_A1
+WP_033162999.1	WP_033162999.1	A		fefe_A2	reference	fefe_A2
+WP_028533896.1	WP_028533896.1	A		fefe_A2	reference	fefe_A2
+WP_028529172.1	WP_028529172.1	A		fefe_A2	reference	fefe_A2
+WP_028264340.1	WP_028264340.1	A		fefe_A2	reference	fefe_A2
+WP_028088444.1	WP_028088444.1	A		fefe_A2	reference	fefe_A2
+WP_028027642.1	WP_028027642.1	A		fefe_A2	reference	fefe_A2
+WP_027824154.1	WP_027824154.1	A		fefe_A2	reference	fefe_A2
+WP_027174791.1	WP_027174791.1	A		fefe_A2	reference	fefe_A2
+WP_026790595.1	WP_026790595.1	A		fefe_A2	reference	fefe_A2
+WP_026783301.1	WP_026783301.1	A		fefe_A2	reference	fefe_A2
+WP_024622238.1	WP_024622238.1	A		fefe_A2	reference	fefe_A2
+WP_022741745.1	WP_022741745.1	A		fefe_A2	reference	fefe_A2
+WP_022472717.1	WP_022472717.1	A		fefe_A2	reference	fefe_A2
+WP_022444415.1	WP_022444415.1	A		fefe_A2	reference	fefe_A2
+WP_022387742.1	WP_022387742.1	A		fefe_A2	reference	fefe_A2
+WP_022378933.1	WP_022378933.1	A		fefe_A2	reference	fefe_A2
+WP_022369673.1	WP_022369673.1	A		fefe_A2	reference	fefe_A2
+WP_022363186.1	WP_022363186.1	A		fefe_A2	reference	fefe_A2
+WP_022362192.1	WP_022362192.1	A		fefe_A2	reference	fefe_A2
+WP_022349260.1	WP_022349260.1	A		fefe_A2	reference	fefe_A2
+WP_022094311.1	WP_022094311.1	A		fefe_A2	reference	fefe_A2
+WP_021900643.1	WP_021900643.1	A		fefe_A2	reference	fefe_A2
+WP_021739983.1	WP_021739983.1	A		fefe_A2	reference	fefe_A2
+WP_021726228.1	WP_021726228.1	A		fefe_A2	reference	fefe_A2
+WP_021625383.1	WP_021625383.1	A		fefe_A2	reference	fefe_A2
+WP_021130842.1	WP_021130842.1	A		fefe_A2	reference	fefe_A2
+WP_020074005.1	WP_020074005.1	A		fefe_A2	reference	fefe_A2
+WP_018606045.1	WP_018606045.1	A		fefe_A2	reference	fefe_A2
+WP_016474662.1	WP_016474662.1	A		fefe_A2	reference	fefe_A2
+WP_016147589.1	WP_016147589.1	A		fefe_A2	reference	fefe_A2
+WP_015904515.1	WP_015904515.1	A		fefe_A2	reference	fefe_A2
+WP_015572916.1	WP_015572916.1	A		fefe_A2	reference	fefe_A2
+WP_015528722.1	WP_015528722.1	A		fefe_A2	reference	fefe_A2
+WP_015393386.1	WP_015393386.1	A		fefe_A2	reference	fefe_A2
+WP_014118796.1	WP_014118796.1	A		fefe_A2	reference	fefe_A2
+WP_013979953.1	WP_013979953.1	A		fefe_A2	reference	fefe_A2
+WP_013978878.1	WP_013978878.1	A		fefe_A2	reference	fefe_A2
+WP_013738980.1	WP_013738980.1	A		fefe_A2	reference	fefe_A2
+WP_013708694.1	WP_013708694.1	A		fefe_A2	reference	fefe_A2
+WP_013499973.1	WP_013499973.1	A		fefe_A2	reference	fefe_A2
+WP_013486154.1	WP_013486154.1	A		fefe_A2	reference	fefe_A2
+WP_013251691.1	WP_013251691.1	A		fefe_A2	reference	fefe_A2
+WP_012939287.1	WP_012939287.1	A		fefe_A2	reference	fefe_A2
+WP_012798774.1	WP_012798774.1	A		fefe_A2	reference	fefe_A2
+WP_012738474.1	WP_012738474.1	A		fefe_A2	reference	fefe_A2
+WP_011342272.1	WP_011342272.1	A		fefe_A2	reference	fefe_A2
+WP_010939059.1	WP_010939059.1	A		fefe_A2	reference	fefe_A2
+WP_010690649.1	WP_010690649.1	A		fefe_A2	reference	fefe_A2
+WP_009536327.1	WP_009536327.1	A		fefe_A2	reference	fefe_A2
+WP_009279121.1	WP_009279121.1	A		fefe_A2	reference	fefe_A2
+WP_009203940.1	WP_009203940.1	A		fefe_A2	reference	fefe_A2
+WP_009165839.1	WP_009165839.1	A		fefe_A2	reference	fefe_A2
+WP_009146318.1	WP_009146318.1	A		fefe_A2	reference	fefe_A2
+WP_009139152.1	WP_009139152.1	A		fefe_A2	reference	fefe_A2
+WP_009078316.1	WP_009078316.1	A		fefe_A2	reference	fefe_A2
+WP_008902548.1	WP_008902548.1	A		fefe_A2	reference	fefe_A2
+WP_008749893.1	WP_008749893.1	A		fefe_A2	reference	fefe_A2
+WP_008540631.1	WP_008540631.1	A		fefe_A2	reference	fefe_A2
+WP_008382437.1	WP_008382437.1	A		fefe_A2	reference	fefe_A2
+WP_007156182.1	WP_007156182.1	A		fefe_A2	reference	fefe_A2
+WP_007047054.1	WP_007047054.1	A		fefe_A2	reference	fefe_A2
+WP_006598813.1	WP_006598813.1	A		fefe_A2	reference	fefe_A2
+WP_006565663.1	WP_006565663.1	A		fefe_A2	reference	fefe_A2
+WP_006361310.1	WP_006361310.1	A		fefe_A2	reference	fefe_A2
+WP_006235348.1	WP_006235348.1	A		fefe_A2	reference	fefe_A2
+WP_005583237.1	WP_005583237.1	A		fefe_A2	reference	fefe_A2
+WP_005348317.1	WP_005348317.1	A		fefe_A2	reference	fefe_A2
+WP_005338995.1	WP_005338995.1	A		fefe_A2	reference	fefe_A2
+WP_004821125.1	WP_004821125.1	A		fefe_A2	reference	fefe_A2
+WP_004611441.1	WP_004611441.1	A		fefe_A2	reference	fefe_A2
+WP_004607263.1	WP_004607263.1	A		fefe_A2	reference	fefe_A2
+WP_004065781.1	WP_004065781.1	A		fefe_A2	reference	fefe_A2
+WP_002846126.1	WP_002846126.1	A		fefe_A2	reference	fefe_A2
+WP_002727095.1	WP_002727095.1	A		fefe_A2	reference	fefe_A2
+WP_032508101.1	WP_032508101.1	A		fefe_A3	reference	fefe_A3
+WP_031366038.1	WP_031366038.1	A		fefe_A3	reference	fefe_A3
+WP_029725248.1	WP_029725248.1	A		fefe_A3	reference	fefe_A3
+WP_029502830.1	WP_029502830.1	A		fefe_A3	reference	fefe_A3
+WP_029502586.1	WP_029502586.1	A		fefe_A3	reference	fefe_A3
+WP_029460554.1	WP_029460554.1	A		fefe_A3	reference	fefe_A3
+WP_029460330.1	WP_029460330.1	A		fefe_A3	reference	fefe_A3
+WP_029410172.1	WP_029410172.1	A		fefe_A3	reference	fefe_A3
+WP_028972813.1	WP_028972813.1	A		fefe_A3	reference	fefe_A3
+WP_028893679.1	WP_028893679.1	A		fefe_A3	reference	fefe_A3
+WP_028893663.1	WP_028893663.1	A		fefe_A3	reference	fefe_A3
+WP_028856899.1	WP_028856899.1	A		fefe_A3	reference	fefe_A3
+WP_028856758.1	WP_028856758.1	A		fefe_A3	reference	fefe_A3
+WP_028843229.1	WP_028843229.1	A		fefe_A3	reference	fefe_A3
+WP_028842275.1	WP_028842275.1	A		fefe_A3	reference	fefe_A3
+WP_028828847.1	WP_028828847.1	A		fefe_A3	reference	fefe_A3
+WP_028828670.1	WP_028828670.1	A		fefe_A3	reference	fefe_A3
+WP_028729360.1	WP_028729360.1	A		fefe_A3	reference	fefe_A3
+WP_028515986.1	WP_028515986.1	A		fefe_A3	reference	fefe_A3
+WP_028330509.1	WP_028330509.1	A		fefe_A3	reference	fefe_A3
+WP_028318930.1	WP_028318930.1	A		fefe_A3	reference	fefe_A3
+WP_028318925.1	WP_028318925.1	A		fefe_A3	reference	fefe_A3
+WP_028308066.1	WP_028308066.1	A		fefe_A3	reference	fefe_A3
+WP_028308064.1	WP_028308064.1	A		fefe_A3	reference	fefe_A3
+WP_028307965.1	WP_028307965.1	A		fefe_A3	reference	fefe_A3
+WP_028086317.1	WP_028086317.1	A		fefe_A3	reference	fefe_A3
+WP_028043706.1	WP_028043706.1	A		fefe_A3	reference	fefe_A3
+WP_027718652.1	WP_027718652.1	A		fefe_A3	reference	fefe_A3
+WP_027717485.1	WP_027717485.1	A		fefe_A3	reference	fefe_A3
+WP_027642167.1	WP_027642167.1	A		fefe_A3	reference	fefe_A3
+WP_027637394.1	WP_027637394.1	A		fefe_A3	reference	fefe_A3
+WP_027627473.1	WP_027627473.1	A		fefe_A3	reference	fefe_A3
+WP_027627105.1	WP_027627105.1	A		fefe_A3	reference	fefe_A3
+WP_027625220.1	WP_027625220.1	A		fefe_A3	reference	fefe_A3
+WP_027472107.1	WP_027472107.1	A		fefe_A3	reference	fefe_A3
+WP_027400569.1	WP_027400569.1	A		fefe_A3	reference	fefe_A3
+WP_027399804.1	WP_027399804.1	A		fefe_A3	reference	fefe_A3
+WP_027398114.1	WP_027398114.1	A		fefe_A3	reference	fefe_A3
+WP_027364049.1	WP_027364049.1	A		fefe_A3	reference	fefe_A3
+WP_027364046.1	WP_027364046.1	A		fefe_A3	reference	fefe_A3
+WP_027357333.1	WP_027357333.1	A		fefe_A3	reference	fefe_A3
+WP_027356646.1	WP_027356646.1	A		fefe_A3	reference	fefe_A3
+WP_027356557.1	WP_027356557.1	A		fefe_A3	reference	fefe_A3
+WP_027338952.1	WP_027338952.1	A		fefe_A3	reference	fefe_A3
+WP_027338924.1	WP_027338924.1	A		fefe_A3	reference	fefe_A3
+WP_027326146.1	WP_027326146.1	A		fefe_A3	reference	fefe_A3
+WP_027199847.1	WP_027199847.1	A		fefe_A3	reference	fefe_A3
+WP_027096606.1	WP_027096606.1	A		fefe_A3	reference	fefe_A3
+WP_027088814.1	WP_027088814.1	A		fefe_A3	reference	fefe_A3
+WP_026895808.1	WP_026895808.1	A		fefe_A3	reference	fefe_A3
+WP_026895551.1	WP_026895551.1	A		fefe_A3	reference	fefe_A3
+WP_026892188.1	WP_026892188.1	A		fefe_A3	reference	fefe_A3
+WP_026888482.1	WP_026888482.1	A		fefe_A3	reference	fefe_A3
+WP_026791754.1	WP_026791754.1	A		fefe_A3	reference	fefe_A3
+WP_026781963.1	WP_026781963.1	A		fefe_A3	reference	fefe_A3
+WP_026485852.1	WP_026485852.1	A		fefe_A3	reference	fefe_A3
+WP_026475720.1	WP_026475720.1	A		fefe_A3	reference	fefe_A3
+WP_026475073.1	WP_026475073.1	A		fefe_A3	reference	fefe_A3
+WP_026475062.1	WP_026475062.1	A		fefe_A3	reference	fefe_A3
+WP_026393504.1	WP_026393504.1	A		fefe_A3	reference	fefe_A3
+WP_026368965.1	WP_026368965.1	A		fefe_A3	reference	fefe_A3
+WP_026327676.1	WP_026327676.1	A		fefe_A3	reference	fefe_A3
+WP_026156354.1	WP_026156354.1	A		fefe_A3	reference	fefe_A3
+WP_025867773.1	WP_025867773.1	A		fefe_A3	reference	fefe_A3
+WP_025863484.1	WP_025863484.1	A		fefe_A3	reference	fefe_A3
+WP_025863481.1	WP_025863481.1	A		fefe_A3	reference	fefe_A3
+WP_024986193.1	WP_024986193.1	A		fefe_A3	reference	fefe_A3
+WP_024870534.1	WP_024870534.1	A		fefe_A3	reference	fefe_A3
+WP_024823936.1	WP_024823936.1	A		fefe_A3	reference	fefe_A3
+WP_024286588.1	WP_024286588.1	A		fefe_A3	reference	fefe_A3
+WP_023973103.1	WP_023973103.1	A		fefe_A3	reference	fefe_A3
+WP_023920491.1	WP_023920491.1	A		fefe_A3	reference	fefe_A3
+WP_023388270.1	WP_023388270.1	A		fefe_A3	reference	fefe_A3
+WP_023388223.1	WP_023388223.1	A		fefe_A3	reference	fefe_A3
+WP_023163243.1	WP_023163243.1	A		fefe_A3	reference	fefe_A3
+WP_023162310.1	WP_023162310.1	A		fefe_A3	reference	fefe_A3
+WP_023052447.1	WP_023052447.1	A		fefe_A3	reference	fefe_A3
+WP_023051856.1	WP_023051856.1	A		fefe_A3	reference	fefe_A3
+WP_022854720.1	WP_022854720.1	A		fefe_A3	reference	fefe_A3
+WP_022849147.1	WP_022849147.1	A		fefe_A3	reference	fefe_A3
+WP_022847517.1	WP_022847517.1	A		fefe_A3	reference	fefe_A3
+WP_022636475.1	WP_022636475.1	A		fefe_A3	reference	fefe_A3
+WP_022418208.1	WP_022418208.1	A		fefe_A3	reference	fefe_A3
+WP_022196619.1	WP_022196619.1	A		fefe_A3	reference	fefe_A3
+WP_022000256.1	WP_022000256.1	A		fefe_A3	reference	fefe_A3
+WP_021803813.1	WP_021803813.1	A		fefe_A3	reference	fefe_A3
+WP_021767225.1	WP_021767225.1	A		fefe_A3	reference	fefe_A3
+WP_021739954.1	WP_021739954.1	A		fefe_A3	reference	fefe_A3
+WP_021646890.1	WP_021646890.1	A		fefe_A3	reference	fefe_A3
+WP_021434166.1	WP_021434166.1	A		fefe_A3	reference	fefe_A3
+WP_021169841.1	WP_021169841.1	A		fefe_A3	reference	fefe_A3
+WP_021167212.1	WP_021167212.1	A		fefe_A3	reference	fefe_A3
+WP_021133133.1	WP_021133133.1	A		fefe_A3	reference	fefe_A3
+WP_020815721.1	WP_020815721.1	A		fefe_A3	reference	fefe_A3
+WP_020815562.1	WP_020815562.1	A		fefe_A3	reference	fefe_A3
+WP_020814848.1	WP_020814848.1	A		fefe_A3	reference	fefe_A3
+WP_020614051.1	WP_020614051.1	A		fefe_A3	reference	fefe_A3
+WP_020611343.1	WP_020611343.1	A		fefe_A3	reference	fefe_A3
+WP_020611046.1	WP_020611046.1	A		fefe_A3	reference	fefe_A3
+WP_020491838.1	WP_020491838.1	A		fefe_A3	reference	fefe_A3
+WP_020490880.1	WP_020490880.1	A		fefe_A3	reference	fefe_A3
+WP_020003846.1	WP_020003846.1	A		fefe_A3	reference	fefe_A3
+WP_019879374.1	WP_019879374.1	A		fefe_A3	reference	fefe_A3
+WP_019554879.1	WP_019554879.1	A		fefe_A3	reference	fefe_A3
+WP_019552746.1	WP_019552746.1	A		fefe_A3	reference	fefe_A3
+WP_019225928.1	WP_019225928.1	A		fefe_A3	reference	fefe_A3
+WP_019225315.1	WP_019225315.1	A		fefe_A3	reference	fefe_A3
+WP_019225264.1	WP_019225264.1	A		fefe_A3	reference	fefe_A3
+WP_018962529.1	WP_018962529.1	A		fefe_A3	reference	fefe_A3
+WP_018662721.1	WP_018662721.1	A		fefe_A3	reference	fefe_A3
+WP_018660435.1	WP_018660435.1	A		fefe_A3	reference	fefe_A3
+WP_018592006.1	WP_018592006.1	A		fefe_A3	reference	fefe_A3
+WP_018525843.1	WP_018525843.1	A		fefe_A3	reference	fefe_A3
+WP_018336996.1	WP_018336996.1	A		fefe_A3	reference	fefe_A3
+WP_018249206.1	WP_018249206.1	A		fefe_A3	reference	fefe_A3
+WP_018086225.1	WP_018086225.1	A		fefe_A3	reference	fefe_A3
+WP_018085930.1	WP_018085930.1	A		fefe_A3	reference	fefe_A3
+WP_018084282.1	WP_018084282.1	A		fefe_A3	reference	fefe_A3
+WP_017416926.1	WP_017416926.1	A		fefe_A3	reference	fefe_A3
+WP_017416132.1	WP_017416132.1	A		fefe_A3	reference	fefe_A3
+WP_016777708.1	WP_016777708.1	A		fefe_A3	reference	fefe_A3
+WP_016314690.1	WP_016314690.1	A		fefe_A3	reference	fefe_A3
+WP_016268012.1	WP_016268012.1	A		fefe_A3	reference	fefe_A3
+WP_016206177.1	WP_016206177.1	A		fefe_A3	reference	fefe_A3
+WP_016182069.1	WP_016182069.1	A		fefe_A3	reference	fefe_A3
+WP_015945352.1	WP_015945352.1	A		fefe_A3	reference	fefe_A3
+WP_015925885.1	WP_015925885.1	A		fefe_A3	reference	fefe_A3
+WP_015925732.1	WP_015925732.1	A		fefe_A3	reference	fefe_A3
+WP_015925666.1	WP_015925666.1	A		fefe_A3	reference	fefe_A3
+WP_015919559.1	WP_015919559.1	A		fefe_A3	reference	fefe_A3
+WP_015907776.1	WP_015907776.1	A		fefe_A3	reference	fefe_A3
+WP_015878590.1	WP_015878590.1	A		fefe_A3	reference	fefe_A3
+WP_015778015.1	WP_015778015.1	A		fefe_A3	reference	fefe_A3
+WP_015759215.1	WP_015759215.1	A		fefe_A3	reference	fefe_A3
+WP_015739748.1	WP_015739748.1	A		fefe_A3	reference	fefe_A3
+WP_015738331.1	WP_015738331.1	A		fefe_A3	reference	fefe_A3
+WP_015724590.1	WP_015724590.1	A		fefe_A3	reference	fefe_A3
+WP_015724294.1	WP_015724294.1	A		fefe_A3	reference	fefe_A3
+WP_015720177.1	WP_015720177.1	A		fefe_A3	reference	fefe_A3
+WP_015712312.1	WP_015712312.1	A		fefe_A3	reference	fefe_A3
+WP_015706988.1	WP_015706988.1	A		fefe_A3	reference	fefe_A3
+WP_015556986.1	WP_015556986.1	A		fefe_A3	reference	fefe_A3
+WP_015528256.1	WP_015528256.1	A		fefe_A3	reference	fefe_A3
+WP_015518595.1	WP_015518595.1	A		fefe_A3	reference	fefe_A3
+WP_015513462.1	WP_015513462.1	A		fefe_A3	reference	fefe_A3
+WP_015424900.1	WP_015424900.1	A		fefe_A3	reference	fefe_A3
+WP_015394438.1	WP_015394438.1	A		fefe_A3	reference	fefe_A3
+WP_015358633.1	WP_015358633.1	A		fefe_A3	reference	fefe_A3
+WP_015327873.1	WP_015327873.1	A		fefe_A3	reference	fefe_A3
+WP_015326098.1	WP_015326098.1	A		fefe_A3	reference	fefe_A3
+WP_014905079.1	WP_014905079.1	A		fefe_A3	reference	fefe_A3
+WP_014902186.1	WP_014902186.1	A		fefe_A3	reference	fefe_A3
+WP_014901644.1	WP_014901644.1	A		fefe_A3	reference	fefe_A3
+WP_014857142.1	WP_014857142.1	A		fefe_A3	reference	fefe_A3
+WP_014803888.1	WP_014803888.1	A		fefe_A3	reference	fefe_A3
+WP_014795695.1	WP_014795695.1	A		fefe_A3	reference	fefe_A3
+WP_014792559.1	WP_014792559.1	A		fefe_A3	reference	fefe_A3
+WP_014758969.1	WP_014758969.1	A		fefe_A3	reference	fefe_A3
+WP_014559401.1	WP_014559401.1	A		fefe_A3	reference	fefe_A3
+WP_014553773.1	WP_014553773.1	A		fefe_A3	reference	fefe_A3
+WP_014487195.1	WP_014487195.1	A		fefe_A3	reference	fefe_A3
+WP_014456422.1	WP_014456422.1	A		fefe_A3	reference	fefe_A3
+WP_014455790.1	WP_014455790.1	A		fefe_A3	reference	fefe_A3
+WP_014451418.1	WP_014451418.1	A		fefe_A3	reference	fefe_A3
+WP_014425762.1	WP_014425762.1	A		fefe_A3	reference	fefe_A3
+WP_014413848.1	WP_014413848.1	A		fefe_A3	reference	fefe_A3
+WP_014357048.1	WP_014357048.1	A		fefe_A3	reference	fefe_A3
+WP_014296497.1	WP_014296497.1	A		fefe_A3	reference	fefe_A3
+WP_014271080.1	WP_014271080.1	A		fefe_A3	reference	fefe_A3
+WP_014254579.1	WP_014254579.1	A		fefe_A3	reference	fefe_A3
+WP_014187542.1	WP_014187542.1	A		fefe_A3	reference	fefe_A3
+WP_014187152.1	WP_014187152.1	A		fefe_A3	reference	fefe_A3
+WP_014184036.1	WP_014184036.1	A		fefe_A3	reference	fefe_A3
+WP_014117537.1	WP_014117537.1	A		fefe_A3	reference	fefe_A3
+WP_014062655.1	WP_014062655.1	A		fefe_A3	reference	fefe_A3
+WP_013970147.1	WP_013970147.1	A		fefe_A3	reference	fefe_A3
+WP_013931427.1	WP_013931427.1	A		fefe_A3	reference	fefe_A3
+WP_013843380.1	WP_013843380.1	A		fefe_A3	reference	fefe_A3
+WP_013842583.1	WP_013842583.1	A		fefe_A3	reference	fefe_A3
+WP_013842395.1	WP_013842395.1	A		fefe_A3	reference	fefe_A3
+WP_013842391.1	WP_013842391.1	A		fefe_A3	reference	fefe_A3
+WP_013840577.1	WP_013840577.1	A		fefe_A3	reference	fefe_A3
+WP_013824004.1	WP_013824004.1	A		fefe_A3	reference	fefe_A3
+WP_013823357.1	WP_013823357.1	A		fefe_A3	reference	fefe_A3
+WP_013810492.1	WP_013810492.1	A		fefe_A3	reference	fefe_A3
+WP_013810075.1	WP_013810075.1	A		fefe_A3	reference	fefe_A3
+WP_013809932.1	WP_013809932.1	A		fefe_A3	reference	fefe_A3
+WP_013787823.1	WP_013787823.1	A		fefe_A3	reference	fefe_A3
+WP_013781004.1	WP_013781004.1	A		fefe_A3	reference	fefe_A3
+WP_013780878.1	WP_013780878.1	A		fefe_A3	reference	fefe_A3
+WP_013779523.1	WP_013779523.1	A		fefe_A3	reference	fefe_A3
+WP_013778939.1	WP_013778939.1	A		fefe_A3	reference	fefe_A3
+WP_013757500.1	WP_013757500.1	A		fefe_A3	reference	fefe_A3
+WP_013756843.1	WP_013756843.1	A		fefe_A3	reference	fefe_A3
+WP_013657394.1	WP_013657394.1	A		fefe_A3	reference	fefe_A3
+WP_013656601.1	WP_013656601.1	A		fefe_A3	reference	fefe_A3
+WP_013637757.1	WP_013637757.1	A		fefe_A3	reference	fefe_A3
+WP_013626003.1	WP_013626003.1	A		fefe_A3	reference	fefe_A3
+WP_013625342.1	WP_013625342.1	A		fefe_A3	reference	fefe_A3
+WP_013625341.1	WP_013625341.1	A		fefe_A3	reference	fefe_A3
+WP_013610540.1	WP_013610540.1	A		fefe_A3	reference	fefe_A3
+WP_013607980.1	WP_013607980.1	A		fefe_A3	reference	fefe_A3
+WP_013607267.1	WP_013607267.1	A		fefe_A3	reference	fefe_A3
+WP_013486450.1	WP_013486450.1	A		fefe_A3	reference	fefe_A3
+WP_013430372.1	WP_013430372.1	A		fefe_A3	reference	fefe_A3
+WP_013412032.1	WP_013412032.1	A		fefe_A3	reference	fefe_A3
+WP_013406351.1	WP_013406351.1	A		fefe_A3	reference	fefe_A3
+WP_013406264.1	WP_013406264.1	A		fefe_A3	reference	fefe_A3
+WP_013403316.1	WP_013403316.1	A		fefe_A3	reference	fefe_A3
+WP_013387669.1	WP_013387669.1	A		fefe_A3	reference	fefe_A3
+WP_013387146.1	WP_013387146.1	A		fefe_A3	reference	fefe_A3
+WP_013387085.1	WP_013387085.1	A		fefe_A3	reference	fefe_A3
+WP_013379183.1	WP_013379183.1	A		fefe_A3	reference	fefe_A3
+WP_013314154.1	WP_013314154.1	A		fefe_A3	reference	fefe_A3
+WP_013313426.1	WP_013313426.1	A		fefe_A3	reference	fefe_A3
+WP_013297608.1	WP_013297608.1	A		fefe_A3	reference	fefe_A3
+WP_013290549.1	WP_013290549.1	A		fefe_A3	reference	fefe_A3
+WP_013278831.1	WP_013278831.1	A		fefe_A3	reference	fefe_A3
+WP_013277266.1	WP_013277266.1	A		fefe_A3	reference	fefe_A3
+WP_013277223.1	WP_013277223.1	A		fefe_A3	reference	fefe_A3
+WP_013275513.1	WP_013275513.1	A		fefe_A3	reference	fefe_A3
+WP_013275360.1	WP_013275360.1	A		fefe_A3	reference	fefe_A3
+WP_013273987.1	WP_013273987.1	A		fefe_A3	reference	fefe_A3
+WP_013256232.1	WP_013256232.1	A		fefe_A3	reference	fefe_A3
+WP_013253085.1	WP_013253085.1	A		fefe_A3	reference	fefe_A3
+WP_013252975.1	WP_013252975.1	A		fefe_A3	reference	fefe_A3
+WP_013238135.1	WP_013238135.1	A		fefe_A3	reference	fefe_A3
+WP_013174729.1	WP_013174729.1	A		fefe_A3	reference	fefe_A3
+WP_013120942.1	WP_013120942.1	A		fefe_A3	reference	fefe_A3
+WP_013114605.1	WP_013114605.1	A		fefe_A3	reference	fefe_A3
+WP_012994913.1	WP_012994913.1	A		fefe_A3	reference	fefe_A3
+WP_012868906.1	WP_012868906.1	A		fefe_A3	reference	fefe_A3
+WP_012863017.1	WP_012863017.1	A		fefe_A3	reference	fefe_A3
+WP_012860094.1	WP_012860094.1	A		fefe_A3	reference	fefe_A3
+WP_012671982.1	WP_012671982.1	A		fefe_A3	reference	fefe_A3
+WP_012635578.1	WP_012635578.1	A		fefe_A3	reference	fefe_A3
+WP_012635141.1	WP_012635141.1	A		fefe_A3	reference	fefe_A3
+WP_012582935.1	WP_012582935.1	A		fefe_A3	reference	fefe_A3
+WP_012579795.1	WP_012579795.1	A		fefe_A3	reference	fefe_A3
+WP_012548684.1	WP_012548684.1	A		fefe_A3	reference	fefe_A3
+WP_012546840.1	WP_012546840.1	A		fefe_A3	reference	fefe_A3
+WP_012543947.1	WP_012543947.1	A		fefe_A3	reference	fefe_A3
+WP_012414703.1	WP_012414703.1	A		fefe_A3	reference	fefe_A3
+WP_012374366.1	WP_012374366.1	A		fefe_A3	reference	fefe_A3
+WP_012311063.1	WP_012311063.1	A		fefe_A3	reference	fefe_A3
+WP_012302631.1	WP_012302631.1	A		fefe_A3	reference	fefe_A3
+WP_012302431.1	WP_012302431.1	A		fefe_A3	reference	fefe_A3
+WP_012301316.1	WP_012301316.1	A		fefe_A3	reference	fefe_A3
+WP_012301314.1	WP_012301314.1	A		fefe_A3	reference	fefe_A3
+WP_012282074.1	WP_012282074.1	A		fefe_A3	reference	fefe_A3
+WP_012208968.1	WP_012208968.1	A		fefe_A3	reference	fefe_A3
+WP_012158849.1	WP_012158849.1	A		fefe_A3	reference	fefe_A3
+WP_012158789.1	WP_012158789.1	A		fefe_A3	reference	fefe_A3
+WP_012065136.1	WP_012065136.1	A		fefe_A3	reference	fefe_A3
+WP_012056718.1	WP_012056718.1	A		fefe_A3	reference	fefe_A3
+WP_012033166.1	WP_012033166.1	A		fefe_A3	reference	fefe_A3
+WP_012032547.1	WP_012032547.1	A		fefe_A3	reference	fefe_A3
+WP_012002999.1	WP_012002999.1	A		fefe_A3	reference	fefe_A3
+WP_011993415.1	WP_011993415.1	A		fefe_A3	reference	fefe_A3
+WP_011971774.1	WP_011971774.1	A		fefe_A3	reference	fefe_A3
+WP_011879575.1	WP_011879575.1	A		fefe_A3	reference	fefe_A3
+WP_011877997.1	WP_011877997.1	A		fefe_A3	reference	fefe_A3
+WP_011877994.1	WP_011877994.1	A		fefe_A3	reference	fefe_A3
+WP_011876846.1	WP_011876846.1	A		fefe_A3	reference	fefe_A3
+WP_011735399.1	WP_011735399.1	A		fefe_A3	reference	fefe_A3
+WP_011721785.1	WP_011721785.1	A		fefe_A3	reference	fefe_A3
+WP_011697714.1	WP_011697714.1	A		fefe_A3	reference	fefe_A3
+WP_011640436.1	WP_011640436.1	A		fefe_A3	reference	fefe_A3
+WP_011417004.1	WP_011417004.1	A		fefe_A3	reference	fefe_A3
+WP_011393219.1	WP_011393219.1	A		fefe_A3	reference	fefe_A3
+WP_011341365.1	WP_011341365.1	A		fefe_A3	reference	fefe_A3
+WP_011341336.1	WP_011341336.1	A		fefe_A3	reference	fefe_A3
+WP_010935952.1	WP_010935952.1	A		fefe_A3	reference	fefe_A3
+WP_010780462.1	WP_010780462.1	A		fefe_A3	reference	fefe_A3
+WP_010753129.1	WP_010753129.1	A		fefe_A3	reference	fefe_A3
+WP_010746116.1	WP_010746116.1	A		fefe_A3	reference	fefe_A3
+WP_010740236.1	WP_010740236.1	A		fefe_A3	reference	fefe_A3
+WP_010680344.1	WP_010680344.1	A		fefe_A3	reference	fefe_A3
+WP_010665320.1	WP_010665320.1	A		fefe_A3	reference	fefe_A3
+WP_010663850.1	WP_010663850.1	A		fefe_A3	reference	fefe_A3
+WP_010537425.1	WP_010537425.1	A		fefe_A3	reference	fefe_A3
+WP_010296962.1	WP_010296962.1	A		fefe_A3	reference	fefe_A3
+WP_010251944.1	WP_010251944.1	A		fefe_A3	reference	fefe_A3
+WP_010250812.1	WP_010250812.1	A		fefe_A3	reference	fefe_A3
+WP_010250212.1	WP_010250212.1	A		fefe_A3	reference	fefe_A3
+WP_010076791.1	WP_010076791.1	A		fefe_A3	reference	fefe_A3
+WP_009620217.1	WP_009620217.1	A		fefe_A3	reference	fefe_A3
+WP_009617408.1	WP_009617408.1	A		fefe_A3	reference	fefe_A3
+WP_009609852.1	WP_009609852.1	A		fefe_A3	reference	fefe_A3
+WP_009145651.1	WP_009145651.1	A		fefe_A3	reference	fefe_A3
+WP_009132358.1	WP_009132358.1	A		fefe_A3	reference	fefe_A3
+WP_008909765.1	WP_008909765.1	A		fefe_A3	reference	fefe_A3
+WP_008907580.1	WP_008907580.1	A		fefe_A3	reference	fefe_A3
+WP_008824689.1	WP_008824689.1	A		fefe_A3	reference	fefe_A3
+WP_008728072.1	WP_008728072.1	A		fefe_A3	reference	fefe_A3
+WP_008711190.1	WP_008711190.1	A		fefe_A3	reference	fefe_A3
+WP_008708834.1	WP_008708834.1	A		fefe_A3	reference	fefe_A3
+WP_008538939.1	WP_008538939.1	A		fefe_A3	reference	fefe_A3
+WP_008521264.1	WP_008521264.1	A		fefe_A3	reference	fefe_A3
+WP_008411510.1	WP_008411510.1	A		fefe_A3	reference	fefe_A3
+WP_008410459.1	WP_008410459.1	A		fefe_A3	reference	fefe_A3
+WP_008410175.1	WP_008410175.1	A		fefe_A3	reference	fefe_A3
+WP_008410064.1	WP_008410064.1	A		fefe_A3	reference	fefe_A3
+WP_008410059.1	WP_008410059.1	A		fefe_A3	reference	fefe_A3
+WP_008371804.1	WP_008371804.1	A		fefe_A3	reference	fefe_A3
+WP_008157755.1	WP_008157755.1	A		fefe_A3	reference	fefe_A3
+WP_008021616.1	WP_008021616.1	A		fefe_A3	reference	fefe_A3
+WP_007953234.1	WP_007953234.1	A		fefe_A3	reference	fefe_A3
+WP_007952324.1	WP_007952324.1	A		fefe_A3	reference	fefe_A3
+WP_007862872.1	WP_007862872.1	A		fefe_A3	reference	fefe_A3
+WP_007862869.1	WP_007862869.1	A		fefe_A3	reference	fefe_A3
+WP_007783548.1	WP_007783548.1	A		fefe_A3	reference	fefe_A3
+WP_007779133.1	WP_007779133.1	A		fefe_A3	reference	fefe_A3
+WP_007715797.1	WP_007715797.1	A		fefe_A3	reference	fefe_A3
+WP_007656765.1	WP_007656765.1	A		fefe_A3	reference	fefe_A3
+WP_007288799.1	WP_007288799.1	A		fefe_A3	reference	fefe_A3
+WP_007286821.1	WP_007286821.1	A		fefe_A3	reference	fefe_A3
+WP_007216264.1	WP_007216264.1	A		fefe_A3	reference	fefe_A3
+WP_007062593.1	WP_007062593.1	A		fefe_A3	reference	fefe_A3
+WP_007060145.1	WP_007060145.1	A		fefe_A3	reference	fefe_A3
+WP_007050317.1	WP_007050317.1	A		fefe_A3	reference	fefe_A3
+WP_007049858.1	WP_007049858.1	A		fefe_A3	reference	fefe_A3
+WP_007039337.1	WP_007039337.1	A		fefe_A3	reference	fefe_A3
+WP_006928134.1	WP_006928134.1	A		fefe_A3	reference	fefe_A3
+WP_006876820.1	WP_006876820.1	A		fefe_A3	reference	fefe_A3
+WP_006861102.1	WP_006861102.1	A		fefe_A3	reference	fefe_A3
+WP_006778965.1	WP_006778965.1	A		fefe_A3	reference	fefe_A3
+WP_006584326.1	WP_006584326.1	A		fefe_A3	reference	fefe_A3
+WP_006573275.1	WP_006573275.1	A		fefe_A3	reference	fefe_A3
+WP_006570153.1	WP_006570153.1	A		fefe_A3	reference	fefe_A3
+WP_006567084.1	WP_006567084.1	A		fefe_A3	reference	fefe_A3
+WP_006524080.1	WP_006524080.1	A		fefe_A3	reference	fefe_A3
+WP_006522262.1	WP_006522262.1	A		fefe_A3	reference	fefe_A3
+WP_006521126.1	WP_006521126.1	A		fefe_A3	reference	fefe_A3
+WP_006444067.1	WP_006444067.1	A		fefe_A3	reference	fefe_A3
+WP_006442445.1	WP_006442445.1	A		fefe_A3	reference	fefe_A3
+WP_006352890.1	WP_006352890.1	A		fefe_A3	reference	fefe_A3
+WP_006299828.1	WP_006299828.1	A		fefe_A3	reference	fefe_A3
+WP_006191642.1	WP_006191642.1	A		fefe_A3	reference	fefe_A3
+WP_006059213.1	WP_006059213.1	A		fefe_A3	reference	fefe_A3
+WP_005991663.1	WP_005991663.1	A		fefe_A3	reference	fefe_A3
+WP_005990603.1	WP_005990603.1	A		fefe_A3	reference	fefe_A3
+WP_005980462.1	WP_005980462.1	A		fefe_A3	reference	fefe_A3
+WP_005952705.1	WP_005952705.1	A		fefe_A3	reference	fefe_A3
+WP_005950651.1	WP_005950651.1	A		fefe_A3	reference	fefe_A3
+WP_005941255.1	WP_005941255.1	A		fefe_A3	reference	fefe_A3
+WP_005931733.1	WP_005931733.1	A		fefe_A3	reference	fefe_A3
+WP_005841395.1	WP_005841395.1	A		fefe_A3	reference	fefe_A3
+WP_005836595.1	WP_005836595.1	A		fefe_A3	reference	fefe_A3
+WP_005680505.1	WP_005680505.1	A		fefe_A3	reference	fefe_A3
+WP_005643305.1	WP_005643305.1	A		fefe_A3	reference	fefe_A3
+WP_005541293.1	WP_005541293.1	A		fefe_A3	reference	fefe_A3
+WP_005487325.1	WP_005487325.1	A		fefe_A3	reference	fefe_A3
+WP_005487095.1	WP_005487095.1	A		fefe_A3	reference	fefe_A3
+WP_005367839.1	WP_005367839.1	A		fefe_A3	reference	fefe_A3
+WP_005333143.1	WP_005333143.1	A		fefe_A3	reference	fefe_A3
+WP_005038259.1	WP_005038259.1	A		fefe_A3	reference	fefe_A3
+WP_005034114.1	WP_005034114.1	A		fefe_A3	reference	fefe_A3
+WP_005033810.1	WP_005033810.1	A		fefe_A3	reference	fefe_A3
+WP_004844038.1	WP_004844038.1	A		fefe_A3	reference	fefe_A3
+WP_004835820.1	WP_004835820.1	A		fefe_A3	reference	fefe_A3
+WP_004816070.1	WP_004816070.1	A		fefe_A3	reference	fefe_A3
+WP_004630049.1	WP_004630049.1	A		fefe_A3	reference	fefe_A3
+WP_004629507.1	WP_004629507.1	A		fefe_A3	reference	fefe_A3
+WP_004614049.1	WP_004614049.1	A		fefe_A3	reference	fefe_A3
+WP_004610503.1	WP_004610503.1	A		fefe_A3	reference	fefe_A3
+WP_004608286.1	WP_004608286.1	A		fefe_A3	reference	fefe_A3
+WP_004401666.1	WP_004401666.1	A		fefe_A3	reference	fefe_A3
+WP_004329321.1	WP_004329321.1	A		fefe_A3	reference	fefe_A3
+WP_004319661.1	WP_004319661.1	A		fefe_A3	reference	fefe_A3
+WP_004081677.1	WP_004081677.1	A		fefe_A3	reference	fefe_A3
+WP_003870979.1	WP_003870979.1	A		fefe_A3	reference	fefe_A3
+WP_003543871.1	WP_003543871.1	A		fefe_A3	reference	fefe_A3
+WP_003541670.1	WP_003541670.1	A		fefe_A3	reference	fefe_A3
+WP_003540305.1	WP_003540305.1	A		fefe_A3	reference	fefe_A3
+WP_003534157.1	WP_003534157.1	A		fefe_A3	reference	fefe_A3
+WP_003519061.1	WP_003519061.1	A		fefe_A3	reference	fefe_A3
+WP_003512584.1	WP_003512584.1	A		fefe_A3	reference	fefe_A3
+WP_003507872.1	WP_003507872.1	A		fefe_A3	reference	fefe_A3
+WP_003138680.1	WP_003138680.1	A		fefe_A3	reference	fefe_A3
+WP_003020884.1	WP_003020884.1	A		fefe_A3	reference	fefe_A3
+WP_002853139.1	WP_002853139.1	A		fefe_A3	reference	fefe_A3
+WP_002730048.1	WP_002730048.1	A		fefe_A3	reference	fefe_A3
+WP_002580338.1	WP_002580338.1	A		fefe_A3	reference	fefe_A3
+WP_002570913.1	WP_002570913.1	A		fefe_A3	reference	fefe_A3
+WP_002568591.1	WP_002568591.1	A		fefe_A3	reference	fefe_A3
+KFZ27631.1	KFZ27631.1	A		fefe_A3	reference	fefe_A3
+KFZ26040.1	KFZ26040.1	A		fefe_A3	reference	fefe_A3
+KFZ25760.1	KFZ25760.1	A		fefe_A3	reference	fefe_A3
+AIO19709.1	AIO19709.1	A		fefe_A3	reference	fefe_A3
+AIO19694.1	AIO19694.1	A		fefe_A3	reference	fefe_A3
+AIO18671.1	AIO18671.1	A		fefe_A3	reference	fefe_A3
+AIO18212.1	AIO18212.1	A		fefe_A3	reference	fefe_A3
+WP_028591227.1	WP_028591227.1	A		fefe_A4	reference	fefe_A4
+WP_027721164.1	WP_027721164.1	A		fefe_A4	reference	fefe_A4
+WP_027186285.1	WP_027186285.1	A		fefe_A4	reference	fefe_A4
+WP_026885750.1	WP_026885750.1	A		fefe_A4	reference	fefe_A4
+WP_025700928.1	WP_025700928.1	A		fefe_A4	reference	fefe_A4
+WP_025688954.1	WP_025688954.1	A		fefe_A4	reference	fefe_A4
+WP_024825939.1	WP_024825939.1	A		fefe_A4	reference	fefe_A4
+WP_023975234.1	WP_023975234.1	A		fefe_A4	reference	fefe_A4
+WP_023162857.1	WP_023162857.1	A		fefe_A4	reference	fefe_A4
+WP_021432325.1	WP_021432325.1	A		fefe_A4	reference	fefe_A4
+WP_018884458.1	WP_018884458.1	A		fefe_A4	reference	fefe_A4
+WP_018591881.1	WP_018591881.1	A		fefe_A4	reference	fefe_A4
+WP_016822145.1	WP_016822145.1	A		fefe_A4	reference	fefe_A4
+WP_015707165.1	WP_015707165.1	A		fefe_A4	reference	fefe_A4
+WP_015337360.1	WP_015337360.1	A		fefe_A4	reference	fefe_A4
+WP_014355220.1	WP_014355220.1	A		fefe_A4	reference	fefe_A4
+WP_014282026.1	WP_014282026.1	A		fefe_A4	reference	fefe_A4
+WP_013275594.1	WP_013275594.1	A		fefe_A4	reference	fefe_A4
+WP_013238388.1	WP_013238388.1	A		fefe_A4	reference	fefe_A4
+WP_013237377.1	WP_013237377.1	A		fefe_A4	reference	fefe_A4
+WP_012765956.1	WP_012765956.1	A		fefe_A4	reference	fefe_A4
+WP_012662530.1	WP_012662530.1	A		fefe_A4	reference	fefe_A4
+WP_012031839.1	WP_012031839.1	A		fefe_A4	reference	fefe_A4
+WP_011989407.1	WP_011989407.1	A		fefe_A4	reference	fefe_A4
+WP_011393383.1	WP_011393383.1	A		fefe_A4	reference	fefe_A4
+WP_011388063.1	WP_011388063.1	A		fefe_A4	reference	fefe_A4
+WP_011366599.1	WP_011366599.1	A		fefe_A4	reference	fefe_A4
+WP_011187724.1	WP_011187724.1	A		fefe_A4	reference	fefe_A4
+WP_010345843.1	WP_010345843.1	A		fefe_A4	reference	fefe_A4
+WP_010295100.1	WP_010295100.1	A		fefe_A4	reference	fefe_A4
+WP_007960496.1	WP_007960496.1	A		fefe_A4	reference	fefe_A4
+WP_007285433.1	WP_007285433.1	A		fefe_A4	reference	fefe_A4
+WP_007063270.1	WP_007063270.1	A		fefe_A4	reference	fefe_A4
+XP_008856018.1	XP_008856018.1	3		fefe_B	reference	fefe_B
+WP_032509674.1	WP_032509674.1	3		fefe_B	reference	fefe_B
+WP_032508759.1	WP_032508759.1	3		fefe_B	reference	fefe_B
+WP_029502583.1	WP_029502583.1	3		fefe_B	reference	fefe_B
+WP_029452114.1	WP_029452114.1	3		fefe_B	reference	fefe_B
+WP_029451048.1	WP_029451048.1	3		fefe_B	reference	fefe_B
+WP_028830146.1	WP_028830146.1	3		fefe_B	reference	fefe_B
+WP_028726954.1	WP_028726954.1	3		fefe_B	reference	fefe_B
+WP_028527755.1	WP_028527755.1	3		fefe_B	reference	fefe_B
+WP_028329580.1	WP_028329580.1	3		fefe_B	reference	fefe_B
+WP_028263961.1	WP_028263961.1	3		fefe_B	reference	fefe_B
+WP_028085756.1	WP_028085756.1	3		fefe_B	reference	fefe_B
+WP_028044437.1	WP_028044437.1	3		fefe_B	reference	fefe_B
+WP_027937376.1	WP_027937376.1	3		fefe_B	reference	fefe_B
+WP_027642984.1	WP_027642984.1	3		fefe_B	reference	fefe_B
+WP_027640431.1	WP_027640431.1	3		fefe_B	reference	fefe_B
+WP_027639106.1	WP_027639106.1	3		fefe_B	reference	fefe_B
+WP_027637669.1	WP_027637669.1	3		fefe_B	reference	fefe_B
+WP_027634587.1	WP_027634587.1	3		fefe_B	reference	fefe_B
+WP_027633478.1	WP_027633478.1	3		fefe_B	reference	fefe_B
+WP_027629995.1	WP_027629995.1	3		fefe_B	reference	fefe_B
+WP_027626678.1	WP_027626678.1	3		fefe_B	reference	fefe_B
+WP_027625395.1	WP_027625395.1	3		fefe_B	reference	fefe_B
+WP_027365621.1	WP_027365621.1	3		fefe_B	reference	fefe_B
+WP_027207458.1	WP_027207458.1	3		fefe_B	reference	fefe_B
+WP_027202830.1	WP_027202830.1	3		fefe_B	reference	fefe_B
+WP_027098927.1	WP_027098927.1	3		fefe_B	reference	fefe_B
+WP_027098445.1	WP_027098445.1	3		fefe_B	reference	fefe_B
+WP_027095964.1	WP_027095964.1	3		fefe_B	reference	fefe_B
+WP_027090514.1	WP_027090514.1	3		fefe_B	reference	fefe_B
+WP_026939128.1	WP_026939128.1	3		fefe_B	reference	fefe_B
+WP_026894721.1	WP_026894721.1	3		fefe_B	reference	fefe_B
+WP_026894367.1	WP_026894367.1	3		fefe_B	reference	fefe_B
+WP_026892187.1	WP_026892187.1	3		fefe_B	reference	fefe_B
+WP_026891848.1	WP_026891848.1	3		fefe_B	reference	fefe_B
+WP_026887424.1	WP_026887424.1	3		fefe_B	reference	fefe_B
+WP_026886567.1	WP_026886567.1	3		fefe_B	reference	fefe_B
+WP_026881775.1	WP_026881775.1	3		fefe_B	reference	fefe_B
+WP_025868115.1	WP_025868115.1	3		fefe_B	reference	fefe_B
+WP_025864379.1	WP_025864379.1	3		fefe_B	reference	fefe_B
+WP_025640716.1	WP_025640716.1	3		fefe_B	reference	fefe_B
+WP_025075971.1	WP_025075971.1	3		fefe_B	reference	fefe_B
+WP_024988140.1	WP_024988140.1	3		fefe_B	reference	fefe_B
+WP_024933083.1	WP_024933083.1	3		fefe_B	reference	fefe_B
+WP_024932223.1	WP_024932223.1	3		fefe_B	reference	fefe_B
+WP_024622567.1	WP_024622567.1	3		fefe_B	reference	fefe_B
+WP_024621657.1	WP_024621657.1	3		fefe_B	reference	fefe_B
+WP_023976023.1	WP_023976023.1	3		fefe_B	reference	fefe_B
+WP_023975043.1	WP_023975043.1	3		fefe_B	reference	fefe_B
+WP_023920581.1	WP_023920581.1	3		fefe_B	reference	fefe_B
+WP_023436998.1	WP_023436998.1	3		fefe_B	reference	fefe_B
+WP_023386490.1	WP_023386490.1	3		fefe_B	reference	fefe_B
+WP_022931411.1	WP_022931411.1	3		fefe_B	reference	fefe_B
+WP_022746733.1	WP_022746733.1	3		fefe_B	reference	fefe_B
+WP_022743703.1	WP_022743703.1	3		fefe_B	reference	fefe_B
+WP_022418160.1	WP_022418160.1	3		fefe_B	reference	fefe_B
+WP_022278255.1	WP_022278255.1	3		fefe_B	reference	fefe_B
+WP_022195425.1	WP_022195425.1	3		fefe_B	reference	fefe_B
+WP_022187469.1	WP_022187469.1	3		fefe_B	reference	fefe_B
+WP_022078722.1	WP_022078722.1	3		fefe_B	reference	fefe_B
+WP_021874508.1	WP_021874508.1	3		fefe_B	reference	fefe_B
+WP_021803667.1	WP_021803667.1	3		fefe_B	reference	fefe_B
+WP_021800342.1	WP_021800342.1	3		fefe_B	reference	fefe_B
+WP_021724994.1	WP_021724994.1	3		fefe_B	reference	fefe_B
+WP_021644837.1	WP_021644837.1	3		fefe_B	reference	fefe_B
+WP_021626398.1	WP_021626398.1	3		fefe_B	reference	fefe_B
+WP_021170205.1	WP_021170205.1	3		fefe_B	reference	fefe_B
+WP_020073385.1	WP_020073385.1	3		fefe_B	reference	fefe_B
+WP_020073353.1	WP_020073353.1	3		fefe_B	reference	fefe_B
+WP_020005910.1	WP_020005910.1	3		fefe_B	reference	fefe_B
+WP_019893070.1	WP_019893070.1	3		fefe_B	reference	fefe_B
+WP_019880475.1	WP_019880475.1	3		fefe_B	reference	fefe_B
+WP_019554692.1	WP_019554692.1	3		fefe_B	reference	fefe_B
+WP_018703126.1	WP_018703126.1	3		fefe_B	reference	fefe_B
+WP_018526486.1	WP_018526486.1	3		fefe_B	reference	fefe_B
+WP_018357720.1	WP_018357720.1	3		fefe_B	reference	fefe_B
+WP_018338302.1	WP_018338302.1	3		fefe_B	reference	fefe_B
+WP_018248337.1	WP_018248337.1	3		fefe_B	reference	fefe_B
+WP_018247956.1	WP_018247956.1	3		fefe_B	reference	fefe_B
+WP_018086727.1	WP_018086727.1	3		fefe_B	reference	fefe_B
+WP_017753183.1	WP_017753183.1	3		fefe_B	reference	fefe_B
+WP_017751925.1	WP_017751925.1	3		fefe_B	reference	fefe_B
+WP_017414827.1	WP_017414827.1	3		fefe_B	reference	fefe_B
+WP_016266912.1	WP_016266912.1	3		fefe_B	reference	fefe_B
+WP_016206137.1	WP_016206137.1	3		fefe_B	reference	fefe_B
+WP_016205726.1	WP_016205726.1	3		fefe_B	reference	fefe_B
+WP_016147607.1	WP_016147607.1	3		fefe_B	reference	fefe_B
+WP_016146243.1	WP_016146243.1	3		fefe_B	reference	fefe_B
+WP_015943139.1	WP_015943139.1	3		fefe_B	reference	fefe_B
+WP_015943050.1	WP_015943050.1	3		fefe_B	reference	fefe_B
+WP_015869123.1	WP_015869123.1	3		fefe_B	reference	fefe_B
+WP_015778292.1	WP_015778292.1	3		fefe_B	reference	fefe_B
+WP_015757276.1	WP_015757276.1	3		fefe_B	reference	fefe_B
+WP_015710040.1	WP_015710040.1	3		fefe_B	reference	fefe_B
+WP_015560436.1	WP_015560436.1	3		fefe_B	reference	fefe_B
+WP_015529112.1	WP_015529112.1	3		fefe_B	reference	fefe_B
+WP_015518171.1	WP_015518171.1	3		fefe_B	reference	fefe_B
+WP_015515272.1	WP_015515272.1	3		fefe_B	reference	fefe_B
+WP_015393395.1	WP_015393395.1	3		fefe_B	reference	fefe_B
+WP_015390585.1	WP_015390585.1	3		fefe_B	reference	fefe_B
+WP_015360284.1	WP_015360284.1	3		fefe_B	reference	fefe_B
+WP_015359535.1	WP_015359535.1	3		fefe_B	reference	fefe_B
+WP_015326565.1	WP_015326565.1	3		fefe_B	reference	fefe_B
+WP_015325789.1	WP_015325789.1	3		fefe_B	reference	fefe_B
+WP_015261135.1	WP_015261135.1	3		fefe_B	reference	fefe_B
+WP_014904712.1	WP_014904712.1	3		fefe_B	reference	fefe_B
+WP_014792843.1	WP_014792843.1	3		fefe_B	reference	fefe_B
+WP_014792620.1	WP_014792620.1	3		fefe_B	reference	fefe_B
+WP_014758430.1	WP_014758430.1	3		fefe_B	reference	fefe_B
+WP_014553922.1	WP_014553922.1	3		fefe_B	reference	fefe_B
+WP_014553742.1	WP_014553742.1	3		fefe_B	reference	fefe_B
+WP_014487517.1	WP_014487517.1	3		fefe_B	reference	fefe_B
+WP_014299406.1	WP_014299406.1	3		fefe_B	reference	fefe_B
+WP_014270720.1	WP_014270720.1	3		fefe_B	reference	fefe_B
+WP_014261748.1	WP_014261748.1	3		fefe_B	reference	fefe_B
+WP_014128295.1	WP_014128295.1	3		fefe_B	reference	fefe_B
+WP_014115957.1	WP_014115957.1	3		fefe_B	reference	fefe_B
+WP_014080018.1	WP_014080018.1	3		fefe_B	reference	fefe_B
+WP_014079355.1	WP_014079355.1	3		fefe_B	reference	fefe_B
+WP_014063301.1	WP_014063301.1	3		fefe_B	reference	fefe_B
+WP_014015718.1	WP_014015718.1	3		fefe_B	reference	fefe_B
+WP_013842589.1	WP_013842589.1	3		fefe_B	reference	fefe_B
+WP_013842190.1	WP_013842190.1	3		fefe_B	reference	fefe_B
+WP_013810136.1	WP_013810136.1	3		fefe_B	reference	fefe_B
+WP_013809931.1	WP_013809931.1	3		fefe_B	reference	fefe_B
+WP_013788347.1	WP_013788347.1	3		fefe_B	reference	fefe_B
+WP_013760215.1	WP_013760215.1	3		fefe_B	reference	fefe_B
+WP_013708979.1	WP_013708979.1	3		fefe_B	reference	fefe_B
+WP_013700376.1	WP_013700376.1	3		fefe_B	reference	fefe_B
+WP_013657049.1	WP_013657049.1	3		fefe_B	reference	fefe_B
+WP_013613424.1	WP_013613424.1	3		fefe_B	reference	fefe_B
+WP_013608539.1	WP_013608539.1	3		fefe_B	reference	fefe_B
+WP_013547705.1	WP_013547705.1	3		fefe_B	reference	fefe_B
+WP_013486531.1	WP_013486531.1	3		fefe_B	reference	fefe_B
+WP_013484003.1	WP_013484003.1	3		fefe_B	reference	fefe_B
+WP_013387868.1	WP_013387868.1	3		fefe_B	reference	fefe_B
+WP_013380841.1	WP_013380841.1	3		fefe_B	reference	fefe_B
+WP_013298245.1	WP_013298245.1	3		fefe_B	reference	fefe_B
+WP_013276251.1	WP_013276251.1	3		fefe_B	reference	fefe_B
+WP_013274254.1	WP_013274254.1	3		fefe_B	reference	fefe_B
+WP_013273992.1	WP_013273992.1	3		fefe_B	reference	fefe_B
+WP_013255832.1	WP_013255832.1	3		fefe_B	reference	fefe_B
+WP_013252233.1	WP_013252233.1	3		fefe_B	reference	fefe_B
+WP_013243002.1	WP_013243002.1	3		fefe_B	reference	fefe_B
+WP_013240326.1	WP_013240326.1	3		fefe_B	reference	fefe_B
+WP_013150225.1	WP_013150225.1	3		fefe_B	reference	fefe_B
+WP_012939228.1	WP_012939228.1	3		fefe_B	reference	fefe_B
+WP_012938875.1	WP_012938875.1	3		fefe_B	reference	fefe_B
+WP_012862886.1	WP_012862886.1	3		fefe_B	reference	fefe_B
+WP_012808500.1	WP_012808500.1	3		fefe_B	reference	fefe_B
+WP_012742086.1	WP_012742086.1	3		fefe_B	reference	fefe_B
+WP_012739633.1	WP_012739633.1	3		fefe_B	reference	fefe_B
+WP_012670335.1	WP_012670335.1	3		fefe_B	reference	fefe_B
+WP_012635236.1	WP_012635236.1	3		fefe_B	reference	fefe_B
+WP_012635168.1	WP_012635168.1	3		fefe_B	reference	fefe_B
+WP_012447347.1	WP_012447347.1	3		fefe_B	reference	fefe_B
+WP_012447299.1	WP_012447299.1	3		fefe_B	reference	fefe_B
+WP_012414920.1	WP_012414920.1	3		fefe_B	reference	fefe_B
+WP_012301552.1	WP_012301552.1	3		fefe_B	reference	fefe_B
+WP_012283632.1	WP_012283632.1	3		fefe_B	reference	fefe_B
+WP_012282699.1	WP_012282699.1	3		fefe_B	reference	fefe_B
+WP_011988737.1	WP_011988737.1	3		fefe_B	reference	fefe_B
+WP_011964716.1	WP_011964716.1	3		fefe_B	reference	fefe_B
+WP_011878132.1	WP_011878132.1	3		fefe_B	reference	fefe_B
+WP_011877789.1	WP_011877789.1	3		fefe_B	reference	fefe_B
+WP_011722917.1	WP_011722917.1	3		fefe_B	reference	fefe_B
+WP_011721124.1	WP_011721124.1	3		fefe_B	reference	fefe_B
+WP_011593255.1	WP_011593255.1	3		fefe_B	reference	fefe_B
+WP_011591170.1	WP_011591170.1	3		fefe_B	reference	fefe_B
+WP_011366806.1	WP_011366806.1	3		fefe_B	reference	fefe_B
+WP_011189620.1	WP_011189620.1	3		fefe_B	reference	fefe_B
+WP_010966505.1	WP_010966505.1	3		fefe_B	reference	fefe_B
+WP_010699218.1	WP_010699218.1	3		fefe_B	reference	fefe_B
+WP_010665374.1	WP_010665374.1	3		fefe_B	reference	fefe_B
+WP_010297806.1	WP_010297806.1	3		fefe_B	reference	fefe_B
+WP_010293869.1	WP_010293869.1	3		fefe_B	reference	fefe_B
+WP_010249420.1	WP_010249420.1	3		fefe_B	reference	fefe_B
+WP_010235263.1	WP_010235263.1	3		fefe_B	reference	fefe_B
+WP_010073823.1	WP_010073823.1	3		fefe_B	reference	fefe_B
+WP_009624657.1	WP_009624657.1	3		fefe_B	reference	fefe_B
+WP_009380768.1	WP_009380768.1	3		fefe_B	reference	fefe_B
+WP_009277946.1	WP_009277946.1	3		fefe_B	reference	fefe_B
+WP_009202817.1	WP_009202817.1	3		fefe_B	reference	fefe_B
+WP_009145673.1	WP_009145673.1	3		fefe_B	reference	fefe_B
+WP_009141594.1	WP_009141594.1	3		fefe_B	reference	fefe_B
+WP_009132353.1	WP_009132353.1	3		fefe_B	reference	fefe_B
+WP_009126776.1	WP_009126776.1	3		fefe_B	reference	fefe_B
+WP_008901930.1	WP_008901930.1	3		fefe_B	reference	fefe_B
+WP_008753040.1	WP_008753040.1	3		fefe_B	reference	fefe_B
+WP_008724767.1	WP_008724767.1	3		fefe_B	reference	fefe_B
+WP_008713427.1	WP_008713427.1	3		fefe_B	reference	fefe_B
+WP_008410184.1	WP_008410184.1	3		fefe_B	reference	fefe_B
+WP_008409855.1	WP_008409855.1	3		fefe_B	reference	fefe_B
+WP_008369976.1	WP_008369976.1	3		fefe_B	reference	fefe_B
+WP_008152383.1	WP_008152383.1	3		fefe_B	reference	fefe_B
+WP_008025884.1	WP_008025884.1	3		fefe_B	reference	fefe_B
+WP_007953762.1	WP_007953762.1	3		fefe_B	reference	fefe_B
+WP_007863166.1	WP_007863166.1	3		fefe_B	reference	fefe_B
+WP_007861015.1	WP_007861015.1	3		fefe_B	reference	fefe_B
+WP_007781007.1	WP_007781007.1	3		fefe_B	reference	fefe_B
+WP_007748547.1	WP_007748547.1	3		fefe_B	reference	fefe_B
+WP_007665069.1	WP_007665069.1	3		fefe_B	reference	fefe_B
+WP_007569731.1	WP_007569731.1	3		fefe_B	reference	fefe_B
+WP_007560478.1	WP_007560478.1	3		fefe_B	reference	fefe_B
+WP_007290224.1	WP_007290224.1	3		fefe_B	reference	fefe_B
+WP_007289794.1	WP_007289794.1	3		fefe_B	reference	fefe_B
+WP_007209903.1	WP_007209903.1	3		fefe_B	reference	fefe_B
+WP_007157603.1	WP_007157603.1	3		fefe_B	reference	fefe_B
+WP_007064371.1	WP_007064371.1	3		fefe_B	reference	fefe_B
+WP_007061531.1	WP_007061531.1	3		fefe_B	reference	fefe_B
+WP_007059875.1	WP_007059875.1	3		fefe_B	reference	fefe_B
+WP_007049654.1	WP_007049654.1	3		fefe_B	reference	fefe_B
+WP_007046798.1	WP_007046798.1	3		fefe_B	reference	fefe_B
+WP_006941133.1	WP_006941133.1	3		fefe_B	reference	fefe_B
+WP_006929576.1	WP_006929576.1	3		fefe_B	reference	fefe_B
+WP_006905160.1	WP_006905160.1	3		fefe_B	reference	fefe_B
+WP_006874974.1	WP_006874974.1	3		fefe_B	reference	fefe_B
+WP_006874781.1	WP_006874781.1	3		fefe_B	reference	fefe_B
+WP_006859957.1	WP_006859957.1	3		fefe_B	reference	fefe_B
+WP_006789546.1	WP_006789546.1	3		fefe_B	reference	fefe_B
+WP_006778913.1	WP_006778913.1	3		fefe_B	reference	fefe_B
+WP_006599253.1	WP_006599253.1	3		fefe_B	reference	fefe_B
+WP_006571748.1	WP_006571748.1	3		fefe_B	reference	fefe_B
+WP_006568603.1	WP_006568603.1	3		fefe_B	reference	fefe_B
+WP_006520976.1	WP_006520976.1	3		fefe_B	reference	fefe_B
+WP_006442603.1	WP_006442603.1	3		fefe_B	reference	fefe_B
+WP_006352873.1	WP_006352873.1	3		fefe_B	reference	fefe_B
+WP_006190671.1	WP_006190671.1	3		fefe_B	reference	fefe_B
+WP_006009278.1	WP_006009278.1	3		fefe_B	reference	fefe_B
+WP_005944276.1	WP_005944276.1	3		fefe_B	reference	fefe_B
+WP_005941153.1	WP_005941153.1	3		fefe_B	reference	fefe_B
+WP_005929426.1	WP_005929426.1	3		fefe_B	reference	fefe_B
+WP_005836589.1	WP_005836589.1	3		fefe_B	reference	fefe_B
+WP_005679640.1	WP_005679640.1	3		fefe_B	reference	fefe_B
+WP_005600915.1	WP_005600915.1	3		fefe_B	reference	fefe_B
+WP_005487149.1	WP_005487149.1	3		fefe_B	reference	fefe_B
+WP_005364906.1	WP_005364906.1	3		fefe_B	reference	fefe_B
+WP_005210847.1	WP_005210847.1	3		fefe_B	reference	fefe_B
+WP_005210787.1	WP_005210787.1	3		fefe_B	reference	fefe_B
+WP_004840268.1	WP_004840268.1	3		fefe_B	reference	fefe_B
+WP_004836902.1	WP_004836902.1	3		fefe_B	reference	fefe_B
+WP_004823125.1	WP_004823125.1	3		fefe_B	reference	fefe_B
+WP_004817153.1	WP_004817153.1	3		fefe_B	reference	fefe_B
+WP_004800637.1	WP_004800637.1	3		fefe_B	reference	fefe_B
+WP_004627876.1	WP_004627876.1	3		fefe_B	reference	fefe_B
+WP_004613839.1	WP_004613839.1	3		fefe_B	reference	fefe_B
+WP_004611414.1	WP_004611414.1	3		fefe_B	reference	fefe_B
+WP_004610270.1	WP_004610270.1	3		fefe_B	reference	fefe_B
+WP_004605002.1	WP_004605002.1	3		fefe_B	reference	fefe_B
+WP_004602330.1	WP_004602330.1	3		fefe_B	reference	fefe_B
+WP_004330064.1	WP_004330064.1	3		fefe_B	reference	fefe_B
+WP_004307174.1	WP_004307174.1	3		fefe_B	reference	fefe_B
+WP_004099977.1	WP_004099977.1	3		fefe_B	reference	fefe_B
+WP_004093662.1	WP_004093662.1	3		fefe_B	reference	fefe_B
+WP_004054251.1	WP_004054251.1	3		fefe_B	reference	fefe_B
+WP_004052440.1	WP_004052440.1	3		fefe_B	reference	fefe_B
+WP_003540297.1	WP_003540297.1	3		fefe_B	reference	fefe_B
+WP_003532170.1	WP_003532170.1	3		fefe_B	reference	fefe_B
+WP_003530568.1	WP_003530568.1	3		fefe_B	reference	fefe_B
+WP_003495774.1	WP_003495774.1	3		fefe_B	reference	fefe_B
+WP_003492333.1	WP_003492333.1	3		fefe_B	reference	fefe_B
+WP_003148188.1	WP_003148188.1	3		fefe_B	reference	fefe_B
+WP_002848990.1	WP_002848990.1	3		fefe_B	reference	fefe_B
+WP_002845087.1	WP_002845087.1	3		fefe_B	reference	fefe_B
+WP_002843191.1	WP_002843191.1	3		fefe_B	reference	fefe_B
+WP_002704855.1	WP_002704855.1	3		fefe_B	reference	fefe_B
+WP_002582769.1	WP_002582769.1	3		fefe_B	reference	fefe_B
+WP_002580023.1	WP_002580023.1	3		fefe_B	reference	fefe_B
+WP_002570587.1	WP_002570587.1	3		fefe_B	reference	fefe_B
+WP_002568888.1	WP_002568888.1	3		fefe_B	reference	fefe_B
+AIO18483.1	AIO18483.1	3		fefe_B	reference	fefe_B
+WP_028991495.1	WP_028991495.1	6		fefe_C1	reference	fefe_C1
+WP_028729380.1	WP_028729380.1	6		fefe_C1	reference	fefe_C1
+WP_028308072.1	WP_028308072.1	6		fefe_C1	reference	fefe_C1
+WP_027717491.1	WP_027717491.1	6		fefe_C1	reference	fefe_C1
+WP_027642172.1	WP_027642172.1	6		fefe_C1	reference	fefe_C1
+WP_027629168.1	WP_027629168.1	6		fefe_C1	reference	fefe_C1
+WP_027364040.1	WP_027364040.1	6		fefe_C1	reference	fefe_C1
+WP_027355352.1	WP_027355352.1	6		fefe_C1	reference	fefe_C1
+WP_027338883.1	WP_027338883.1	6		fefe_C1	reference	fefe_C1
+WP_026894022.1	WP_026894022.1	6		fefe_C1	reference	fefe_C1
+WP_026893765.1	WP_026893765.1	6		fefe_C1	reference	fefe_C1
+WP_026485859.1	WP_026485859.1	6		fefe_C1	reference	fefe_C1
+WP_026475068.1	WP_026475068.1	6		fefe_C1	reference	fefe_C1
+WP_026393511.1	WP_026393511.1	6		fefe_C1	reference	fefe_C1
+WP_021739962.1	WP_021739962.1	6		fefe_C1	reference	fefe_C1
+WP_021167205.1	WP_021167205.1	6		fefe_C1	reference	fefe_C1
+WP_019541391.1	WP_019541391.1	6		fefe_C1	reference	fefe_C1
+WP_018962522.1	WP_018962522.1	6		fefe_C1	reference	fefe_C1
+WP_018660455.1	WP_018660455.1	6		fefe_C1	reference	fefe_C1
+WP_018247867.1	WP_018247867.1	6		fefe_C1	reference	fefe_C1
+WP_018084276.1	WP_018084276.1	6		fefe_C1	reference	fefe_C1
+WP_016777702.1	WP_016777702.1	6		fefe_C1	reference	fefe_C1
+WP_015907773.1	WP_015907773.1	6		fefe_C1	reference	fefe_C1
+WP_015513457.1	WP_015513457.1	6		fefe_C1	reference	fefe_C1
+WP_015358348.1	WP_015358348.1	6		fefe_C1	reference	fefe_C1
+WP_015327627.1	WP_015327627.1	6		fefe_C1	reference	fefe_C1
+WP_014758976.1	WP_014758976.1	6		fefe_C1	reference	fefe_C1
+WP_014357055.1	WP_014357055.1	6		fefe_C1	reference	fefe_C1
+WP_014254572.1	WP_014254572.1	6		fefe_C1	reference	fefe_C1
+WP_014163756.1	WP_014163756.1	6		fefe_C1	reference	fefe_C1
+WP_014062652.1	WP_014062652.1	6		fefe_C1	reference	fefe_C1
+WP_013823363.1	WP_013823363.1	6		fefe_C1	reference	fefe_C1
+WP_013788354.1	WP_013788354.1	6		fefe_C1	reference	fefe_C1
+WP_013780872.1	WP_013780872.1	6		fefe_C1	reference	fefe_C1
+WP_013778946.1	WP_013778946.1	6		fefe_C1	reference	fefe_C1
+WP_013657399.1	WP_013657399.1	6		fefe_C1	reference	fefe_C1
+WP_013610546.1	WP_013610546.1	6		fefe_C1	reference	fefe_C1
+WP_013430365.1	WP_013430365.1	6		fefe_C1	reference	fefe_C1
+WP_013412025.1	WP_013412025.1	6		fefe_C1	reference	fefe_C1
+WP_013406358.1	WP_013406358.1	6		fefe_C1	reference	fefe_C1
+WP_013403323.1	WP_013403323.1	6		fefe_C1	reference	fefe_C1
+WP_013379176.1	WP_013379176.1	6		fefe_C1	reference	fefe_C1
+WP_013297601.1	WP_013297601.1	6		fefe_C1	reference	fefe_C1
+WP_013290556.1	WP_013290556.1	6		fefe_C1	reference	fefe_C1
+WP_013273980.1	WP_013273980.1	6		fefe_C1	reference	fefe_C1
+WP_013150113.1	WP_013150113.1	6		fefe_C1	reference	fefe_C1
+WP_012994906.1	WP_012994906.1	6		fefe_C1	reference	fefe_C1
+WP_012939176.1	WP_012939176.1	6		fefe_C1	reference	fefe_C1
+WP_012543804.1	WP_012543804.1	6		fefe_C1	reference	fefe_C1
+WP_012446583.1	WP_012446583.1	6		fefe_C1	reference	fefe_C1
+WP_012064286.1	WP_012064286.1	6		fefe_C1	reference	fefe_C1
+WP_010665314.1	WP_010665314.1	6		fefe_C1	reference	fefe_C1
+WP_010251919.1	WP_010251919.1	6		fefe_C1	reference	fefe_C1
+WP_009609830.1	WP_009609830.1	6		fefe_C1	reference	fefe_C1
+WP_009145644.1	WP_009145644.1	6		fefe_C1	reference	fefe_C1
+WP_008909343.1	WP_008909343.1	6		fefe_C1	reference	fefe_C1
+WP_008157723.1	WP_008157723.1	6		fefe_C1	reference	fefe_C1
+WP_007862856.1	WP_007862856.1	6		fefe_C1	reference	fefe_C1
+WP_007656801.1	WP_007656801.1	6		fefe_C1	reference	fefe_C1
+WP_007288806.1	WP_007288806.1	6		fefe_C1	reference	fefe_C1
+WP_006778972.1	WP_006778972.1	6		fefe_C1	reference	fefe_C1
+WP_006573282.1	WP_006573282.1	6		fefe_C1	reference	fefe_C1
+WP_006570151.1	WP_006570151.1	6		fefe_C1	reference	fefe_C1
+WP_006521135.1	WP_006521135.1	6		fefe_C1	reference	fefe_C1
+WP_005643245.1	WP_005643245.1	6		fefe_C1	reference	fefe_C1
+WP_004626210.1	WP_004626210.1	6		fefe_C1	reference	fefe_C1
+WP_004608279.1	WP_004608279.1	6		fefe_C1	reference	fefe_C1
+WP_004401673.1	WP_004401673.1	6		fefe_C1	reference	fefe_C1
+WP_003871510.1	WP_003871510.1	6		fefe_C1	reference	fefe_C1
+WP_003534146.1	WP_003534146.1	6		fefe_C1	reference	fefe_C1
+WP_003512576.1	WP_003512576.1	6		fefe_C1	reference	fefe_C1
+WP_002572006.1	WP_002572006.1	6		fefe_C1	reference	fefe_C1
+WP_028517519.1	WP_028517519.1	5		fefe_C2	reference	fefe_C2
+WP_027626440.1	WP_027626440.1	5		fefe_C2	reference	fefe_C2
+WP_027398671.1	WP_027398671.1	5		fefe_C2	reference	fefe_C2
+WP_022931679.1	WP_022931679.1	5		fefe_C2	reference	fefe_C2
+WP_015713064.1	WP_015713064.1	5		fefe_C2	reference	fefe_C2
+WP_015709814.1	WP_015709814.1	5		fefe_C2	reference	fefe_C2
+WP_015560495.1	WP_015560495.1	5		fefe_C2	reference	fefe_C2
+WP_014903221.1	WP_014903221.1	5		fefe_C2	reference	fefe_C2
+WP_014186754.1	WP_014186754.1	5		fefe_C2	reference	fefe_C2
+WP_014186347.1	WP_014186347.1	5		fefe_C2	reference	fefe_C2
+WP_014184511.1	WP_014184511.1	5		fefe_C2	reference	fefe_C2
+WP_014080084.1	WP_014080084.1	5		fefe_C2	reference	fefe_C2
+WP_013969799.1	WP_013969799.1	5		fefe_C2	reference	fefe_C2
+WP_013907653.1	WP_013907653.1	5		fefe_C2	reference	fefe_C2
+WP_013757426.1	WP_013757426.1	5		fefe_C2	reference	fefe_C2
+WP_013701174.1	WP_013701174.1	5		fefe_C2	reference	fefe_C2
+WP_013623612.1	WP_013623612.1	5		fefe_C2	reference	fefe_C2
+WP_013314414.1	WP_013314414.1	5		fefe_C2	reference	fefe_C2
+WP_013255981.1	WP_013255981.1	5		fefe_C2	reference	fefe_C2
+WP_011640458.1	WP_011640458.1	5		fefe_C2	reference	fefe_C2
+WP_010251391.1	WP_010251391.1	5		fefe_C2	reference	fefe_C2
+WP_009618950.1	WP_009618950.1	5		fefe_C2	reference	fefe_C2
+WP_007957068.1	WP_007957068.1	5		fefe_C2	reference	fefe_C2
+WP_004064152.1	WP_004064152.1	5		fefe_C2	reference	fefe_C2
+WP_002848484.1	WP_002848484.1	5		fefe_C2	reference	fefe_C2
+WP_029918197.1	WP_029918197.1	7		fefe_C3	reference	fefe_C3
+WP_029502581.1	WP_029502581.1	7		fefe_C3	reference	fefe_C3
+WP_029460054.1	WP_029460054.1	7		fefe_C3	reference	fefe_C3
+WP_028992244.1	WP_028992244.1	7		fefe_C3	reference	fefe_C3
+WP_028843226.1	WP_028843226.1	7		fefe_C3	reference	fefe_C3
+WP_028828747.1	WP_028828747.1	7		fefe_C3	reference	fefe_C3
+WP_028308065.1	WP_028308065.1	7		fefe_C3	reference	fefe_C3
+WP_027937375.1	WP_027937375.1	7		fefe_C3	reference	fefe_C3
+WP_027718651.1	WP_027718651.1	7		fefe_C3	reference	fefe_C3
+WP_027640429.1	WP_027640429.1	7		fefe_C3	reference	fefe_C3
+WP_027637671.1	WP_027637671.1	7		fefe_C3	reference	fefe_C3
+WP_027627041.1	WP_027627041.1	7		fefe_C3	reference	fefe_C3
+WP_027625074.1	WP_027625074.1	7		fefe_C3	reference	fefe_C3
+WP_027398115.1	WP_027398115.1	7		fefe_C3	reference	fefe_C3
+WP_027356645.1	WP_027356645.1	7		fefe_C3	reference	fefe_C3
+WP_027202827.1	WP_027202827.1	7		fefe_C3	reference	fefe_C3
+WP_026894719.1	WP_026894719.1	7		fefe_C3	reference	fefe_C3
+WP_026892185.1	WP_026892185.1	7		fefe_C3	reference	fefe_C3
+WP_026841112.1	WP_026841112.1	7		fefe_C3	reference	fefe_C3
+WP_026649803.1	WP_026649803.1	7		fefe_C3	reference	fefe_C3
+WP_026475064.1	WP_026475064.1	7		fefe_C3	reference	fefe_C3
+WP_024823816.1	WP_024823816.1	7		fefe_C3	reference	fefe_C3
+WP_023383391.1	WP_023383391.1	7		fefe_C3	reference	fefe_C3
+WP_020814845.1	WP_020814845.1	7		fefe_C3	reference	fefe_C3
+WP_020675965.1	WP_020675965.1	7		fefe_C3	reference	fefe_C3
+WP_020613089.1	WP_020613089.1	7		fefe_C3	reference	fefe_C3
+WP_019880479.1	WP_019880479.1	7		fefe_C3	reference	fefe_C3
+WP_018703124.1	WP_018703124.1	7		fefe_C3	reference	fefe_C3
+WP_018592801.1	WP_018592801.1	7		fefe_C3	reference	fefe_C3
+WP_018526489.1	WP_018526489.1	7		fefe_C3	reference	fefe_C3
+WP_018338305.1	WP_018338305.1	7		fefe_C3	reference	fefe_C3
+WP_018085928.1	WP_018085928.1	7		fefe_C3	reference	fefe_C3
+WP_017890116.1	WP_017890116.1	7		fefe_C3	reference	fefe_C3
+WP_017873317.1	WP_017873317.1	7		fefe_C3	reference	fefe_C3
+WP_017416084.1	WP_017416084.1	7		fefe_C3	reference	fefe_C3
+WP_016777698.1	WP_016777698.1	7		fefe_C3	reference	fefe_C3
+WP_015925729.1	WP_015925729.1	7		fefe_C3	reference	fefe_C3
+WP_015919563.1	WP_015919563.1	7		fefe_C3	reference	fefe_C3
+WP_015839082.1	WP_015839082.1	7		fefe_C3	reference	fefe_C3
+WP_015724298.1	WP_015724298.1	7		fefe_C3	reference	fefe_C3
+WP_015722465.1	WP_015722465.1	7		fefe_C3	reference	fefe_C3
+WP_015710039.1	WP_015710039.1	7		fefe_C3	reference	fefe_C3
+WP_015707141.1	WP_015707141.1	7		fefe_C3	reference	fefe_C3
+WP_015518172.1	WP_015518172.1	7		fefe_C3	reference	fefe_C3
+WP_015513468.1	WP_015513468.1	7		fefe_C3	reference	fefe_C3
+WP_015359537.1	WP_015359537.1	7		fefe_C3	reference	fefe_C3
+WP_015325786.1	WP_015325786.1	7		fefe_C3	reference	fefe_C3
+WP_014855313.1	WP_014855313.1	7		fefe_C3	reference	fefe_C3
+WP_014758428.1	WP_014758428.1	7		fefe_C3	reference	fefe_C3
+WP_014559402.1	WP_014559402.1	7		fefe_C3	reference	fefe_C3
+WP_014553745.1	WP_014553745.1	7		fefe_C3	reference	fefe_C3
+WP_014552161.1	WP_014552161.1	7		fefe_C3	reference	fefe_C3
+WP_014451413.1	WP_014451413.1	7		fefe_C3	reference	fefe_C3
+WP_014296384.1	WP_014296384.1	5		fefe_C3	reference	fefe_C3
+WP_014270717.1	WP_014270717.1	7		fefe_C3	reference	fefe_C3
+WP_014186009.1	WP_014186009.1	7		fefe_C3	reference	fefe_C3
+WP_014063294.1	WP_014063294.1	7		fefe_C3	reference	fefe_C3
+WP_013931431.1	WP_013931431.1	7		fefe_C3	reference	fefe_C3
+WP_013842496.1	WP_013842496.1	7		fefe_C3	reference	fefe_C3
+WP_013841414.1	WP_013841414.1	7		fefe_C3	reference	fefe_C3
+WP_013824003.1	WP_013824003.1	7		fefe_C3	reference	fefe_C3
+WP_013823945.1	WP_013823945.1	7		fefe_C3	reference	fefe_C3
+WP_013810321.1	WP_013810321.1	7		fefe_C3	reference	fefe_C3
+WP_013809975.1	WP_013809975.1	7		fefe_C3	reference	fefe_C3
+WP_013787821.1	WP_013787821.1	7		fefe_C3	reference	fefe_C3
+WP_013781007.1	WP_013781007.1	7		fefe_C3	reference	fefe_C3
+WP_013778046.1	WP_013778046.1	7		fefe_C3	reference	fefe_C3
+WP_013759422.1	WP_013759422.1	7		fefe_C3	reference	fefe_C3
+WP_013657393.1	WP_013657393.1	7		fefe_C3	reference	fefe_C3
+WP_013613427.1	WP_013613427.1	7		fefe_C3	reference	fefe_C3
+WP_013608542.1	WP_013608542.1	7		fefe_C3	reference	fefe_C3
+WP_013570771.1	WP_013570771.1	7		fefe_C3	reference	fefe_C3
+WP_013484024.1	WP_013484024.1	7		fefe_C3	reference	fefe_C3
+WP_013406267.1	WP_013406267.1	7		fefe_C3	reference	fefe_C3
+WP_013387666.1	WP_013387666.1	7		fefe_C3	reference	fefe_C3
+WP_013379523.1	WP_013379523.1	7		fefe_C3	reference	fefe_C3
+WP_013314018.1	WP_013314018.1	7		fefe_C3	reference	fefe_C3
+WP_013298247.1	WP_013298247.1	7		fefe_C3	reference	fefe_C3
+WP_013273994.1	WP_013273994.1	7		fefe_C3	reference	fefe_C3
+WP_013150921.1	WP_013150921.1	7		fefe_C3	reference	fefe_C3
+WP_013121809.1	WP_013121809.1	7		fefe_C3	reference	fefe_C3
+WP_013119651.1	WP_013119651.1	7		fefe_C3	reference	fefe_C3
+WP_012996079.1	WP_012996079.1	7		fefe_C3	reference	fefe_C3
+WP_012862884.1	WP_012862884.1	7		fefe_C3	reference	fefe_C3
+WP_012645645.1	WP_012645645.1	7		fefe_C3	reference	fefe_C3
+WP_012635244.1	WP_012635244.1	7		fefe_C3	reference	fefe_C3
+WP_012635165.1	WP_012635165.1	7		fefe_C3	reference	fefe_C3
+WP_012635137.1	WP_012635137.1	7		fefe_C3	reference	fefe_C3
+WP_012582931.1	WP_012582931.1	7		fefe_C3	reference	fefe_C3
+WP_012547917.1	WP_012547917.1	7		fefe_C3	reference	fefe_C3
+WP_012532230.1	WP_012532230.1	7		fefe_C3	reference	fefe_C3
+WP_012447302.1	WP_012447302.1	7		fefe_C3	reference	fefe_C3
+WP_012414922.1	WP_012414922.1	7		fefe_C3	reference	fefe_C3
+WP_012268929.1	WP_012268929.1	7		fefe_C3	reference	fefe_C3
+WP_012065100.1	WP_012065100.1	7		fefe_C3	reference	fefe_C3
+WP_012056722.1	WP_012056722.1	7		fefe_C3	reference	fefe_C3
+WP_012003003.1	WP_012003003.1	7		fefe_C3	reference	fefe_C3
+WP_011993504.1	WP_011993504.1	7		fefe_C3	reference	fefe_C3
+WP_011940950.1	WP_011940950.1	7		fefe_C3	reference	fefe_C3
+WP_011928108.1	WP_011928108.1	7		fefe_C3	reference	fefe_C3
+WP_011878613.1	WP_011878613.1	7		fefe_C3	reference	fefe_C3
+WP_011877929.1	WP_011877929.1	7		fefe_C3	reference	fefe_C3
+WP_011698701.1	WP_011698701.1	7		fefe_C3	reference	fefe_C3
+WP_011393389.1	WP_011393389.1	7		fefe_C3	reference	fefe_C3
+WP_011393215.1	WP_011393215.1	7		fefe_C3	reference	fefe_C3
+WP_011342071.1	WP_011342071.1	7		fefe_C3	reference	fefe_C3
+WP_011341577.1	WP_011341577.1	7		fefe_C3	reference	fefe_C3
+WP_010663847.1	WP_010663847.1	7		fefe_C3	reference	fefe_C3
+WP_010250208.1	WP_010250208.1	7		fefe_C3	reference	fefe_C3
+WP_009610480.1	WP_009610480.1	7		fefe_C3	reference	fefe_C3
+WP_009137123.1	WP_009137123.1	7		fefe_C3	reference	fefe_C3
+WP_008825904.1	WP_008825904.1	7		fefe_C3	reference	fefe_C3
+WP_008709061.1	WP_008709061.1	7		fefe_C3	reference	fefe_C3
+WP_008413245.1	WP_008413245.1	7		fefe_C3	reference	fefe_C3
+WP_008410113.1	WP_008410113.1	7		fefe_C3	reference	fefe_C3
+WP_008409712.1	WP_008409712.1	7		fefe_C3	reference	fefe_C3
+WP_007863168.1	WP_007863168.1	7		fefe_C3	reference	fefe_C3
+WP_007715934.1	WP_007715934.1	7		fefe_C3	reference	fefe_C3
+WP_007290221.1	WP_007290221.1	7		fefe_C3	reference	fefe_C3
+WP_007287485.1	WP_007287485.1	7		fefe_C3	reference	fefe_C3
+WP_007287482.1	WP_007287482.1	7		fefe_C3	reference	fefe_C3
+WP_007059414.1	WP_007059414.1	7		fefe_C3	reference	fefe_C3
+WP_006928132.1	WP_006928132.1	7		fefe_C3	reference	fefe_C3
+WP_006874783.1	WP_006874783.1	7		fefe_C3	reference	fefe_C3
+WP_006784034.1	WP_006784034.1	7		fefe_C3	reference	fefe_C3
+WP_006778911.1	WP_006778911.1	7		fefe_C3	reference	fefe_C3
+WP_006574746.1	WP_006574746.1	7		fefe_C3	reference	fefe_C3
+WP_006524079.1	WP_006524079.1	7		fefe_C3	reference	fefe_C3
+WP_006442325.1	WP_006442325.1	7		fefe_C3	reference	fefe_C3
+WP_006301959.1	WP_006301959.1	7		fefe_C3	reference	fefe_C3
+WP_006059864.1	WP_006059864.1	7		fefe_C3	reference	fefe_C3
+WP_006002638.1	WP_006002638.1	7		fefe_C3	reference	fefe_C3
+WP_005996231.1	WP_005996231.1	7		fefe_C3	reference	fefe_C3
+WP_005659983.1	WP_005659983.1	7		fefe_C3	reference	fefe_C3
+WP_005487145.1	WP_005487145.1	7		fefe_C3	reference	fefe_C3
+WP_005037180.1	WP_005037180.1	7		fefe_C3	reference	fefe_C3
+WP_004629692.1	WP_004629692.1	7		fefe_C3	reference	fefe_C3
+WP_004614045.1	WP_004614045.1	7		fefe_C3	reference	fefe_C3
+WP_004608289.1	WP_004608289.1	7		fefe_C3	reference	fefe_C3
+WP_004514179.1	WP_004514179.1	7		fefe_C3	reference	fefe_C3
+WP_004081666.1	WP_004081666.1	7		fefe_C3	reference	fefe_C3
+WP_003868133.1	WP_003868133.1	7		fefe_C3	reference	fefe_C3
+WP_003543972.1	WP_003543972.1	7		fefe_C3	reference	fefe_C3
+WP_003543335.1	WP_003543335.1	7		fefe_C3	reference	fefe_C3
+WP_003507891.1	WP_003507891.1	7		fefe_C3	reference	fefe_C3
+WP_003499089.1	WP_003499089.1	7		fefe_C3	reference	fefe_C3
+WP_003493657.1	WP_003493657.1	7		fefe_C3	reference	fefe_C3
+WP_003493654.1	WP_003493654.1	7		fefe_C3	reference	fefe_C3
+WP_002849014.1	WP_002849014.1	7		fefe_C3	reference	fefe_C3
+WP_002568890.1	WP_002568890.1	7		fefe_C3	reference	fefe_C3
+AIO18481.1	AIO18481.1	7		fefe_C3	reference	fefe_C3
+AEM79842.1	AEM79842.1	7		fefe_C3	reference	fefe_C3
