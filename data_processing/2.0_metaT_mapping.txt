@@ -14,7 +14,7 @@ reformat.sh -Xmx100g idfilter=0.97 in="$i"_2302MAGs_100M.bam out="$i"_2302MAGs_1
 rm "$i".sam
 samtools sort -n -T "$i"_2302MAGs_100M_97.FILTERED.NAMESORTED -o "$i"_2302MAGs_100M_97.FILTERED.NAMESORTED.bam "$i"_2302MAGs_100M_97.FILTERED.bam -@ 20
 
-#step 5. htseq-count
+#step 5. htseq-count - get gff here: https://doi.org/10.5281/zenodo.13936221
 htseq-count -a 0 -t CDS -i ID --stranded=reverse -c htseq_2302MAGs_100M_97_REVSTRANDED.txt *NAMESORTED.bam genes.gff
 
 #step 6. clean up output file
