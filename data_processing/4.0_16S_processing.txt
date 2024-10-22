@@ -14,7 +14,7 @@ qiime tools import --type EMPPairedEndSequences --input-path reads/ --output-pat
 #############
 # demultiplex
 #############
-qiime demux emp-paired --m-barcodes-file 3.1_metadata.txt --m-barcodes-column barcode-sequence --p-no-rev-comp-mapping-barcodes --p-no-golay-error-correction --i-seqs emp-paired-end-sequences.qza  --o-per-sample-sequences demux.qza --o-error-correction-details error_corr_details.demux.qza
+qiime demux emp-paired --m-barcodes-file 4.2_metadata.txt --m-barcodes-column barcode-sequence --p-no-rev-comp-mapping-barcodes --p-no-golay-error-correction --i-seqs emp-paired-end-sequences.qza  --o-per-sample-sequences demux.qza --o-error-correction-details error_corr_details.demux.qza
 #Saved SampleData[PairedEndSequencesWithQuality] to: demux.qza
 #Saved ErrorCorrectionDetails to: error_corr_details.demux.qza
 
