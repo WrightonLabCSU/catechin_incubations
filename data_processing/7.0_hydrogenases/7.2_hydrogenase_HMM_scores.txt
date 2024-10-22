@@ -1,0 +1,16 @@
+hmm_name	A_rank	B_rank	score_type	definition
+fefe-group-a13.mafft	733.8		full	FeFe hydrogenase, H2-evolution/Electron-bifurcation
+fefe-group-a2.mafft	815.2		full	FeFe hydrogenase, H2-uptake
+fefe-group-a4.mafft	599.05		full	FeFe hydrogenase, H2-uptake/Electron-bifurcation
+fefe-group-b.mafft	440.3		full	FeFe hydrogenase, H2-evolution
+fefe-group-c1.mafft	398.25		full	FeFe hydrogenase, H2-sensing
+fefe-group-c2.mafft	483.75		full	FeFe hydrogenase, H2-sensing
+fefe-group-c3.mafft	427.05		full	FeFe hydrogenase, H2-sensing
+fe.mafft	621		full	Fe hydrogenase, Bidirectional
+nife-group-1.mafft	447.25		full	Ni-Fe Hydrogenase, H2-uptake
+nife-group-2ade.mafft	611.8		full	Ni-Fe Hydrogenase, H2-uptake
+nife-group-2bc.mafft	600.3		full	Ni-Fe Hydrogenase, H2-uptake
+nife-group-3abd.mafft	520.25		full	Ni-Fe Hydrogenase, Bidirectional
+nife-group-3c.mafft	620.65		full	Ni-Fe Hydrogenase, Electron-bifurcation
+nife-group-4a-g.mafft	458		full	Ni-Fe Hydrogenase, H2-evolving
+nife-group-4hi.mafft	447.8		full	Ni-Fe Hydrogenase, H2-uptake
