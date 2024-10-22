@@ -5,4 +5,4 @@ This repo contains scripts and commands used for data processing, analyses, and 
 
 Scripts for data processing can be found here.
 
-Scripts for generating figures can be found here.
+Scripts for generating figures can be found [here](figures).
