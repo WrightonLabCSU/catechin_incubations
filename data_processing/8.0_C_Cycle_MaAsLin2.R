@@ -8,6 +8,12 @@ library(Maaslin2)
 
 paths=read_excel("Supplementary_Data_3.xlsx",sheet="carbon_cycle_pathways")
 
+# read in metadata
+metadata=read_excel("Supplementary_Data_3.xlsx",sheet="Metatranscriptomes")
+metadata=metadata%>%
+  select(Sample,Treatment,Time)
+
+
 ##################
 ## MaAslin2 = day 7
 ##################
@@ -23,8 +29,7 @@ wide_fx_sums=wide_fx_sums[,-1]
 #Metadata file
 #Formatted with features as columns and samples as rows.
 meta=metadata%>%
-  filter(time==7)%>%
-  filter(treat!="CT")
+  filter(Time==7)
 meta=as.data.frame(meta)
 row.names(meta)=meta$sample
 
@@ -49,8 +54,7 @@ wide_fx_sums=wide_fx_sums[,-1]
 #Metadata file
 #Formatted with features as columns and samples as rows.
 meta=metadata%>%
-  filter(time==14)%>%
-  filter(treat!="CT")
+  filter(Time==14)
 meta=as.data.frame(meta)
 row.names(meta)=meta$sample
 
@@ -76,8 +80,7 @@ wide_fx_sums=wide_fx_sums[,-1]
 #Metadata file
 #Formatted with features as columns and samples as rows.
 meta=metadata%>%
-  filter(time==21)%>%
-  filter(treat!="CT")
+  filter(Time==21)
 meta=as.data.frame(meta)
 row.names(meta)=meta$sample
 
@@ -103,8 +106,7 @@ wide_fx_sums=wide_fx_sums[,-1]
 #Metadata file
 #Formatted with features as columns and samples as rows.
 meta=metadata%>%
-  filter(time==35)%>%
-  filter(treat!="CT")
+  filter(Time==35)
 meta=as.data.frame(meta)
 row.names(meta)=meta$sample
 
