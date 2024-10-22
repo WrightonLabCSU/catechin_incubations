@@ -86,6 +86,24 @@ tidy_getmm_ge22=tidy_mag_geTMM%>%
 tidy_getmm_ge22=tidy_getmm_ge22%>%
   select(sample,fasta,gene,geTMM)
 
+# focus on functions in unamended days 14, 21 and 35
+fx_ge2=tidy_getmm_ge22%>%
+  right_join(.,others,by=c("fasta"="MAG"))%>%
+  filter(treat=="unamended")%>%
+  filter(time>14)%>%
+  left_join(.,tidy_getmm_annos,by=c("fasta","sample","gene","geTMM"))%>%
+  select(short_name,fasta,gene,geTMM,ko_id,cazy_best_hit,peptidase_family,time)%>%
+  left_join(.,curated_annos,by="gene")%>%
+  mutate(best_id=ifelse(is.na(fx)==0,fx,
+                        ifelse(cazy_best_hit!="",cazy_best_hit,
+                               ifelse(ko_id!="",ko_id,
+                                      ifelse(peptidase_family!="",peptidase_family,"blank")))))%>%
+  group_by(sample,time,short_name,best_id)%>%
+  summarise(sum=sum(geTMM))%>%
+  ungroup()%>%
+  group_by(short_name,time,best_id)%>%
+  summarise(n=n())%>%
+  filter(n>=2)
 
 wide_gen_fx=fx_ge2%>%
   mutate(best_id=ifelse(substr(best_id,1,2)=="GH","GH",
