@@ -1,0 +1,83 @@
+#############
+# get set up
+#############
+mkdir reads
+mv Undetermined_S0_L001_I1_001.fastq.gz barcodes.fastq.gz
+mv Undetermined_S0_L001_R1_001.fastq.gz forward.fastq.gz
+mv Undetermined_S0_L001_R2_001.fastq.gz reverse.fastq.gz
+
+#############
+# import sequences to qiime
+#############
+qiime tools import --type EMPPairedEndSequences --input-path reads/ --output-path emp-paired-end-sequences.qza
+
+#############
+# demultiplex
+#############
+qiime demux emp-paired --m-barcodes-file 3.1_metadata.txt --m-barcodes-column barcode-sequence --p-no-rev-comp-mapping-barcodes --p-no-golay-error-correction --i-seqs emp-paired-end-sequences.qza  --o-per-sample-sequences demux.qza --o-error-correction-details error_corr_details.demux.qza
+#Saved SampleData[PairedEndSequencesWithQuality] to: demux.qza
+#Saved ErrorCorrectionDetails to: error_corr_details.demux.qza
+
+#############
+# visualize error
+#############
+qiime demux summarize --i-data demux.qza --o-visualization demux.qzv
+#Saved Visualization to: demux.qzv
+
+mkdir sample_stats
+mv demux.qzv sample_stats/
+mv error_corr_details.demux.qza sample_stats/
+
+#############
+# run dada2
+#############
+
+qiime dada2 denoise-paired --i-demultiplexed-seqs demux.qza --p-trim-left-f 0 --p-trim-left-r 0 --p-trunc-len-f 250 --p-trunc-len-r 250 --o-table table.qza --o-representative-sequences rep-seqs.qza --o-denoising-stats sample_stats/denoising-stats.qza
+#Saved FeatureTable[Frequency] to: table.qza
+#Saved FeatureData[Sequence] to: rep-seqs.qza
+#Saved SampleData[DADA2Stats] to: sample_stats/denoising-stats.qza
+
+#############
+# get denoising stats
+#############
+qiime metadata tabulate --m-input-file sample_stats/denoising-stats.qza --o-visualization sample_stats/denoising-stats.qzv
+#Saved Visualization to: sample_stats/denoising-stats.qzv
+
+#############
+# classify
+#############
+qiime feature-classifier classify-sklearn --i-classifier GTDBclassifier214.1_EMP.qza --i-reads rep-seqs.qza --o-classification taxonomy_gtdb214.qza
+#Saved FeatureData[Taxonomy] to: taxonomy_gtdb207_16S.qza
+
+
+#############
+# output taxonomy
+#############
+qiime tools export --input-path taxonomy_gtdb214.qza --output-path feature_taxonomy_out
+#Exported taxonomy_gtdb214.qza as TSVTaxonomyDirectoryFormat to directory feature_taxonomy_out
+
+#############
+# output table
+#############
+qiime tools export --input-path table.qza --output-path feature_table_out
+#Exported table.qza as BIOMV210DirFmt to directory feature_table_out
+
+cd feature_table_out/
+biom convert -i feature-table.biom -o feature_table.tsv --to-tsv --header-key taxonomy
+
+#############
+##combine feature table with taxonomy using python script
+#############
+3.2_add_tax_to_feature_table.py feature_table.tsv ../feature_taxonomy_out/taxonomy.tsv > feature_table_wGTDBtax.tsv
+
+
+#############
+##rarifying to 50k sequences
+#############
+source /home/opt/Miniconda3/miniconda3/bin/activate qiime2-2023.9
+
+qiime feature-table rarefy --i-table table.qza --p-sampling-depth 50000 --o-rarefied-table table_50k.qza
+#Saved FeatureTable[Frequency] to: table_50k.qza
+qiime tools export --input-path table_50k.qza --output-path feature_table_out_RAREFIED50k
+biom convert -i feature-table.biom -o feature_table_50k.tsv --to-tsv --header-key taxonomy
+add_tax_to_feature_table.py feature_table_50k.tsv ../feature_taxonomy_out/taxonomy.tsv > feature_table_wGTDBtax_50k.tsv
