@@ -6,7 +6,7 @@ library(purrr)
 library(BBmisc)
 library(pheatmap)
 
-Z# read in MAG-level metaT table
+# read in MAG-level metaT table
 mag_geTMM=read_excel("Supplementary_Data_3.xlsx",sheet="MAG_metatranscriptome")
 tidy_mag_geTMM=mag_geTMM%>%
   gather(-MAG,key="sample",value="mag_geTMM")
