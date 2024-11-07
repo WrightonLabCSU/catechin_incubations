@@ -61,7 +61,7 @@ pheatmap(wide_mgen_sum,scale="none",cluster_rows = FALSE,cluster_cols=FALSE,colo
 
 
 # response category heatmap
-mag_categories=read_excel("SOM_files/Supplementary_Data_4.xlsx",sheet="Classifications")
+mag_categories=read_excel("Supplementary_Data_4.xlsx",sheet="Classifications")
 
 mag_categories%>%
   separate(GTDB,into=c("d","p","c","o","f","g","s"),sep=";")%>%
@@ -80,7 +80,7 @@ mag_categories%>%
 ## plot figure 5B
 #####
 
-mgen_genes=read_excel("SOM_files/Supplementary_Data_7.xlsx",sheet="Summarized_Methanogen_MetaT")
+mgen_genes=read_excel("Supplementary_Data_7.xlsx",sheet="Summarized_Methanogen_MetaT")
 mgen_genes=mgen_genes%>%
   gather(-MAG,-GTDB,-MAG_Potential_Curation,key="set",value="substrate")%>%
   separate(set,into=c("Treatment","Time"),sep="_")%>%
@@ -181,9 +181,9 @@ substrate_data%>%
 #####
 ## plot figure 5C
 #####
-metadata=read_excel("SOM_files/Supplementary_Data_5.xlsx",sheet="Metadata")
+metadata=read_excel("Supplementary_Data_5.xlsx",sheet="Metadata")
 
-nmr=read_excel("SOM_files/Supplementary_Data_5.xlsx",sheet="NMR")
+nmr=read_excel("Supplementary_Data_5.xlsx",sheet="NMR")
 nmr=nmr%>%
   filter(metabolite=="Acetate"|metabolite=="Formate"|metabolite=="Methanol")
 nmr=nmr[,c(1,11:37)]
